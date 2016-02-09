@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aliases app="рБиблия">
+	<alias id="gen" group="ot" name="Бытие (1 Моисея)">
+		<short>быт</short>
+		<short>бытие</short>
+		<short>1м</short>
+		<short>1мои</short>
+		<short>1моис</short>
+		<short>gen</short>
+		<short>genesis</short>
+	</alias>
+	<alias id="exo" group="ot" name="Исход (2 Моисея)">
+		<short>исх</short>
+		<short>исход</short>
+		<short>2м</short>
+		<short>2мои</short>
+		<short>2моис</short>
+		<short>ex</short>
+		<short>exo</short>
+		<short>exodus</short>
+	</alias>
+	<alias id="lev" group="ot" name="Левит (3 Моисея)">
+		<short>лев</short>
+		<short>левит</short>
+		<short>3м</short>
+		<short>3мои</short>
+		<short>3моис</short>
+		<short>lev</short>
+		<short>leviticus</short>
+	</alias>
+	<alias id="num" group="ot" name="Числа (4 Моисея)">
+		<short>чис</short>
+		<short>числ</short>
+		<short>4м</short>
+		<short>4мои</short>
+		<short>4моис</short>
+		<short>numeri</short>
+		<short>numbers</short>
+	</alias>
+	<alias id="deu" group="ot" name="Второзаконие(5 Моисея)">
+		<short>втор</short>
+		<short>второзаконие</short>
+		<short>5м</short>
+		<short>5мои</short>
+		<short>5моис</short>
+		<short>deuteronomium</short>
+	</alias>
+	<alias id="jos" group="ot" name="Иисус Навин">
+		<short>нав</short>
+		<short>навина</short>
+		<short>jos</short>
+		<short>josue</short>
+	</alias>
+	<alias id="jdg" group="ot" name="Судьи">
+		<short>суд</short>
+		<short>jdg</short>
+		<short>judges</short>
+		<short>судей</short>
+	</alias>
+	<alias id="rut" group="ot" name="Руфь">
+		<short>rt</short>
+		<short>rut</short>
+		<short>руф</short>
+		<short>руфь</short>
+	</alias>
+	<alias id="1sa" group="ot" name="1 Самуила (Царств)">
+		<short>1sm</short>
+		<short>1sa</short>
+		<short>1sam</short>
+		<short>1samuel</short>
+		<short>1см</short>
+		<short>1са</short>
+		<short>1сам</short>
+		<short>1самуил</short>
+		<short>1самуила</short>
+		<short>1цар</short>
+		<short>1царств</short>
+	</alias>
+	<alias id="2sa" group="ot" name="2 Самуила (Царств)">
+		<short>2sm</short>
+		<short>2sa</short>
+		<short>2sam</short>
+		<short>2samuel</short>
+		<short>2см</short>
+		<short>2са</short>
+		<short>2сам</short>
+		<short>2самуил</short>
+		<short>2самуила</short>
+		<short>2цар</short>
+		<short>2царств</short>
+	</alias>
+	<alias id="1ki" group="ot" name="1 Царей (3 Царств)">
+		<short>1ki</short>
+		<short>1kings</short>
+		<short>1цар</short>
+		<short>1царств</short>
+		<short>1царей</short>
+	</alias>
+	<alias id="2ki" group="ot" name="2 Царей (4 Царств)">
+		<short>2ki</short>
+		<short>2kings</short>
+		<short>2цар</short>
+		<short>2царств</short>
+		<short>2царей</short>
+	</alias>
+	<alias id="1ch" group="ot" name="1 часть Паралипоменон">
+		<short>1ch</short>
+		<short>1chronicles</short>
+		<short>1пар</short>
+	</alias>
+	<alias id="2ch" group="ot" name="2 часть Паралипоменон">
+		<short>2ch</short>
+		<short>2chronicles</short>
+		<short>2пар</short>
+	</alias>
+	<alias id="ezr" group="ot" name="Ездра">
+		<short>ezr</short>
+		<short>ezra</short>
+		<short>эзд</short>
+		<short>эздры</short>
+		<short>эздра</short>
+	</alias>
+	<alias id="neh" group="ot" name="Неемия">
+		<short>ne</short>
+		<short>neh</short>
+		<short>неем</short>
+		<short>неемия</short>
+	</alias>
+	<alias id="tob" group="ot" name="Товита" type="apocrypha">
+		<short>tb</short>
+		<short>tob</short>
+		<short>тов</short>
+		<short>товита</short>
+	</alias>
+	<alias id="jdt" group="ot" name="Иудифи" type="apocrypha">
+		<short>jdt</short>
+		<short>judyty</short>
+		<short>иудифь</short>
+		<short>иуд</short>
+		<short>идф</short>
+	</alias>
+	<alias id="est" group="ot" name="Есфирь">
+		<short>est</short>
+		<short>ester</short>
+		<short>эсф</short>
+		<short>эсфири</short>
+	</alias>
+	<alias id="1ma" group="ot" name="1 Маккавейская" type="apocrypha">
+		<short>1мак</short>
+		<short>1ма</short>
+		<short>1маккавейская</short>
+	</alias>
+	<alias id="2ma" group="ot" name="2 Маккавейская" type="apocrypha">
+		<short>2мак</short>
+		<short>2ма</short>
+		<short>2маккавейская</short>
+	</alias>
+	<alias id="3ma" group="ot" name="3 Маккавейская" type="apocrypha">
+		<short>3мак</short>
+		<short>3ма</short>
+		<short>3маккавейская</short>
+	</alias>
+	<alias id="4ma" group="ot" name="4 Маккавейская" type="apocrypha">
+		<short>4мак</short>
+		<short>4ма</short>
+		<short>4маккавейская</short>
+	</alias>
+	<alias id="job" group="ot" name="Иова">
+		<short>hi</short>
+		<short>job</short>
+		<short>hiob</short>
+		<short>иов</short>
+		<short>иова</short>
+	</alias>
+	<alias id="psa" group="ot" name="Псалтирь">
+		<short>ps</short>
+		<short>psa</short>
+		<short>psalms</short>
+		<short>пс</short>
+		<short>псал</short>
+	</alias>
+	<alias id="pro" group="ot" name="Притчи (Притчей Соломоновых)">
+		<short>pro</short>
+		<short>proverbs</short>
+		<short>прит</short>
+		<short>притч</short>
+		<short>притчи</short>
+		<short>притчей</short>
+	</alias>
+	<alias id="ecc" group="ot" name="Екклесиаст">
+		<short>koh</short>
+		<short>ecc</short>
+		<short>kohelet</short>
+		<short>эккл</short>
+		<short>экклесиаст</short>
+		<short>экклесиаста</short>
+		<short>проп</short>
+		<short>проповедника</short>
+	</alias>
+	<alias id="sol" group="ot" name="Песнь Песней">
+		<short>sol</short>
+		<short>песн</short>
+	</alias>
+	<alias id="wis" group="ot" name="Премудрость Соломона" type="apocrypha">
+		<short>wis</short>
+		<short>прем</short>
+	</alias>
+	<alias id="sip" group="ot" name="Пролог Иисуса, сына Сирахова" type="apocrypha">
+		<short>syr0</short>
+		<short>sip</short>
+		<short>сир0</short>
+		<short>сирах0</short>
+	</alias>
+	<alias id="sir" group="ot" name="Премудрости Иисуса, сына Сирахова (Сирах)" type="apocrypha">
+		<short>syr</short>
+		<short>sir</short>
+		<short>сир</short>
+		<short>сирах</short>
+	</alias>
+	<alias id="pss" group="ot" name="псалмы Соломона" type="apocrypha">
+		<short>pss</short>
+		<short>псс</short>
+	</alias>
+	<alias id="isa" group="ot" name="Исаия">
+		<short>isa</short>
+		<short>ис</short>
+		<short>исаи</short>
+	</alias>
+	<alias id="jer" group="ot" name="Иеремия">
+		<short>jr</short>
+		<short>jer</short>
+		<short>иер</short>
+		<short>иеремия</short>
+	</alias>
+	<alias id="lam" group="ot" name="Плач Иеремии">
+		<short>lm</short>
+		<short>lam</short>
+		<short>плач</short>
+	</alias>
+	<alias id="bar" group="ot" name="Варуха (Баруха)" type="apocrypha">
+		<short>ba</short>
+		<short>bar</short>
+		<short>baruh</short>
+		<short>вар</short>
+		<short>бар</short>
+	</alias>
+	<alias id="eze" group="ot" name="Иезекииля">
+		<short>ez</short>
+		<short>eze</short>
+		<short>ezech</short>
+		<short>иез</short>
+	</alias>
+	<alias id="dan" group="ot" name="Даниила">
+		<short>dn</short>
+		<short>dan</short>
+		<short>daniel</short>
+		<short>дн</short>
+		<short>дан</short>
+	</alias>
+	<alias id="hos" group="ot" name="Осии">
+		<short>oz</short>
+		<short>hos</short>
+		<short>oze</short>
+		<short>ос</short>
+		<short>осии</short>
+	</alias>
+	<alias id="joe" group="ot" name="Иоиля">
+		<short>jl</short>
+		<short>joe</short>
+		<short>joel</short>
+		<short>иоил</short>
+	</alias>
+	<alias id="amo" group="ot" name="Амоса">
+		<short>am</short>
+		<short>amo</short>
+		<short>amos</short>
+		<short>ам</short>
+		<short>амо</short>
+		<short>амос</short>
+	</alias>
+	<alias id="oba" group="ot" name="Авдия">
+		<short>ab</short>
+		<short>oba</short>
+		<short>abd</short>
+		<short>авд</short>
+		<short>авдия</short>
+	</alias>
+	<alias id="jon" group="ot" name="Ионы">
+		<short>jon</short>
+		<short>ион</short>
+		<short>иона</short>
+		<short>ионы</short>
+	</alias>
+	<alias id="mic" group="ot" name="Михея">
+		<short>mi</short>
+		<short>mic</short>
+		<short>mich</short>
+		<short>мих</short>
+		<short>михея</short>
+	</alias>
+	<alias id="nah" group="ot" name="Наума">
+		<short>na</short>
+		<short>nah</short>
+		<short>nahum</short>
+		<short>на</short>
+		<short>нау</short>
+		<short>наум</short>
+		<short>наума</short>
+	</alias>
+	<alias id="hab" group="ot" name="Аввакума">
+		<short>ha</short>
+		<short>hab</short>
+		<short>habakuk</short>
+		<short>ав</short>
+		<short>аввакум</short>
+		<short>аввакума</short>
+	</alias>
+	<alias id="zep" group="ot" name="Софонии">
+		<short>zep</short>
+		<short>со</short>
+		<short>соф</short>
+		<short>софонии</short>
+	</alias>
+	<alias id="hag" group="ot" name="Аггея">
+		<short>ag</short>
+		<short>hag</short>
+		<short>agg</short>
+		<short>агг</short>
+		<short>аг</short>
+	</alias>
+	<alias id="zec" group="ot" name="Захарии">
+		<short>za</short>
+		<short>zec</short>
+		<short>за</short>
+		<short>зах</short>
+	</alias>
+	<alias id="mal" group="ot" name="Малахии">
+		<short>ml</short>
+		<short>mal</short>
+		<short>мал</short>
+	</alias>
+	<alias id="mat" group="nt" name="Евангелие от Матфея">
+		<short>mt</short>
+		<short>мф</short>
+		<short>матф</short>
+		<short>матфея</short>
+	</alias>
+	<alias id="mar" group="nt" name="Евангелие от Марка">
+		<short>mk</short>
+		<short>мр</short>
+		<short>марк</short>
+		<short>марка</short>
+	</alias>
+	<alias id="luk" group="nt" name="Евангелие от Луки">
+		<short>lk</short>
+		<short>luk</short>
+		<short>лк</short>
+		<short>лук</short>
+		<short>луки</short>
+	</alias>
+	<alias id="joh" group="nt" name="Евангелие от Иоанна">
+		<short>j</short>
+		<short>jn</short>
+		<short>joh</short>
+		<short>ин</short>
+		<short>иоан</short>
+	</alias>
+	<alias id="act" group="nt" name="Деяния апостолов">
+		<short>деян</short>
+		<short>act</short>
+		<short>деяния</short>
+	</alias>
+	<alias id="rom" group="nt" name="Послание к Римлянам">
+		<short>rom</short>
+		<short>рим</short>
+	</alias>
+	<alias id="1co" group="nt" name="1 Послание к Коринфянам">
+		<short>1ko</short>
+		<short>1kor</short>
+		<short>1co</short>
+		<short>1кор</short>
+	</alias>
+	<alias id="2co" group="nt" name="2 Послание к Коринфянам">
+		<short>2ko</short>
+		<short>2kor</short>
+		<short>2co</short>
+		<short>2кор</short>
+	</alias>
+	<alias id="gal" group="nt" name="Послание к Галатам">
+		<short>gal</short>
+		<short>га</short>
+		<short>гал</short>
+	</alias>
+	<alias id="eph" group="nt" name="Послание к Ефесянам">
+		<short>eph</short>
+		<short>еф</short>
+		<short>ефес</short>
+	</alias>
+	<alias id="phi" group="nt" name="Послание к Филиппийцам">
+		<short>phl</short>
+		<short>phil</short>
+		<short>фил</short>
+		<short>флп</short>
+		<short>филип</short>
+	</alias>
+	<alias id="col" group="nt" name="Послание к Колоссянам">
+		<short>кол</short>
+		<short>col</short>
+	</alias>
+	<alias id="1th" group="nt" name="1 Послание к Фессалоникийцам">
+		<short>1фес</short>
+		<short>1th</short>
+	</alias>
+	<alias id="2th" group="nt" name="2 Послание к Фессалоникийцам">
+		<short>2фес</short>
+		<short>2th</short>
+	</alias>
+	<alias id="1ti" group="nt" name="1 Послание к Тимофею">
+		<short>1tm</short>
+		<short>1ti</short>
+		<short>1tим</short>
+		<short>1тимофей</short>
+	</alias>
+	<alias id="2ti" group="nt" name="2 Послание к Тимофею">
+		<short>2tm</short>
+		<short>2ti</short>
+		<short>2tим</short>
+		<short>2тимофей</short>
+	</alias>
+	<alias id="tit" group="nt" name="Послание к Титу">
+		<short>tt</short>
+		<short>tit</short>
+		<short>тит</short>
+	</alias>
+	<alias id="phm" group="nt" name="Послание к Филимону">
+		<short>phm</short>
+		<short>флм</short>
+		<short>филим</short>
+	</alias>
+	<alias id="heb" group="nt" name="Послание к Евреям">
+		<short>hbr</short>
+		<short>heb</short>
+		<short>hebr</short>
+		<short>евр</short>
+	</alias>
+	<alias id="jam" group="nt" name="Послание Иакова">
+		<short>jk</short>
+		<short>jam</short>
+		<short>jak</short>
+		<short>иак</short>
+	</alias>
+	<alias id="1pe" group="nt" name="1 Послание Петра">
+		<short>1p</short>
+		<short>1pe</short>
+		<short>1ptr</short>
+		<short>1пет</short>
+		<short>1петра</short>
+	</alias>
+	<alias id="2pe" group="nt" name="2 Послание Петра">
+		<short>2p</short>
+		<short>2pe</short>
+		<short>2ptr</short>
+		<short>2пет</short>
+		<short>2петра</short>
+	</alias>
+	<alias id="1jo" group="nt" name="1 Послание Иоанна">
+		<short>1j</short>
+		<short>1jhn</short>
+		<short>1jn</short>
+		<short>1jo</short>
+		<short>1ин</short>
+		<short>1иоан</short>
+	</alias>
+	<alias id="2jo" group="nt" name="2 Послание Иоанна">
+		<short>2j</short>
+		<short>2jhn</short>
+		<short>2jn</short>
+		<short>2jo</short>
+		<short>2ин</short>
+		<short>2иоан</short>
+	</alias>
+	<alias id="3jo" group="nt" name="3 Послание Иоанна">
+		<short>3j</short>
+		<short>3jhn</short>
+		<short>3jn</short>
+		<short>3jo</short>
+		<short>3ин</short>
+		<short>3иоан</short>
+	</alias>
+	<alias id="jud" group="nt" name="Послание Иуды">
+		<short>jud</short>
+		<short>jude</short>
+		<short>иуд</short>
+	</alias>
+	<alias id="rev" group="nt" name="Откровение Иоанна Богослова (Апокалипсис)">
+		<short>ap</short>
+		<short>obj</short>
+		<short>rev</short>
+		<short>откр</short>
+		<short>апок</short>
+	</alias>
+	<alias id="epj" group="nt" name="Послание Иеремии" type="apocrypha">
+		<short>epj</short>
+		<short>иер0</short>
+	</alias>
+	<alias id="sus" group="nt" name="Сусанна и старцы" type="apocrypha">
+		<short>sus</short>
+		<short>сус</short>
+		<short>сис</short>
+	</alias>
+	<alias id="bel" group="nt" name="Бель" type="apocrypha">
+		<short>bel</short>
+		<short>бел</short>
+		<short>бель</short>
+	</alias>
+	<alias id="pra" group="nt" name="Молитва Озия" type="apocrypha">
+		<short>pra</short>
+		<short>оз</short>
+		<short>озия</short>
+	</alias>
+	<alias id="prm" group="nt" name="Молитва Манассия" type="apocrypha">
+		<short>prm</short>
+		<short>манас</short>
+		<short>мнс</short>
+	</alias>
+	<alias id="lao" group="nt" name="Лаодикия" type="apocrypha">
+		<short>lao</short>
+		<short>лао</short>
+	</alias>
+	<alias id="4es" group="nt" name="4 Ездры" type="apocrypha">
+		<short>4ez</short>
+		<short>4es</short>
+		<short>4ezd</short>
+		<short>4ezdr</short>
+		<short>4ezdr</short>
+		<short>4эз</short>
+		<short>4эздр</short>
+		<short>4эздра</short>
+		<short>4эздры</short>
+	</alias>
+</aliases>
