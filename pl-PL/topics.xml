@@ -1,0 +1,1396 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<topics app="rBiblia">
+	<topic name="Jezus">
+		<topic name="jest twoim Zbawicielem">
+			<location book="tit" chapter="3" verse="5" range="6" />
+			<location book="1jo" chapter="4" verse="14" />
+			<location book="luk" chapter="1" verse="47" />
+			<location book="joh" chapter="4" verse="42" />
+			<location book="luk" chapter="19" verse="10" />
+			<location book="joh" chapter="3" verse="16" />
+			<location book="rom" chapter="3" verse="24" range="25" />
+			<location book="eph" chapter="2" verse="4" range="5" />
+			<location book="joh" chapter="6" verse="47" />
+			<location book="eph" chapter="2" verse="8" range="9" />
+			<location book="rom" chapter="10" verse="9" />
+			<location book="2co" chapter="5" verse="17" />
+			<location book="2ti" chapter="1" verse="9" />
+			<location book="psa" chapter="106" verse="8" />
+		</topic>
+		<topic name="jest twoim Panem">
+			<location book="phi" chapter="2" verse="9" range="11" />
+			<location book="rom" chapter="10" verse="9" range="10" />
+			<location book="luk" chapter="6" verse="46" />
+			<location book="rom" chapter="6" verse="14" range="16" />
+			<location book="rom" chapter="12" verse="1" range="2" />
+			<location book="1co" chapter="6" verse="19" range="20" />
+			<location book="act" chapter="2" verse="36" />
+			<location book="rom" chapter="14" verse="8" />
+			<location book="psa" chapter="68" verse="19" />
+			<location book="psa" chapter="73" verse="28" />
+			<location book="psa" chapter="86" verse="5" />
+			<location book="isa" chapter="50" verse="7" />
+			<location book="mar" chapter="12" verse="30" />
+			<location book="act" chapter="2" verse="25" />
+		</topic>
+		<topic name="jest twoją Miłością">
+			<location book="rom" chapter="5" verse="8" />
+			<location book="joh" chapter="3" verse="16" />
+			<location book="1jo" chapter="4" verse="7" range="12" />
+			<location book="1jo" chapter="4" verse="16" range="19" />
+			<location book="joh" chapter="15" verse="9" range="17" />
+			<location book="eph" chapter="3" verse="17" range="19" />
+			<location book="pro" chapter="8" verse="17" />
+			<location book="jer" chapter="31" verse="3" />
+			<location book="hos" chapter="2" verse="19" />
+			<location book="joh" chapter="14" verse="21" />
+			<location book="psa" chapter="42" verse="8" />
+			<location book="1co" chapter="13" verse="13" />
+			<location book="rom" chapter="8" verse="38" range="39" />
+		</topic>
+		<topic name="jest dla ciebie Pokojem">
+			<location book="isa" chapter="26" verse="3" />
+			<location book="eph" chapter="2" verse="13" range="14" />
+			<location book="isa" chapter="9" verse="6" range="7" />
+			<location book="rom" chapter="16" verse="20" />
+			<location book="isa" chapter="26" verse="12" />
+			<location book="phi" chapter="4" verse="9" />
+			<location book="rom" chapter="5" verse="1" />
+			<location book="col" chapter="3" verse="15" />
+			<location book="psa" chapter="4" verse="8" />
+			<location book="psa" chapter="29" verse="11" />
+			<location book="joh" chapter="14" verse="27" />
+			<location book="phi" chapter="4" verse="6" range="7" />
+		</topic>
+		<topic name="jest twoim Przebaczeniem">
+			<location book="eph" chapter="1" verse="6" range="7" />
+			<location book="psa" chapter="85" verse="2" />
+			<location book="2co" chapter="5" verse="17" />
+			<location book="psa" chapter="103" verse="12" />
+			<location book="1jo" chapter="2" verse="1" />
+			<location book="1jo" chapter="1" verse="9" />
+			<location book="heb" chapter="8" verse="12" />
+			<location book="isa" chapter="55" verse="7" />
+			<location book="col" chapter="3" verse="13" />
+			<location book="mar" chapter="11" verse="25" />
+			<location book="col" chapter="2" verse="13" />
+			<location book="jer" chapter="33" verse="8" />
+			<location book="isa" chapter="1" verse="18" />
+			<location book="isa" chapter="43" verse="25" />
+			<location book="psa" chapter="32" verse="1" range="2" />
+		</topic>
+		<topic name="jest twoją Sprawiedliwością">
+			<location book="2co" chapter="5" verse="21" />
+			<location book="1co" chapter="1" verse="30" />
+			<location book="phi" chapter="3" verse="9" />
+			<location book="gal" chapter="3" verse="6" range="7" />
+			<location book="rom" chapter="3" verse="22" />
+			<location book="rom" chapter="3" verse="24" range="26" />
+			<location book="rom" chapter="4" verse="5" />
+			<location book="rom" chapter="5" verse="17" />
+			<location book="tit" chapter="3" verse="5" />
+			<location book="rom" chapter="8" verse="3" range="4" />
+			<location book="rom" chapter="9" verse="30" />
+			<location book="rom" chapter="8" verse="10" />
+			<location book="rom" chapter="8" verse="29" range="30" />
+			<location book="isa" chapter="32" verse="17" />
+			<location book="isa" chapter="54" verse="14" range="17" />
+			<location book="rom" chapter="10" verse="10" />
+		</topic>
+		<topic name="jest twoim Wybawicielem">
+			<location book="isa" chapter="61" verse="1" />
+			<location book="joh" chapter="8" verse="32" range="36" />
+			<location book="rom" chapter="8" verse="2" />
+			<location book="2co" chapter="3" verse="17" />
+			<location book="rom" chapter="6" verse="22" />
+			<location book="isa" chapter="9" verse="4" />
+			<location book="luk" chapter="4" verse="18" />
+			<location book="luk" chapter="10" verse="19" />
+			<location book="mar" chapter="16" verse="17" />
+			<location book="rev" chapter="12" verse="11" />
+			<location book="1jo" chapter="4" verse="1" range="4" />
+		</topic>
+		<topic name="jest twoim Przyjacielem">
+			<location book="1jo" chapter="1" verse="3" />
+			<location book="1co" chapter="1" verse="9" />
+			<location book="rev" chapter="3" verse="20" />
+			<location book="joh" chapter="14" verse="23" />
+			<location book="zec" chapter="2" verse="10" />
+			<location book="mat" chapter="18" verse="20" />
+			<location book="joh" chapter="14" verse="21" />
+			<location book="joh" chapter="15" verse="4" range="7" />
+			<location book="phi" chapter="2" verse="1" range="2" />
+			<location book="psa" chapter="119" verse="63" />
+			<location book="eph" chapter="5" verse="2" />
+			<location book="eph" chapter="5" verse="19" />
+			<location book="eph" chapter="5" verse="30" />
+			<location book="1jo" chapter="1" verse="5" range="7" />
+		</topic>
+		<topic name="jest dla ciebie Wzorem">
+			<location book="1pe" chapter="2" verse="21" />
+			<location book="1jo" chapter="2" verse="6" />
+			<location book="eph" chapter="5" verse="1" range="2" />
+			<location book="phi" chapter="2" verse="5" range="8" />
+			<location book="mar" chapter="10" verse="43" range="45" />
+			<location book="joh" chapter="13" verse="14" range="15" />
+			<location book="joh" chapter="13" verse="34" />
+			<location book="1jo" chapter="3" verse="16" />
+			<location book="rom" chapter="15" verse="5" range="7" />
+			<location book="col" chapter="3" verse="13" />
+			<location book="heb" chapter="12" verse="2" range="3" />
+		</topic>
+		<topic name="jest twoim Towarzyszem">
+			<location book="psa" chapter="119" verse="63" />
+			<location book="pro" chapter="18" verse="24" />
+			<location book="heb" chapter="13" verse="5" />
+			<location book="joh" chapter="15" verse="15" range="16" />
+			<location book="1jo" chapter="1" verse="7" />
+			<location book="isa" chapter="54" verse="10" />
+			<location book="rev" chapter="3" verse="20" />
+			<location book="jam" chapter="4" verse="8" />
+			<location book="psa" chapter="27" verse="10" />
+			<location book="joh" chapter="15" verse="12" range="14" />
+			<location book="1co" chapter="1" verse="9" />
+			<location book="1jo" chapter="1" verse="3" />
+			<location book="joh" chapter="14" verse="18" />
+		</topic>
+		<topic name="jest twoim Bratem">
+			<location book="mat" chapter="12" verse="50" />
+			<location book="heb" chapter="2" verse="11" />
+			<location book="rom" chapter="8" verse="29" />
+			<location book="gal" chapter="3" verse="26" />
+			<location book="joh" chapter="1" verse="12" />
+			<location book="eph" chapter="2" verse="19" />
+			<location book="1jo" chapter="3" verse="1" />
+			<location book="gal" chapter="4" verse="6" range="7" />
+			<location book="rom" chapter="8" verse="14" />
+			<location book="1jo" chapter="3" verse="2" />
+		</topic>
+		<topic name="jest twoim Opiekunem">
+			<location book="isa" chapter="43" verse="2" />
+			<location book="psa" chapter="3" verse="3" />
+			<location book="2ch" chapter="16" verse="9" />
+			<location book="deu" chapter="1" verse="30" />
+			<location book="2th" chapter="3" verse="3" />
+			<location book="exo" chapter="23" verse="22" />
+			<location book="1sa" chapter="2" verse="9" />
+			<location book="psa" chapter="61" verse="3" />
+			<location book="zep" chapter="3" verse="17" />
+			<location book="1pe" chapter="3" verse="12" range="13" />
+			<location book="deu" chapter="33" verse="27" />
+			<location book="psa" chapter="91" verse="7" />
+			<location book="isa" chapter="59" verse="19" />
+		</topic>
+		<topic name="jest twoją Ochroną">
+			<location book="1pe" chapter="1" verse="3" range="5" />
+			<location book="joh" chapter="10" verse="27" range="29" />
+			<location book="rom" chapter="8" verse="38" range="39" />
+			<location book="phi" chapter="1" verse="6" />
+			<location book="2th" chapter="3" verse="3" />
+			<location book="joh" chapter="6" verse="37" />
+			<location book="jud" chapter="1" verse="24" range="25" />
+			<location book="isa" chapter="40" verse="26" />
+			<location book="psa" chapter="23" verse="6" />
+			<location book="joh" chapter="6" verse="27" />
+			<location book="2co" chapter="1" verse="22" />
+			<location book="eph" chapter="1" verse="13" />
+			<location book="eph" chapter="4" verse="30" />
+			<location book="heb" chapter="6" verse="11" range="12" />
+			<location book="heb" chapter="6" verse="18" range="20" />
+		</topic>
+		<topic name="zapewni ci wszystko">
+			<location book="2co" chapter="9" verse="8" />
+			<location book="phi" chapter="4" verse="19" />
+			<location book="mar" chapter="11" verse="24" />
+			<location book="2co" chapter="3" verse="5" />
+			<location book="phi" chapter="4" verse="13" />
+			<location book="eph" chapter="1" verse="19" />
+			<location book="2co" chapter="12" verse="9" />
+			<location book="rom" chapter="8" verse="37" />
+			<location book="eph" chapter="1" verse="3" />
+			<location book="joh" chapter="15" verse="7" />
+			<location book="joh" chapter="14" verse="13" />
+			<location book="joh" chapter="16" verse="23" range="24" />
+			<location book="mat" chapter="21" verse="22" />
+			<location book="rom" chapter="8" verse="32" />
+			<location book="2pe" chapter="1" verse="3" range="4" />
+			<location book="psa" chapter="103" verse="2" range="4" />
+		</topic>
+		<topic name="jest twoim Spełnieniem">
+			<location book="mat" chapter="5" verse="6" />
+			<location book="psa" chapter="37" verse="4" />
+			<location book="psa" chapter="107" verse="9" />
+			<location book="psa" chapter="103" verse="5" />
+			<location book="joe" chapter="2" verse="26" />
+			<location book="joh" chapter="6" verse="35" />
+			<location book="psa" chapter="22" verse="26" />
+			<location book="joh" chapter="4" verse="13" range="14" />
+			<location book="joe" chapter="2" verse="19" />
+			<location book="isa" chapter="58" verse="10" range="11" />
+			<location book="psa" chapter="145" verse="15" range="16" />
+			<location book="isa" chapter="55" verse="2" />
+			<location book="jer" chapter="31" verse="14" />
+			<location book="psa" chapter="63" verse="5" range="6" />
+			<location book="rom" chapter="8" verse="32" />
+		</topic>
+		<topic name="jest dla ciebie Wszystkim">
+			<location book="phi" chapter="4" verse="19" />
+			<location book="phi" chapter="4" verse="13" />
+			<location book="rom" chapter="8" verse="37" />
+			<location book="1co" chapter="3" verse="21" range="23" />
+			<location book="joh" chapter="15" verse="7" />
+			<location book="joh" chapter="16" verse="23" range="24" />
+			<location book="mat" chapter="21" verse="22" />
+			<location book="mar" chapter="11" verse="24" />
+			<location book="eph" chapter="1" verse="3" />
+			<location book="1jo" chapter="3" verse="22" />
+			<location book="2co" chapter="5" verse="21" />
+			<location book="phi" chapter="1" verse="21" />
+			<location book="2co" chapter="5" verse="17" />
+			<location book="eph" chapter="3" verse="20" range="21" />
+			<location book="2co" chapter="9" verse="8" />
+			<location book="psa" chapter="68" verse="19" />
+		</topic>
+	</topic>
+	<topic name="Biblia">
+		<topic name="jest twoim Nieomylnym Autorytetem">
+			<location book="2ti" chapter="3" verse="16" />
+			<location book="2pe" chapter="1" verse="20" range="21" />
+			<location book="heb" chapter="4" verse="12" />
+			<location book="isa" chapter="55" verse="10" range="11" />
+			<location book="joh" chapter="5" verse="39" />
+			<location book="1pe" chapter="1" verse="23" />
+			<location book="psa" chapter="33" verse="9" />
+			<location book="pro" chapter="30" verse="5" />
+			<location book="psa" chapter="119" verse="89" />
+			<location book="psa" chapter="33" verse="6" />
+			<location book="2co" chapter="1" verse="20" />
+			<location book="1pe" chapter="1" verse="24" range="25" />
+			<location book="mar" chapter="13" verse="31" />
+		</topic>
+		<topic name="jest twoim Aktem Dziedziczenia">
+			<location book="act" chapter="20" verse="32" />
+			<location book="act" chapter="26" verse="18" />
+			<location book="rom" chapter="8" verse="16" range="17" />
+			<location book="eph" chapter="1" verse="11" range="14" />
+			<location book="gal" chapter="3" verse="29" />
+			<location book="eph" chapter="3" verse="6" />
+			<location book="joh" chapter="14" verse="2" range="3" />
+			<location book="heb" chapter="11" verse="16" />
+			<location book="mat" chapter="25" verse="34" />
+			<location book="2co" chapter="1" verse="20" />
+			<location book="1pe" chapter="1" verse="3" range="4" />
+			<location book="1co" chapter="2" verse="9" />
+			<location book="2pe" chapter="1" verse="4" />
+			<location book="col" chapter="3" verse="23" range="24" />
+			<location book="psa" chapter="37" verse="34" />
+		</topic>
+		<topic name="jest twoim Życiowym Przewodnikiem">
+			<location book="psa" chapter="119" verse="105" />
+			<location book="pro" chapter="6" verse="22" range="23" />
+			<location book="psa" chapter="119" verse="11" />
+			<location book="psa" chapter="19" verse="11" />
+			<location book="psa" chapter="119" verse="9" />
+			<location book="joh" chapter="8" verse="31" range="32" />
+			<location book="psa" chapter="119" verse="24" />
+			<location book="2pe" chapter="1" verse="4" />
+			<location book="psa" chapter="37" verse="23" />
+			<location book="psa" chapter="32" verse="8" />
+			<location book="psa" chapter="23" verse="3" />
+			<location book="isa" chapter="30" verse="21" />
+			<location book="luk" chapter="1" verse="70" />
+			<location book="luk" chapter="1" verse="79" />
+			<location book="jos" chapter="1" verse="8" />
+			<location book="2ti" chapter="3" verse="16" range="17" />
+		</topic>
+		<topic name="jest twoją Stabilnością">
+			<location book="1pe" chapter="1" verse="23" range="25" />
+			<location book="mat" chapter="24" verse="35" />
+			<location book="psa" chapter="119" verse="89" />
+			<location book="isa" chapter="40" verse="8" />
+			<location book="mat" chapter="5" verse="18" />
+			<location book="1ki" chapter="8" verse="56" />
+			<location book="eze" chapter="12" verse="25" />
+			<location book="pro" chapter="4" verse="20" range="22" />
+			<location book="rom" chapter="8" verse="31" />
+			<location book="deu" chapter="33" verse="27" />
+			<location book="psa" chapter="40" verse="2" />
+			<location book="psa" chapter="46" verse="1" />
+			<location book="pro" chapter="18" verse="10" />
+			<location book="2th" chapter="3" verse="3" />
+			<location book="jud" chapter="1" verse="24" range="25" />
+		</topic>
+		<topic name="jest twoją Siłą">
+			<location book="dan" chapter="10" verse="19" />
+			<location book="psa" chapter="119" verse="28" />
+			<location book="isa" chapter="30" verse="15" />
+			<location book="eph" chapter="3" verse="16" range="17" />
+			<location book="col" chapter="1" verse="10" range="12" />
+			<location book="isa" chapter="40" verse="31" />
+			<location book="neh" chapter="8" verse="10" />
+			<location book="phi" chapter="4" verse="13" />
+			<location book="isa" chapter="41" verse="10" />
+			<location book="pro" chapter="8" verse="14" />
+			<location book="isa" chapter="40" verse="29" />
+			<location book="psa" chapter="18" verse="2" />
+			<location book="eph" chapter="6" verse="13" />
+			<location book="psa" chapter="27" verse="1" />
+			<location book="eph" chapter="6" verse="10" />
+		</topic>
+	</topic>
+	<topic name="Co robić, gdy czujesz się...">
+		<topic name="Zniechęcony">
+			<location book="isa" chapter="51" verse="11" />
+			<location book="1pe" chapter="1" verse="6" range="9" />
+			<location book="phi" chapter="4" verse="6" range="8" />
+			<location book="psa" chapter="138" verse="7" />
+			<location book="joh" chapter="14" verse="1" />
+			<location book="joh" chapter="14" verse="27" />
+			<location book="2co" chapter="4" verse="8" range="9" />
+			<location book="heb" chapter="10" verse="35" range="36" />
+			<location book="phi" chapter="1" verse="6" />
+			<location book="gal" chapter="6" verse="9" />
+			<location book="psa" chapter="31" verse="24" />
+			<location book="psa" chapter="24" verse="1" range="14" />
+		</topic>
+		<topic name="Zaniepokojony">
+			<location book="1pe" chapter="5" verse="7" />
+			<location book="joh" chapter="14" verse="1" />
+			<location book="phi" chapter="4" verse="6" range="7" />
+			<location book="col" chapter="3" verse="15" />
+			<location book="isa" chapter="26" verse="3" />
+			<location book="psa" chapter="4" verse="8" />
+			<location book="phi" chapter="4" verse="19" />
+			<location book="mat" chapter="6" verse="25" range="34" />
+			<location book="rom" chapter="8" verse="6" />
+			<location book="pro" chapter="3" verse="24" />
+			<location book="heb" chapter="4" verse="3" />
+			<location book="heb" chapter="4" verse="9" />
+			<location book="psa" chapter="119" verse="165" />
+			<location book="psa" chapter="91" verse="1" range="2" />
+			<location book="joh" chapter="14" verse="27" />
+		</topic>
+		<topic name="Samotny">
+			<location book="heb" chapter="13" verse="5" />
+			<location book="mat" chapter="28" verse="20" />
+			<location book="1sa" chapter="12" verse="22" />
+			<location book="isa" chapter="41" verse="10" />
+			<location book="joh" chapter="14" verse="18" />
+			<location book="joh" chapter="14" verse="1" />
+			<location book="deu" chapter="33" verse="27" />
+			<location book="psa" chapter="147" verse="3" />
+			<location book="rom" chapter="8" verse="35" range="39" />
+			<location book="deu" chapter="4" verse="31" />
+			<location book="deu" chapter="31" verse="6" />
+			<location book="psa" chapter="27" verse="10" />
+			<location book="isa" chapter="54" verse="10" />
+			<location book="1pe" chapter="5" verse="7" />
+			<location book="psa" chapter="46" verse="1" />
+		</topic>
+		<topic name="Przygnębiony">
+			<location book="psa" chapter="34" verse="17" />
+			<location book="isa" chapter="43" verse="2" />
+			<location book="psa" chapter="30" verse="5" />
+			<location book="1pe" chapter="4" verse="12" range="13" />
+			<location book="isa" chapter="61" verse="3" />
+			<location book="isa" chapter="40" verse="31" />
+			<location book="2co" chapter="1" verse="3" range="4" />
+			<location book="rom" chapter="8" verse="38" range="39" />
+			<location book="phi" chapter="4" verse="8" />
+			<location book="psa" chapter="147" verse="3" />
+			<location book="isa" chapter="41" verse="10" />
+			<location book="1pe" chapter="5" verse="6" range="7" />
+			<location book="luk" chapter="18" verse="1" />
+			<location book="neh" chapter="8" verse="10" />
+			<location book="isa" chapter="51" verse="11" />
+		</topic>
+		<topic name="Niezadowolony">
+			<location book="psa" chapter="34" verse="10" />
+			<location book="isa" chapter="44" verse="3" />
+			<location book="psa" chapter="37" verse="3" />
+			<location book="phi" chapter="4" verse="12" range="13" />
+			<location book="psa" chapter="63" verse="1" range="5" />
+			<location book="pro" chapter="12" verse="14" />
+			<location book="jer" chapter="31" verse="14" />
+			<location book="joe" chapter="2" verse="26" />
+			<location book="psa" chapter="103" verse="1" range="5" />
+			<location book="psa" chapter="107" verse="9" />
+			<location book="isa" chapter="12" verse="2" range="3" />
+			<location book="2co" chapter="9" verse="8" />
+			<location book="isa" chapter="55" verse="1" />
+			<location book="mat" chapter="5" verse="6" />
+		</topic>
+		<topic name="Potępiony">
+			<location book="rom" chapter="8" verse="1" />
+			<location book="psa" chapter="103" verse="10" range="12" />
+			<location book="2co" chapter="5" verse="17" />
+			<location book="joh" chapter="3" verse="17" range="18" />
+			<location book="joh" chapter="5" verse="24" />
+			<location book="heb" chapter="8" verse="12" />
+			<location book="isa" chapter="43" verse="25" />
+			<location book="isa" chapter="55" verse="7" />
+			<location book="psa" chapter="32" verse="5" />
+			<location book="1jo" chapter="1" verse="9" />
+			<location book="psa" chapter="32" verse="1" />
+			<location book="rev" chapter="12" verse="10" range="11" />
+			<location book="joh" chapter="8" verse="10" range="11" />
+			<location book="jer" chapter="31" verse="34" />
+			<location book="heb" chapter="10" verse="22" />
+			<location book="2ch" chapter="30" verse="9" />
+		</topic>
+		<topic name="Zmieszany">
+			<location book="1co" chapter="14" verse="33" />
+			<location book="2ti" chapter="1" verse="7" />
+			<location book="jam" chapter="3" verse="16" range="18" />
+			<location book="isa" chapter="50" verse="7" />
+			<location book="1pe" chapter="4" verse="12" range="13" />
+			<location book="jam" chapter="1" verse="5" />
+			<location book="pro" chapter="3" verse="5" range="6" />
+			<location book="psa" chapter="32" verse="8" />
+			<location book="psa" chapter="119" verse="165" />
+			<location book="psa" chapter="55" verse="22" />
+			<location book="isa" chapter="43" verse="2" />
+			<location book="isa" chapter="40" verse="29" />
+			<location book="isa" chapter="30" verse="21" />
+			<location book="phi" chapter="4" verse="6" range="7" />
+		</topic>
+		<topic name="Kuszony">
+			<location book="1co" chapter="10" verse="12" range="13" />
+			<location book="heb" chapter="4" verse="14" range="16" />
+			<location book="heb" chapter="2" verse="18" />
+			<location book="2pe" chapter="2" verse="9" />
+			<location book="rom" chapter="6" verse="14" />
+			<location book="psa" chapter="119" verse="11" />
+			<location book="jam" chapter="1" verse="13" range="14" />
+			<location book="pro" chapter="28" verse="13" />
+			<location book="1jo" chapter="1" verse="9" />
+			<location book="1pe" chapter="5" verse="8" range="9" />
+			<location book="eph" chapter="6" verse="10" range="11" />
+			<location book="eph" chapter="6" verse="16" />
+			<location book="jam" chapter="4" verse="7" />
+			<location book="1jo" chapter="4" verse="4" />
+			<location book="jam" chapter="1" verse="2" range="3" />
+			<location book="jam" chapter="1" verse="12" />
+			<location book="jud" chapter="1" verse="24" range="25" />
+			<location book="1pe" chapter="1" verse="6" range="7" />
+		</topic>
+		<topic name="Rozgniewany">
+			<location book="jam" chapter="1" verse="19" range="20" />
+			<location book="eph" chapter="4" verse="26" />
+			<location book="pro" chapter="15" verse="1" />
+			<location book="mat" chapter="6" verse="14" />
+			<location book="pro" chapter="14" verse="29" />
+			<location book="pro" chapter="16" verse="32" />
+			<location book="ecc" chapter="7" verse="9" />
+			<location book="rom" chapter="12" verse="19" />
+			<location book="pro" chapter="25" verse="21" range="22" />
+			<location book="heb" chapter="10" verse="30" />
+			<location book="eph" chapter="4" verse="31" range="32" />
+			<location book="mat" chapter="5" verse="22" range="24" />
+			<location book="pro" chapter="14" verse="16" range="17" />
+			<location book="col" chapter="3" verse="8" />
+			<location book="psa" chapter="37" verse="8" />
+		</topic>
+		<topic name="Zbuntowany">
+			<location book="heb" chapter="13" verse="17" />
+			<location book="pro" chapter="14" verse="16" range="17" />
+			<location book="1sa" chapter="15" verse="22" range="23" />
+			<location book="1pe" chapter="1" verse="13" range="14" />
+			<location book="isa" chapter="1" verse="19" range="20" />
+			<location book="1pe" chapter="2" verse="13" range="15" />
+			<location book="phi" chapter="2" verse="5" range="8" />
+			<location book="heb" chapter="5" verse="8" />
+			<location book="1pe" chapter="5" verse="5" range="6" />
+			<location book="eph" chapter="5" verse="21" />
+			<location book="pro" chapter="12" verse="21" />
+			<location book="rom" chapter="6" verse="12" range="13" />
+			<location book="eph" chapter="4" verse="17" range="18" />
+			<location book="eph" chapter="5" verse="8" />
+			<location book="jam" chapter="4" verse="7" />
+		</topic>
+	</topic>
+	<topic name="Co robić, gdy...">
+		<topic name="jesteś Przestraszony">
+			<location book="2ti" chapter="1" verse="7" />
+			<location book="rom" chapter="8" verse="15" />
+			<location book="1jo" chapter="4" verse="18" />
+			<location book="psa" chapter="91" verse="1" />
+			<location book="psa" chapter="91" verse="4" range="7" />
+			<location book="psa" chapter="91" verse="10" range="11" />
+			<location book="pro" chapter="3" verse="25" range="26" />
+			<location book="isa" chapter="54" verse="14" />
+			<location book="psa" chapter="56" verse="11" />
+			<location book="psa" chapter="23" verse="4" range="5" />
+			<location book="rom" chapter="8" verse="29" range="31" />
+			<location book="rom" chapter="8" verse="35" range="39" />
+			<location book="psa" chapter="31" verse="24" />
+			<location book="joh" chapter="14" verse="27" />
+			<location book="psa" chapter="27" verse="1" range="3" />
+			<location book="heb" chapter="13" verse="6" />
+		</topic>
+		<topic name="jesteś Wstrząśnięty">
+			<location book="2ti" chapter="1" verse="7" />
+			<location book="isa" chapter="41" verse="10" />
+			<location book="1co" chapter="14" verse="33" />
+			<location book="jam" chapter="3" verse="16" range="18" />
+			<location book="1pe" chapter="2" verse="6" />
+			<location book="isa" chapter="50" verse="7" />
+			<location book="psa" chapter="55" verse="22" />
+			<location book="phi" chapter="4" verse="6" range="7" />
+			<location book="psa" chapter="119" verse="165" />
+			<location book="psa" chapter="30" verse="5" />
+			<location book="isa" chapter="43" verse="2" />
+			<location book="psa" chapter="147" verse="3" />
+			<location book="2co" chapter="1" verse="3" range="4" />
+			<location book="phi" chapter="4" verse="8" />
+			<location book="rom" chapter="8" verse="38" range="39" />
+		</topic>
+		<topic name="brakuje ci Odwagi">
+			<location book="psa" chapter="27" verse="14" />
+			<location book="psa" chapter="30" verse="5" />
+			<location book="isa" chapter="43" verse="2" />
+			<location book="1pe" chapter="4" verse="12" range="13" />
+			<location book="rom" chapter="8" verse="38" range="39" />
+			<location book="isa" chapter="41" verse="10" />
+			<location book="deu" chapter="33" verse="27" />
+			<location book="psa" chapter="118" verse="17" />
+			<location book="phi" chapter="4" verse="13" />
+			<location book="psa" chapter="31" verse="24" />
+			<location book="isa" chapter="40" verse="31" />
+			<location book="phi" chapter="4" verse="6" />
+			<location book="phi" chapter="4" verse="8" />
+			<location book="isa" chapter="51" verse="11" />
+		</topic>
+		<topic name="brakuje ci Cierpliwości">
+			<location book="gal" chapter="5" verse="22" />
+			<location book="isa" chapter="40" verse="31" />
+			<location book="psa" chapter="27" verse="14" />
+			<location book="lam" chapter="3" verse="26" />
+			<location book="rom" chapter="8" verse="25" />
+			<location book="psa" chapter="37" verse="7" />
+			<location book="heb" chapter="6" verse="12" />
+			<location book="heb" chapter="10" verse="35" range="37" />
+			<location book="heb" chapter="12" verse="1" />
+			<location book="ecc" chapter="7" verse="8" range="9" />
+			<location book="rom" chapter="15" verse="4" range="5" />
+			<location book="psa" chapter="37" verse="8" range="9" />
+			<location book="psa" chapter="40" verse="1" />
+			<location book="rom" chapter="5" verse="3" range="5" />
+			<location book="jam" chapter="1" verse="3" range="4" />
+			<location book="jam" chapter="5" verse="7" range="8" />
+		</topic>
+		<topic name="brakuje ci Pokoju">
+			<location book="isa" chapter="26" verse="3" />
+			<location book="joh" chapter="14" verse="27" />
+			<location book="phi" chapter="4" verse="6" range="7" />
+			<location book="rom" chapter="5" verse="1" />
+			<location book="isa" chapter="26" verse="12" />
+			<location book="isa" chapter="55" verse="12" />
+			<location book="psa" chapter="37" verse="37" />
+			<location book="rom" chapter="8" verse="6" />
+			<location book="psa" chapter="119" verse="165" />
+			<location book="isa" chapter="57" verse="2" />
+			<location book="rom" chapter="14" verse="17" range="19" />
+			<location book="psa" chapter="37" verse="11" />
+			<location book="2co" chapter="13" verse="11" />
+			<location book="rom" chapter="15" verse="13" />
+		</topic>
+		<topic name="jesteś Duchowo Letni">
+			<location book="rev" chapter="3" verse="2" />
+			<location book="rev" chapter="3" verse="15" range="16" />
+			<location book="rev" chapter="2" verse="4" />
+			<location book="hos" chapter="6" verse="4" />
+			<location book="deu" chapter="4" verse="9" />
+			<location book="deu" chapter="8" verse="11" range="14" />
+			<location book="psa" chapter="44" verse="20" range="21" />
+			<location book="heb" chapter="3" verse="12" range="13" />
+			<location book="heb" chapter="5" verse="11" range="12" />
+			<location book="heb" chapter="12" verse="15" />
+			<location book="2pe" chapter="2" verse="20" range="21" />
+			<location book="jer" chapter="6" verse="16" />
+			<location book="1jo" chapter="1" verse="9" />
+			<location book="mal" chapter="3" verse="7" />
+		</topic>
+		<topic name="jesteś pogrążony w Smutku">
+			<location book="1th" chapter="4" verse="13" range="14" />
+			<location book="isa" chapter="49" verse="13" />
+			<location book="isa" chapter="43" verse="2" />
+			<location book="2th" chapter="2" verse="16" range="17" />
+			<location book="mat" chapter="5" verse="4" />
+			<location book="2co" chapter="1" verse="3" range="4" />
+			<location book="isa" chapter="61" verse="1" range="3" />
+			<location book="psa" chapter="119" verse="50" />
+			<location book="1pe" chapter="5" verse="7" />
+			<location book="1co" chapter="15" verse="55" range="57" />
+			<location book="psa" chapter="23" verse="4" />
+			<location book="heb" chapter="4" verse="15" range="16" />
+			<location book="isa" chapter="41" verse="10" />
+			<location book="isa" chapter="51" verse="11" />
+			<location book="2co" chapter="5" verse="8" />
+			<location book="rev" chapter="21" verse="4" />
+		</topic>
+		<topic name="masz Wątpliwości na temat Boga">
+			<location book="mar" chapter="11" verse="22" range="24" />
+			<location book="luk" chapter="12" verse="29" range="31" />
+			<location book="rom" chapter="4" verse="20" range="21" />
+			<location book="isa" chapter="46" verse="10" range="11" />
+			<location book="1th" chapter="5" verse="24" />
+			<location book="2pe" chapter="3" verse="9" />
+			<location book="psa" chapter="18" verse="30" />
+			<location book="isa" chapter="59" verse="1" />
+			<location book="1pe" chapter="4" verse="12" range="13" />
+			<location book="rom" chapter="10" verse="17" />
+			<location book="isa" chapter="55" verse="10" range="11" />
+		</topic>
+		<topic name="brakuje ci Pewności siebie">
+			<location book="phi" chapter="4" verse="13" />
+			<location book="heb" chapter="13" verse="6" />
+			<location book="heb" chapter="10" verse="35" range="36" />
+			<location book="phi" chapter="1" verse="6" />
+			<location book="hab" chapter="3" verse="19" />
+			<location book="rom" chapter="8" verse="37" />
+			<location book="1jo" chapter="5" verse="14" range="15" />
+			<location book="joh" chapter="14" verse="12" />
+			<location book="zec" chapter="4" verse="6" />
+			<location book="isa" chapter="43" verse="2" />
+			<location book="pro" chapter="3" verse="26" />
+			<location book="2co" chapter="7" verse="16" />
+			<location book="eph" chapter="3" verse="12" />
+			<location book="1jo" chapter="3" verse="21" />
+			<location book="isa" chapter="40" verse="31" />
+		</topic>
+		<topic name="W twoim życiu nawarstwiają się problemy">
+			<location book="nah" chapter="1" verse="7" />
+			<location book="2co" chapter="4" verse="8" range="9" />
+			<location book="psa" chapter="138" verse="7" />
+			<location book="joh" chapter="14" verse="1" />
+			<location book="isa" chapter="43" verse="2" />
+			<location book="rom" chapter="8" verse="28" />
+			<location book="psa" chapter="31" verse="7" />
+			<location book="psa" chapter="121" verse="1" range="2" />
+			<location book="heb" chapter="4" verse="15" range="16" />
+			<location book="1pe" chapter="5" verse="7" />
+			<location book="mat" chapter="6" verse="34" />
+			<location book="2co" chapter="1" verse="3" range="4" />
+			<location book="phi" chapter="4" verse="6" range="7" />
+			<location book="isa" chapter="51" verse="11" />
+		</topic>
+		<topic name="jesteś Chory">
+			<location book="3jo" chapter="1" verse="2" />
+			<location book="mat" chapter="9" verse="53" />
+			<location book="luk" chapter="6" verse="19" />
+			<location book="heb" chapter="13" verse="8" />
+			<location book="1pe" chapter="2" verse="24" />
+			<location book="psa" chapter="103" verse="3" />
+			<location book="isa" chapter="53" verse="5" />
+			<location book="jer" chapter="17" verse="14" />
+			<location book="jer" chapter="30" verse="17" />
+			<location book="exo" chapter="15" verse="26" />
+			<location book="pro" chapter="4" verse="20" range="22" />
+			<location book="psa" chapter="107" verse="20" />
+			<location book="mat" chapter="8" verse="8" />
+			<location book="jam" chapter="5" verse="14" range="15" />
+			<location book="mar" chapter="16" verse="17" range="18" />
+		</topic>
+		<topic name="masz Kłopoty finansowe">
+			<location book="3jo" chapter="1" verse="2" />
+			<location book="psa" chapter="37" verse="25" />
+			<location book="psa" chapter="34" verse="10" />
+			<location book="psa" chapter="23" verse="1" />
+			<location book="deu" chapter="28" verse="2" range="8" />
+			<location book="deu" chapter="28" verse="11" range="13" />
+			<location book="luk" chapter="6" verse="38" />
+			<location book="1co" chapter="16" verse="2" />
+			<location book="mat" chapter="10" verse="8" />
+			<location book="mal" chapter="3" verse="10" range="12" />
+			<location book="2co" chapter="9" verse="6" range="8" />
+			<location book="mat" chapter="19" verse="29" />
+			<location book="jos" chapter="1" verse="8" />
+			<location book="ecc" chapter="2" verse="26" />
+			<location book="pro" chapter="13" verse="22" />
+			<location book="deu" chapter="8" verse="7" range="14" />
+			<location book="deu" chapter="8" verse="18" />
+			<location book="mat" chapter="6" verse="31" range="33" />
+			<location book="phi" chapter="4" verse="19" />
+		</topic>
+		<topic name="masz Problemy małżeńskie">
+			<location book="eph" chapter="4" verse="31" range="32" />
+			<location book="gen" chapter="2" verse="18" />
+			<location book="gen" chapter="2" verse="24" />
+			<location book="eph" chapter="5" verse="21" range="33" />
+			<location book="1pe" chapter="3" verse="1" range="7" />
+			<location book="jos" chapter="24" verse="15" />
+			<location book="rom" chapter="13" verse="10" />
+			<location book="psa" chapter="101" verse="2" />
+			<location book="1pe" chapter="3" verse="8" range="11" />
+			<location book="pro" chapter="3" verse="5" range="6" />
+			<location book="pro" chapter="10" verse="12" />
+			<location book="1pe" chapter="1" verse="22" />
+		</topic>
+		<topic name="Jesteś opuszczony przez bliskich">
+			<location book="psa" chapter="9" verse="10" />
+			<location book="psa" chapter="94" verse="14" />
+			<location book="psa" chapter="27" verse="10" />
+			<location book="mat" chapter="28" verse="20" />
+			<location book="isa" chapter="62" verse="4" />
+			<location book="2co" chapter="4" verse="9" />
+			<location book="1pe" chapter="5" verse="7" />
+			<location book="psa" chapter="37" verse="25" />
+			<location book="deu" chapter="4" verse="31" />
+			<location book="isa" chapter="41" verse="17" />
+			<location book="psa" chapter="91" verse="14" range="15" />
+			<location book="isa" chapter="49" verse="15" range="16" />
+			<location book="psa" chapter="43" verse="5" />
+			<location book="deu" chapter="31" verse="6" />
+			<location book="1sa" chapter="12" verse="22" />
+		</topic>
+		<topic name="Nie rozumiesz Bożej drogi">
+			<location book="isa" chapter="55" verse="8" range="9" />
+			<location book="jer" chapter="33" verse="3" />
+			<location book="rom" chapter="8" verse="31" />
+			<location book="rom" chapter="8" verse="35" range="37" />
+			<location book="1co" chapter="10" verse="13" />
+			<location book="psa" chapter="34" verse="19" />
+			<location book="psa" chapter="55" verse="22" />
+			<location book="isa" chapter="41" verse="10" />
+			<location book="rom" chapter="8" verse="28" />
+			<location book="hos" chapter="6" verse="3" />
+			<location book="psa" chapter="18" verse="30" />
+			<location book="heb" chapter="10" verse="23" />
+			<location book="jer" chapter="32" verse="40" />
+			<location book="psa" chapter="138" verse="8" />
+			<location book="1pe" chapter="4" verse="12" range="13" />
+		</topic>
+		<topic name="Czekasz na Boga">
+			<location book="psa" chapter="27" verse="14" />
+			<location book="psa" chapter="62" verse="5" />
+			<location book="psa" chapter="33" verse="20" />
+			<location book="isa" chapter="40" verse="31" />
+			<location book="hab" chapter="2" verse="3" />
+			<location book="heb" chapter="10" verse="23" />
+			<location book="psa" chapter="145" verse="15" range="16" />
+			<location book="psa" chapter="130" verse="5" />
+			<location book="heb" chapter="3" verse="14" />
+			<location book="isa" chapter="25" verse="9" />
+		</topic>
+	</topic>
+	<topic name="Co Biblia ma do powiedzenia na temat...">
+		<topic name="Wiary">
+			<location book="heb" chapter="11" verse="1" />
+			<location book="rom" chapter="10" verse="17" />
+			<location book="rom" chapter="12" verse="3" />
+			<location book="heb" chapter="12" verse="2" />
+			<location book="mat" chapter="17" verse="20" />
+			<location book="mar" chapter="11" verse="22" range="24" />
+			<location book="rom" chapter="1" verse="17" />
+			<location book="2co" chapter="5" verse="7" />
+			<location book="heb" chapter="11" verse="6" />
+			<location book="1pe" chapter="1" verse="7" range="9" />
+			<location book="1jo" chapter="5" verse="4" />
+			<location book="mat" chapter="9" verse="20" range="22" />
+			<location book="mat" chapter="9" verse="28" range="29" />
+			<location book="mar" chapter="9" verse="23" />
+			<location book="jam" chapter="5" verse="14" range="15" />
+		</topic>
+		<topic name="Miłości">
+			<location book="1jo" chapter="4" verse="7" range="8" />
+			<location book="1co" chapter="13" verse="1" range="8" />
+			<location book="1co" chapter="13" verse="13" />
+			<location book="1jo" chapter="4" verse="10" range="12" />
+			<location book="joh" chapter="15" verse="9" range="10" />
+			<location book="joh" chapter="14" verse="21" />
+			<location book="joh" chapter="15" verse="12" range="14" />
+			<location book="joh" chapter="15" verse="17" />
+			<location book="mar" chapter="12" verse="30" range="33" />
+			<location book="1jo" chapter="4" verse="16" />
+			<location book="jer" chapter="31" verse="3" />
+			<location book="joh" chapter="16" verse="27" />
+			<location book="rom" chapter="5" verse="8" />
+			<location book="joh" chapter="3" verse="16" />
+			<location book="rom" chapter="8" verse="38" range="39" />
+			<location book="joh" chapter="13" verse="34" range="35" />
+		</topic>
+		<topic name="Wieczności">
+			<location book="1jo" chapter="5" verse="11" />
+			<location book="joh" chapter="5" verse="24" />
+			<location book="joh" chapter="3" verse="16" />
+			<location book="joh" chapter="6" verse="47" />
+			<location book="joh" chapter="6" verse="51" />
+			<location book="1jo" chapter="5" verse="20" />
+			<location book="psa" chapter="22" verse="26" />
+			<location book="psa" chapter="37" verse="18" />
+			<location book="psa" chapter="23" verse="6" />
+			<location book="psa" chapter="49" verse="15" />
+			<location book="1co" chapter="15" verse="54" range="55" />
+			<location book="joh" chapter="11" verse="25" range="26" />
+			<location book="joh" chapter="6" verse="27" />
+			<location book="joh" chapter="10" verse="27" range="28" />
+			<location book="joh" chapter="4" verse="14" />
+		</topic>
+		<topic name="Chwały">
+			<location book="isa" chapter="43" verse="21" />
+			<location book="1pe" chapter="2" verse="9" />
+			<location book="heb" chapter="13" verse="15" />
+			<location book="psa" chapter="147" verse="1" />
+			<location book="2sa" chapter="22" verse="4" />
+			<location book="psa" chapter="34" verse="1" />
+			<location book="psa" chapter="47" verse="1" />
+			<location book="psa" chapter="47" verse="6" range="7" />
+			<location book="psa" chapter="48" verse="1" />
+			<location book="psa" chapter="50" verse="23" />
+			<location book="psa" chapter="63" verse="3" range="5" />
+			<location book="psa" chapter="71" verse="8" />
+			<location book="psa" chapter="71" verse="14" />
+			<location book="psa" chapter="92" verse="1" />
+			<location book="psa" chapter="96" verse="4" />
+			<location book="psa" chapter="107" verse="8" />
+			<location book="act" chapter="16" verse="25" />
+			<location book="eph" chapter="5" verse="18" range="20" />
+		</topic>
+		<topic name="Służenia Bogu">
+			<location book="deu" chapter="13" verse="4" />
+			<location book="mat" chapter="6" verse="24" />
+			<location book="mat" chapter="4" verse="10" />
+			<location book="jos" chapter="22" verse="5" />
+			<location book="rom" chapter="12" verse="1" range="2" />
+			<location book="rom" chapter="12" verse="10" range="13" />
+			<location book="exo" chapter="23" verse="25" range="26" />
+			<location book="deu" chapter="10" verse="12" />
+			<location book="deu" chapter="11" verse="13" range="15" />
+			<location book="jos" chapter="24" verse="15" />
+			<location book="1sa" chapter="12" verse="20" range="22" />
+			<location book="1ch" chapter="28" verse="9" />
+			<location book="rom" chapter="7" verse="6" />
+			<location book="psa" chapter="100" verse="1" range="4" />
+		</topic>
+		<topic name="Posłuszeństwa">
+			<location book="deu" chapter="11" verse="26" range="28" />
+			<location book="1sa" chapter="15" verse="22" />
+			<location book="isa" chapter="48" verse="18" />
+			<location book="jer" chapter="7" verse="23" />
+			<location book="joh" chapter="14" verse="15" />
+			<location book="joh" chapter="14" verse="21" />
+			<location book="act" chapter="5" verse="29" />
+			<location book="1jo" chapter="2" verse="3" range="6" />
+			<location book="1ki" chapter="3" verse="14" />
+			<location book="psa" chapter="143" verse="10" />
+			<location book="deu" chapter="5" verse="1" />
+			<location book="deu" chapter="5" verse="32" range="33" />
+			<location book="col" chapter="3" verse="22" range="24" />
+			<location book="1pe" chapter="2" verse="13" range="20" />
+			<location book="eph" chapter="6" verse="1" />
+			<location book="col" chapter="3" verse="20" range="24" />
+		</topic>
+		<topic name="Zamiarów ciała">
+			<location book="rom" chapter="8" verse="6" range="8" />
+			<location book="gal" chapter="6" verse="8" />
+			<location book="jam" chapter="4" verse="4" />
+			<location book="pro" chapter="14" verse="12" />
+			<location book="phi" chapter="3" verse="18" range="19" />
+			<location book="1ti" chapter="5" verse="6" />
+			<location book="2ti" chapter="2" verse="4" />
+			<location book="2ti" chapter="2" verse="22" />
+			<location book="2ti" chapter="3" verse="2" range="7" />
+			<location book="1pe" chapter="2" verse="11" />
+			<location book="1jo" chapter="2" verse="15" range="17" />
+			<location book="rom" chapter="12" verse="1" range="2" />
+			<location book="phi" chapter="2" verse="5" />
+			<location book="isa" chapter="26" verse="3" />
+			<location book="col" chapter="3" verse="2" />
+			<location book="col" chapter="3" verse="5" />
+			<location book="phi" chapter="4" verse="8" />
+		</topic>
+		<topic name="Łaski Bożej">
+			<location book="act" chapter="4" verse="33" />
+			<location book="pro" chapter="3" verse="4" />
+			<location book="psa" chapter="84" verse="11" />
+			<location book="exo" chapter="33" verse="17" />
+			<location book="job" chapter="10" verse="12" />
+			<location book="psa" chapter="5" verse="12" />
+			<location book="psa" chapter="30" verse="7" />
+			<location book="psa" chapter="115" verse="12" range="13" />
+			<location book="pro" chapter="8" verse="35" />
+			<location book="pro" chapter="10" verse="6" />
+			<location book="pro" chapter="10" verse="22" range="24" />
+			<location book="pro" chapter="14" verse="9" />
+			<location book="isa" chapter="60" verse="10" />
+			<location book="2co" chapter="4" verse="15" />
+			<location book="eph" chapter="1" verse="6" />
+			<location book="heb" chapter="4" verse="16" />
+		</topic>
+		<topic name="Ducha Świętego">
+			<location book="1co" chapter="6" verse="19" />
+			<location book="rom" chapter="5" verse="5" />
+			<location book="joh" chapter="14" verse="16" range="17" />
+			<location book="joh" chapter="16" verse="7" />
+			<location book="joh" chapter="16" verse="13" />
+			<location book="mat" chapter="3" verse="11" />
+			<location book="joh" chapter="7" verse="38" range="39" />
+			<location book="luk" chapter="11" verse="13" />
+			<location book="joe" chapter="2" verse="28" />
+			<location book="act" chapter="1" verse="4" range="5" />
+			<location book="act" chapter="1" verse="8" />
+			<location book="act" chapter="2" verse="4" />
+			<location book="act" chapter="2" verse="38" />
+			<location book="act" chapter="4" verse="31" />
+			<location book="eph" chapter="5" verse="18" />
+			<location book="act" chapter="8" verse="14" range="17" />
+			<location book="act" chapter="10" verse="44" range="46" />
+			<location book="act" chapter="19" verse="2" range="6" />
+		</topic>
+		<topic name="Bożej wierności">
+			<location book="psa" chapter="119" verse="65" />
+			<location book="1th" chapter="5" verse="24" />
+			<location book="isa" chapter="54" verse="9" range="10" />
+			<location book="gen" chapter="9" verse="16" />
+			<location book="gen" chapter="28" verse="15" />
+			<location book="deu" chapter="7" verse="8" range="9" />
+			<location book="jos" chapter="23" verse="14" />
+			<location book="1ki" chapter="8" verse="56" />
+			<location book="psa" chapter="36" verse="5" />
+			<location book="psa" chapter="89" verse="1" range="2" />
+			<location book="psa" chapter="89" verse="33" range="34" />
+			<location book="psa" chapter="121" verse="3" range="4" />
+			<location book="1co" chapter="1" verse="9" />
+			<location book="1co" chapter="10" verse="13" />
+			<location book="2pe" chapter="3" verse="9" />
+			<location book="2ti" chapter="2" verse="13" />
+			<location book="2ti" chapter="2" verse="19" />
+		</topic>
+		<topic name="Kościoła">
+			<location book="eph" chapter="1" verse="10" />
+			<location book="eph" chapter="1" verse="22" range="23" />
+			<location book="col" chapter="1" verse="13" />
+			<location book="col" chapter="1" verse="18" />
+			<location book="mat" chapter="16" verse="15" range="18" />
+			<location book="eph" chapter="2" verse="20" range="22" />
+			<location book="eph" chapter="3" verse="15" />
+			<location book="eph" chapter="3" verse="21" />
+			<location book="eph" chapter="5" verse="23" range="29" />
+			<location book="col" chapter="2" verse="10" />
+			<location book="col" chapter="2" verse="19" />
+			<location book="rom" chapter="12" verse="4" range="5" />
+			<location book="1co" chapter="12" verse="12" range="28" />
+			<location book="1th" chapter="5" verse="12" range="13" />
+			<location book="heb" chapter="13" verse="7" />
+			<location book="heb" chapter="13" verse="17" />
+			<location book="eph" chapter="4" verse="11" range="12" />
+			<location book="act" chapter="2" verse="41" range="47" />
+			<location book="psa" chapter="133" verse="1" />
+		</topic>
+		<topic name="Zarządzania">
+			<location book="mal" chapter="3" verse="8" range="12" />
+			<location book="1co" chapter="16" verse="1" range="2" />
+			<location book="2co" chapter="9" verse="6" range="8" />
+			<location book="col" chapter="3" verse="23" range="24" />
+			<location book="mat" chapter="6" verse="20" range="21" />
+			<location book="luk" chapter="6" verse="38" />
+			<location book="3jo" chapter="1" verse="2" />
+			<location book="mat" chapter="6" verse="33" />
+			<location book="mat" chapter="19" verse="29" />
+			<location book="mat" chapter="10" verse="8" />
+			<location book="deu" chapter="28" verse="2" range="8" />
+			<location book="deu" chapter="28" verse="11" range="12" />
+			<location book="deu" chapter="29" verse="9" />
+			<location book="1ch" chapter="22" verse="13" />
+			<location book="job" chapter="36" verse="11" />
+			<location book="pro" chapter="11" verse="24" range="25" />
+			<location book="mar" chapter="10" verse="29" range="30" />
+			<location book="jos" chapter="1" verse="8" />
+		</topic>
+		<topic name="Szatana">
+			<location book="1pe" chapter="5" verse="8" range="9" />
+			<location book="jam" chapter="4" verse="7" />
+			<location book="eph" chapter="6" verse="10" range="18" />
+			<location book="heb" chapter="2" verse="9" />
+			<location book="heb" chapter="2" verse="14" range="15" />
+			<location book="col" chapter="2" verse="10" />
+			<location book="col" chapter="2" verse="15" />
+			<location book="col" chapter="1" verse="13" />
+			<location book="rev" chapter="12" verse="11" />
+			<location book="1jo" chapter="4" verse="1" range="4" />
+			<location book="luk" chapter="10" verse="17" range="19" />
+			<location book="mar" chapter="16" verse="17" range="18" />
+			<location book="mat" chapter="12" verse="28" range="29" />
+			<location book="2co" chapter="10" verse="3" range="5" />
+			<location book="pro" chapter="18" verse="10" />
+			<location book="1jo" chapter="3" verse="8" />
+			<location book="rom" chapter="16" verse="20" />
+			<location book="1jo" chapter="2" verse="13" range="14" />
+		</topic>
+		<topic name="Powrotu Chrystusa na Ziemię">
+			<location book="1th" chapter="4" verse="13" range="18" />
+			<location book="1co" chapter="15" verse="51" range="57" />
+			<location book="act" chapter="1" verse="11" />
+			<location book="tit" chapter="2" verse="13" />
+			<location book="2pe" chapter="3" verse="3" range="4" />
+			<location book="2pe" chapter="3" verse="8" range="13" />
+			<location book="1jo" chapter="3" verse="2" range="3" />
+			<location book="luk" chapter="21" verse="25" range="28" />
+			<location book="mat" chapter="24" verse="3" range="14" />
+			<location book="mat" chapter="24" verse="27" range="31" />
+			<location book="rom" chapter="24" verse="36" range="44" />
+			<location book="2ti" chapter="3" verse="1" range="5" />
+			<location book="1ti" chapter="4" verse="1" range="3" />
+			<location book="2ti" chapter="4" verse="1" range="8" />
+			<location book="mat" chapter="24" verse="34" />
+			<location book="joh" chapter="14" verse="1" range="4" />
+		</topic>
+		<topic name="Grzeszników">
+			<location book="rom" chapter="3" verse="23" />
+			<location book="rom" chapter="5" verse="12" />
+			<location book="rom" chapter="6" verse="23" />
+			<location book="rom" chapter="1" verse="18" range="20" />
+			<location book="rom" chapter="5" verse="8" />
+			<location book="2pe" chapter="3" verse="9" />
+			<location book="joh" chapter="3" verse="17" />
+			<location book="luk" chapter="5" verse="32" />
+			<location book="luk" chapter="19" verse="10" />
+			<location book="joh" chapter="3" verse="3" />
+			<location book="joh" chapter="3" verse="16" />
+			<location book="act" chapter="16" verse="32" />
+			<location book="mar" chapter="16" verse="15" range="16" />
+			<location book="luk" chapter="4" verse="18" range="19" />
+		</topic>
+	</topic>
+	<topic name="Prawdy biblijne na temat...">
+		<topic name="Wybaczania innym">
+			<location book="mat" chapter="6" verse="14" range="15" />
+			<location book="mat" chapter="18" verse="21" range="22" />
+			<location book="luk" chapter="17" verse="3" />
+			<location book="mar" chapter="11" verse="25" />
+			<location book="col" chapter="3" verse="13" />
+			<location book="phi" chapter="3" verse="13" range="14" />
+			<location book="isa" chapter="43" verse="18" range="19" />
+			<location book="1pe" chapter="2" verse="19" range="23" />
+			<location book="mat" chapter="5" verse="10" range="12" />
+			<location book="heb" chapter="10" verse="30" />
+			<location book="1pe" chapter="4" verse="12" range="14" />
+			<location book="mat" chapter="5" verse="44" />
+			<location book="rom" chapter="12" verse="21" />
+			<location book="1pe" chapter="3" verse="9" range="10" />
+			<location book="eph" chapter="4" verse="31" range="32" />
+		</topic>
+		<topic name="Chrześcijańskiej wspólnoty">
+			<location book="1jo" chapter="1" verse="3" />
+			<location book="1jo" chapter="1" verse="7" />
+			<location book="eph" chapter="5" verse="2" />
+			<location book="eph" chapter="5" verse="19" />
+			<location book="eph" chapter="5" verse="30" />
+			<location book="col" chapter="3" verse="16" />
+			<location book="col" chapter="2" verse="2" />
+			<location book="mal" chapter="3" verse="16" />
+			<location book="luk" chapter="24" verse="13" range="15" />
+			<location book="psa" chapter="55" verse="14" />
+			<location book="joh" chapter="17" verse="11" />
+			<location book="joh" chapter="17" verse="21" range="23" />
+			<location book="act" chapter="2" verse="1" />
+			<location book="act" chapter="2" verse="42" />
+			<location book="act" chapter="2" verse="46" range="47" />
+			<location book="rom" chapter="15" verse="5" range="7" />
+			<location book="1co" chapter="1" verse="10" />
+			<location book="gal" chapter="6" verse="2" />
+			<location book="gal" chapter="6" verse="10" />
+			<location book="eph" chapter="2" verse="19" range="22" />
+			<location book="phi" chapter="1" verse="3" />
+			<location book="phi" chapter="1" verse="27" />
+			<location book="phi" chapter="2" verse="1" range="2" />
+			<location book="heb" chapter="10" verse="24" range="25" />
+		</topic>
+		<topic name="twojej Odpowiedzialności">
+			<location book="mar" chapter="16" verse="15" />
+			<location book="act" chapter="1" verse="8" />
+			<location book="mat" chapter="5" verse="13" range="16" />
+			<location book="mat" chapter="25" verse="35" range="40" />
+			<location book="mat" chapter="10" verse="42" />
+			<location book="heb" chapter="6" verse="10" />
+			<location book="jam" chapter="1" verse="27" />
+			<location book="jam" chapter="2" verse="15" range="17" />
+			<location book="luk" chapter="3" verse="10" range="11" />
+			<location book="gal" chapter="6" verse="1" range="6" />
+			<location book="1jo" chapter="3" verse="16" range="18" />
+			<location book="deu" chapter="6" verse="6" range="9" />
+			<location book="1ti" chapter="5" verse="8" />
+			<location book="pro" chapter="22" verse="6" />
+			<location book="deu" chapter="11" verse="18" range="19" />
+		</topic>
+		<topic name="mocy Słowa Bożego">
+			<location book="mar" chapter="11" verse="23" />
+			<location book="luk" chapter="17" verse="6" />
+			<location book="mar" chapter="4" verse="39" />
+			<location book="heb" chapter="11" verse="3" />
+			<location book="joh" chapter="12" verse="49" range="50" />
+			<location book="deu" chapter="18" verse="18" />
+			<location book="psa" chapter="103" verse="20" />
+			<location book="pro" chapter="16" verse="21" />
+			<location book="pro" chapter="16" verse="23" range="24" />
+			<location book="pro" chapter="16" verse="27" />
+			<location book="pro" chapter="16" verse="30" />
+			<location book="pro" chapter="18" verse="4" />
+			<location book="pro" chapter="18" verse="7" />
+			<location book="pro" chapter="18" verse="20" range="21" />
+			<location book="mat" chapter="12" verse="34" />
+			<location book="mat" chapter="12" verse="36" range="37" />
+			<location book="jam" chapter="1" verse="26" />
+			<location book="rom" chapter="10" verse="6" />
+			<location book="rom" chapter="10" verse="8" range="10" />
+			<location book="heb" chapter="10" verse="23" />
+			<location book="2co" chapter="4" verse="13" />
+			<location book="joe" chapter="3" verse="10" />
+			<location book="pro" chapter="13" verse="2" range="3" />
+			<location book="pro" chapter="12" verse="18" />
+		</topic>
+		<topic name="odnalezienia woli Boga">
+			<location book="jam" chapter="1" verse="5" />
+			<location book="psa" chapter="32" verse="8" />
+			<location book="psa" chapter="119" verse="105" />
+			<location book="pro" chapter="6" verse="22" range="23" />
+			<location book="jos" chapter="1" verse="8" />
+			<location book="isa" chapter="30" verse="21" />
+			<location book="psa" chapter="48" verse="14" />
+			<location book="pro" chapter="16" verse="3" />
+			<location book="psa" chapter="37" verse="23" />
+			<location book="psa" chapter="31" verse="3" />
+			<location book="neh" chapter="9" verse="20" />
+			<location book="pro" chapter="3" verse="5" range="6" />
+			<location book="isa" chapter="48" verse="17" />
+			<location book="isa" chapter="58" verse="11" />
+			<location book="joh" chapter="16" verse="13" />
+		</topic>
+		<topic name="Odpowiedzi na modlitwy">
+			<location book="isa" chapter="65" verse="24" />
+			<location book="mat" chapter="7" verse="7" range="8" />
+			<location book="mat" chapter="21" verse="22" />
+			<location book="mat" chapter="18" verse="19" range="20" />
+			<location book="mar" chapter="11" verse="24" />
+			<location book="joh" chapter="14" verse="13" />
+			<location book="joh" chapter="15" verse="7" />
+			<location book="joh" chapter="16" verse="23" />
+			<location book="heb" chapter="4" verse="16" />
+			<location book="psa" chapter="37" verse="4" />
+			<location book="psa" chapter="91" verse="15" />
+			<location book="psa" chapter="145" verse="18" range="19" />
+			<location book="pro" chapter="15" verse="29" />
+			<location book="jer" chapter="33" verse="3" />
+			<location book="mat" chapter="6" verse="6" />
+			<location book="1jo" chapter="3" verse="22" />
+		</topic>
+		<topic name="Bliskich, którzy nie są nawróceni">
+			<location book="act" chapter="16" verse="31" />
+			<location book="act" chapter="11" verse="14" />
+			<location book="mat" chapter="18" verse="14" />
+			<location book="isa" chapter="44" verse="3" />
+			<location book="2pe" chapter="3" verse="9" />
+			<location book="1pe" chapter="3" verse="1" range="2" />
+			<location book="1co" chapter="7" verse="13" range="16" />
+			<location book="1th" chapter="5" verse="21" range="22" />
+			<location book="psa" chapter="98" verse="2" />
+			<location book="isa" chapter="50" verse="10" />
+			<location book="psa" chapter="55" verse="22" />
+			<location book="isa" chapter="56" verse="1" />
+			<location book="joh" chapter="16" verse="7" range="8" />
+			<location book="pro" chapter="22" verse="6" />
+			<location book="1th" chapter="5" verse="24" />
+		</topic>
+		<topic name="Małżeństwa">
+			<location book="gen" chapter="2" verse="18" />
+			<location book="gen" chapter="2" verse="24" />
+			<location book="pro" chapter="18" verse="22" />
+			<location book="jer" chapter="29" verse="6" />
+			<location book="hos" chapter="2" verse="19" range="20" />
+			<location book="1co" chapter="7" verse="2" range="4" />
+			<location book="1ti" chapter="5" verse="14" />
+			<location book="heb" chapter="13" verse="4" />
+			<location book="eph" chapter="5" verse="22" range="33" />
+			<location book="1pe" chapter="3" verse="1" />
+			<location book="1pe" chapter="3" verse="7" />
+		</topic>
+		<topic name="Rozwodu">
+			<location book="mat" chapter="5" verse="31" range="32" />
+			<location book="mat" chapter="19" verse="3" range="9" />
+			<location book="mar" chapter="10" verse="2" range="12" />
+			<location book="luk" chapter="16" verse="18" />
+			<location book="1co" chapter="7" verse="10" range="17" />
+			<location book="deu" chapter="24" verse="1" range="4" />
+			<location book="jer" chapter="3" verse="1" />
+		</topic>
+		<topic name="Twojej rodziny">
+			<location book="act" chapter="16" verse="31" />
+			<location book="jos" chapter="24" verse="15" />
+			<location book="eph" chapter="4" verse="31" range="32" />
+			<location book="pro" chapter="22" verse="6" />
+			<location book="exo" chapter="20" verse="12" />
+			<location book="eph" chapter="5" verse="21" range="33" />
+			<location book="eph" chapter="6" verse="1" range="4" />
+			<location book="1ti" chapter="3" verse="4" range="5" />
+			<location book="psa" chapter="127" verse="3" range="5" />
+			<location book="mal" chapter="4" verse="6" />
+			<location book="pro" chapter="17" verse="6" />
+			<location book="deu" chapter="6" verse="6" range="9" />
+			<location book="pro" chapter="29" verse="17" />
+			<location book="eph" chapter="6" verse="4" />
+			<location book="pro" chapter="13" verse="22" />
+			<location book="psa" chapter="128" verse="1" range="4" />
+			<location book="pro" chapter="23" verse="24" />
+			<location book="isa" chapter="54" verse="13" />
+		</topic>
+		<topic name="Żon">
+			<location book="pro" chapter="18" verse="22" />
+			<location book="1pe" chapter="3" verse="1" range="7" />
+			<location book="ecc" chapter="9" verse="9" />
+			<location book="1co" chapter="7" verse="3" />
+			<location book="pro" chapter="5" verse="18" range="19" />
+			<location book="col" chapter="3" verse="18" />
+			<location book="psa" chapter="128" verse="3" />
+			<location book="eph" chapter="5" verse="21" range="33" />
+			<location book="pro" chapter="31" verse="10" range="31" />
+			<location book="pro" chapter="12" verse="4" />
+			<location book="pro" chapter="14" verse="1" />
+			<location book="pro" chapter="19" verse="14" />
+		</topic>
+		<topic name="Wdów">
+			<location book="jam" chapter="1" verse="27" />
+			<location book="job" chapter="29" verse="13" />
+			<location book="deu" chapter="10" verse="18" />
+			<location book="pro" chapter="15" verse="21" />
+			<location book="psa" chapter="146" verse="9" />
+			<location book="jer" chapter="49" verse="11" />
+			<location book="isa" chapter="54" verse="5" />
+			<location book="1co" chapter="7" verse="39" range="40" />
+			<location book="joh" chapter="14" verse="18" />
+			<location book="psa" chapter="147" verse="3" />
+			<location book="psa" chapter="68" verse="5" />
+			<location book="deu" chapter="27" verse="19" />
+			<location book="heb" chapter="13" verse="15" />
+			<location book="mat" chapter="28" verse="20" />
+			<location book="joh" chapter="16" verse="22" />
+		</topic>
+		<topic name="Osób samotnych">
+			<location book="hos" chapter="2" verse="19" />
+			<location book="1co" chapter="7" verse="8" />
+			<location book="1co" chapter="7" verse="17" />
+			<location book="1co" chapter="7" verse="27" range="28" />
+			<location book="1co" chapter="7" verse="32" range="33" />
+			<location book="1co" chapter="7" verse="35" />
+			<location book="1co" chapter="7" verse="37" />
+			<location book="heb" chapter="13" verse="4" />
+			<location book="pro" chapter="3" verse="5" range="6" />
+			<location book="psa" chapter="37" verse="4" />
+			<location book="rom" chapter="7" verse="4" />
+			<location book="gal" chapter="6" verse="4" />
+			<location book="2pe" chapter="1" verse="6" range="8" />
+		</topic>
+		<topic name="Osób straszych">
+			<location book="isa" chapter="46" verse="4" />
+			<location book="psa" chapter="71" verse="17" range="18" />
+			<location book="pro" chapter="20" verse="29" />
+			<location book="pro" chapter="16" verse="31" />
+			<location book="psa" chapter="92" verse="14" />
+			<location book="pro" chapter="3" verse="2" />
+			<location book="psa" chapter="91" verse="16" />
+			<location book="psa" chapter="37" verse="25" />
+			<location book="heb" chapter="13" verse="5" />
+			<location book="1th" chapter="2" verse="19" />
+			<location book="psa" chapter="23" verse="4" />
+			<location book="isa" chapter="41" verse="17" />
+			<location book="job" chapter="11" verse="16" />
+			<location book="psa" chapter="42" verse="5" />
+			<location book="rom" chapter="8" verse="38" range="39" />
+			<location book="isa" chapter="64" verse="4" />
+			<location book="psa" chapter="23" verse="6" />
+		</topic>
+	</topic>
+	<topic name="Co możesz zrobić, aby...">
+		<topic name="Wzrastać duchowo">
+			<location book="2pe" chapter="3" verse="18" />
+			<location book="1pe" chapter="2" verse="2" range="3" />
+			<location book="2ti" chapter="2" verse="15" />
+			<location book="1ti" chapter="4" verse="15" />
+			<location book="heb" chapter="6" verse="1" />
+			<location book="2pe" chapter="1" verse="5" range="8" />
+			<location book="eph" chapter="3" verse="14" range="19" />
+			<location book="col" chapter="1" verse="9" range="11" />
+			<location book="col" chapter="3" verse="16" />
+			<location book="2co" chapter="3" verse="18" />
+			<location book="psa" chapter="92" verse="12" />
+			<location book="phi" chapter="1" verse="6" />
+			<location book="phi" chapter="1" verse="9" range="10" />
+			<location book="eph" chapter="4" verse="14" range="15" />
+		</topic>
+		<topic name="Zmienić świat">
+			<location book="mat" chapter="5" verse="14" range="16" />
+			<location book="dan" chapter="12" verse="3" />
+			<location book="mar" chapter="16" verse="15" range="20" />
+			<location book="act" chapter="1" verse="8" />
+			<location book="luk" chapter="4" verse="18" />
+			<location book="joh" chapter="14" verse="12" />
+			<location book="mat" chapter="16" verse="18" range="19" />
+			<location book="joh" chapter="13" verse="34" range="35" />
+			<location book="1jo" chapter="4" verse="6" />
+			<location book="1jo" chapter="4" verse="16" range="17" />
+			<location book="1jo" chapter="5" verse="4" range="5" />
+			<location book="heb" chapter="11" verse="1" range="3" />
+			<location book="heb" chapter="11" verse="33" range="34" />
+			<location book="mat" chapter="5" verse="13" />
+			<location book="joh" chapter="3" verse="16" />
+			<location book="mat" chapter="28" verse="19" range="20" />
+		</topic>
+		<topic name="Pomóc swoim interesom">
+			<location book="jos" chapter="1" verse="8" />
+			<location book="isa" chapter="48" verse="17" />
+			<location book="3jo" chapter="1" verse="2" />
+			<location book="deu" chapter="8" verse="18" />
+			<location book="pro" chapter="3" verse="5" range="10" />
+			<location book="1ch" chapter="22" verse="13" />
+			<location book="psa" chapter="1" verse="1" range="3" />
+			<location book="deu" chapter="28" verse="1" range="8" />
+			<location book="deu" chapter="28" verse="11" range="13" />
+			<location book="mat" chapter="6" verse="33" />
+			<location book="pro" chapter="16" verse="3" />
+			<location book="pro" chapter="24" verse="3" range="4" />
+			<location book="1ki" chapter="2" verse="2" range="3" />
+			<location book="job" chapter="36" verse="11" />
+			<location book="rom" chapter="12" verse="11" />
+			<location book="col" chapter="4" verse="1" />
+			<location book="1th" chapter="4" verse="10" range="12" />
+		</topic>
+		<topic name="Podobać się Bogu">
+			<location book="isa" chapter="43" verse="7" />
+			<location book="isa" chapter="43" verse="21" />
+			<location book="joh" chapter="4" verse="23" range="24" />
+			<location book="2ch" chapter="5" verse="13" range="14" />
+			<location book="1pe" chapter="2" verse="5" />
+			<location book="1pe" chapter="2" verse="9" />
+			<location book="heb" chapter="13" verse="15" range="16" />
+			<location book="rev" chapter="4" verse="11" />
+			<location book="heb" chapter="11" verse="6" />
+			<location book="col" chapter="1" verse="10" />
+			<location book="rom" chapter="12" verse="1" range="2" />
+			<location book="1ti" chapter="2" verse="1" range="3" />
+			<location book="1ti" chapter="2" verse="8" />
+			<location book="psa" chapter="145" verse="21" />
+			<location book="psa" chapter="109" verse="30" />
+			<location book="psa" chapter="47" verse="1" />
+			<location book="psa" chapter="147" verse="11" />
+			<location book="psa" chapter="149" verse="1" range="6" />
+			<location book="rom" chapter="8" verse="8" range="9" />
+			<location book="1jo" chapter="3" verse="22" />
+		</topic>
+	</topic>
+	<topic name="Boży plan zbawienia">
+		<location book="rom" chapter="5" verse="12" />
+		<location book="rom" chapter="3" verse="23" />
+		<location book="rom" chapter="6" verse="23" />
+		<location book="rom" chapter="5" verse="8" />
+		<location book="1co" chapter="15" verse="1" range="4" />
+		<location book="joh" chapter="3" verse="17" />
+		<location book="joh" chapter="3" verse="36" />
+		<location book="joh" chapter="3" verse="16" />
+		<location book="joh" chapter="1" verse="12" />
+		<location book="eph" chapter="2" verse="8" range="9" />
+		<location book="rev" chapter="3" verse="20" />
+		<location book="rom" chapter="10" verse="8" range="10" />
+		<location book="mat" chapter="10" verse="32" />
+		<location book="1jo" chapter="5" verse="11" />
+	</topic>
+</topics>
