@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shortcuts app="rBiblia">
+	<window name="Globalne">
+		<key id="Ctrl+C">kopiuj wybrany werset do schowka</key>
+		<key id="Ctrl+F">otwórz okno wyszukiwania</key>
+		<key id="Ctrl+U">wyświetl okno z ustawieniami programu</key>
+		<key id="Ctrl+L">wyświetl okno zmiany wersji językowej programu</key>
+		<key id="Ctrl+R">wyświetl Repozytorium tłumaczeń</key>
+		<key id="Ctrl+M">wyświetl Multischowek</key>
+		<key id="Ctrl+J">przeskocz do konkretnego miejsca za pomocą skrótu</key>
+		<key id="Ctrl+T">wyświetl Słownik terminów biblijnych</key>
+		<key id="Ctrl+1">maksymalizuj otwarte okna</key>
+		<key id="Ctrl+2">ustaw okna sąsiadujące w pionie</key>
+		<key id="Ctrl+3">ustaw okna sąsiadujące w poziomie</key>
+		<key id="Ctrl+4">ustaw okna kaskadowo</key>
+		<key id="F1..F12">otwórz okno z przypisanym tłumaczeniem</key>
+		<key id="Ctrl+Tab">przełącz do następnego okna</key>
+		<key id="Tab">przełącz do poprzedniego okna</key>
+	</window>
+	<window name="W oknie tłumaczenia">
+		<key id="Up">poprzedni werset</key>
+		<key id="Down">następny werset</key>
+		<key id="Left">poprzedni rozdział</key>
+		<key id="Right">następny rozdział</key>
+		<key id="Ctrl+Left">poprzednia księga</key>
+		<key id="Ctrl+Right">następna księga</key>
+		<key id="Ctrl+I">wyświetl informacje o tłumaczeniu</key>
+		<key id="Home">pierwszy werset</key>
+		<key id="End">ostatni werset</key>
+		<key id="PageUp">skocz o 10 wersetów wstecz</key>
+		<key id="PageDown">skocz o 10 wersetów do przodu</key>
+		<key id="Enter">ustaw werset w pozostałych tłumaczeniach (podwójne klinięcie)</key>
+		<key id="Tilde">przełącz pomiędzy nawigatorem, a oknem tłumaczenia</key>
+		<key id="Alt+Left">skocz do poprzedniego miejsca w historii</key>
+		<key id="Alt+Right">skocz do następnego miejsca w historii</key>
+	</window>
+	<window name="W wynikach wyszukiwania">
+		<key id="Ctrl+G">skocz do następnego wersetu</key>
+		<key id="Ctrl+Shift+G">skocz do poprzedniego wersetu</key>
+	</window>
+</shortcuts>
