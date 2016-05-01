@@ -1,0 +1,16 @@
+﻿rBiblia jest darmowym programem umożliwiającym przeglądanie, wyszukiwanie oraz porównywanie treści różnych tłumaczeń biblijnych.
+
+Minimalne wymagania programu to:
+- komputer z systemem Windows XP lub nowszym (x86/x64),
+- zainstalowana platforma Microsoft .NET 3.5/4 (sprawdzana podczas instalacji),
+- łącze internetowe (w celu pobierania nowych tłumaczeń).
+
+Jako autor dołożyłem wszelkich starań, aby program działał według swojego przeznaczenia. Nie mogę wziąć jednak odpowiedzialności za wszelkie szkody powstałe w wyniku jego funkcjonowania.
+
+Będę wdzięczny za wszelkie uwagi oraz pomysły dotyczące usprawnienia aplikacji.
+
+(c) 2013-2016 Rafał Toborek
+http://rbiblia.toborek.info
+
+Program powstał we współpracy z:
+http://omniproject.pl
