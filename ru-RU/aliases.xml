@@ -499,35 +499,35 @@
 		<short>откр</short>
 		<short>апок</short>
 	</alias>
-	<alias id="epj" group="nt" name="Послание Иеремии" type="apocrypha">
+	<alias id="epj" group="ot" name="Послание Иеремии" type="apocrypha">
 		<short>epj</short>
 		<short>иер0</short>
 	</alias>
-	<alias id="sus" group="nt" name="Сусанна и старцы" type="apocrypha">
+	<alias id="sus" group="ot" name="Сусанна и старцы" type="apocrypha">
 		<short>sus</short>
 		<short>сус</short>
 		<short>сис</short>
 	</alias>
-	<alias id="bel" group="nt" name="Бель" type="apocrypha">
+	<alias id="bel" group="ot" name="Бель" type="apocrypha">
 		<short>bel</short>
 		<short>бел</short>
 		<short>бель</short>
 	</alias>
-	<alias id="pra" group="nt" name="Молитва Озия" type="apocrypha">
+	<alias id="pra" group="ot" name="Молитва Озия" type="apocrypha">
 		<short>pra</short>
 		<short>оз</short>
 		<short>озия</short>
 	</alias>
-	<alias id="prm" group="nt" name="Молитва Манассия" type="apocrypha">
+	<alias id="prm" group="ot" name="Молитва Манассия" type="apocrypha">
 		<short>prm</short>
 		<short>манас</short>
 		<short>мнс</short>
 	</alias>
-	<alias id="lao" group="nt" name="Лаодикия" type="apocrypha">
+	<alias id="lao" group="ot" name="Лаодикия" type="apocrypha">
 		<short>lao</short>
 		<short>лао</short>
 	</alias>
-	<alias id="4es" group="nt" name="4 Ездры" type="apocrypha">
+	<alias id="4es" group="ot" name="4 Ездры" type="apocrypha">
 		<short>4ez</short>
 		<short>4es</short>
 		<short>4ezd</short>

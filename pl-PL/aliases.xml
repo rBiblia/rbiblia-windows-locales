@@ -469,25 +469,25 @@
 		<short>objawienia</short>
 		<short>apokalipsa</short>
 	</alias>
-	<alias id="epj" group="nt" name="List Jeremiasz" type="apocrypha">
+	<alias id="epj" group="ot" name="List Jeremiasz" type="apocrypha">
 		<short>epj</short>
 	</alias>
-	<alias id="sus" group="nt" name="Susanna" type="apocrypha">
+	<alias id="sus" group="ot" name="Susanna" type="apocrypha">
 		<short>sus</short>
 	</alias>
-	<alias id="bel" group="nt" name="Bel" type="apocrypha">
+	<alias id="bel" group="ot" name="Bel" type="apocrypha">
 		<short>bel</short>
 	</alias>
-	<alias id="pra" group="nt" name="Modlitwa Azariasza" type="apocrypha">
+	<alias id="pra" group="ot" name="Modlitwa Azariasza" type="apocrypha">
 		<short>pra</short>
 	</alias>
-	<alias id="prm" group="nt" name="Modlitwa Manassesa" type="apocrypha">
+	<alias id="prm" group="ot" name="Modlitwa Manassesa" type="apocrypha">
 		<short>prm</short>
 	</alias>
-	<alias id="lao" group="nt" name="Laodiceanie" type="apocrypha">
+	<alias id="lao" group="ot" name="Laodiceanie" type="apocrypha">
 		<short>lao</short>
 	</alias>
-	<alias id="4es" group="nt" name="4 Ezdrasz" type="apocrypha">
+	<alias id="4es" group="ot" name="4 Ezdrasz" type="apocrypha">
 		<short>4ez</short>
 		<short>4es</short>
 		<short>4ezd</short>
