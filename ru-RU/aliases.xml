@@ -206,10 +206,7 @@
 		<short>прем</short>
 	</alias>
 	<alias id="sip" group="ot" name="Пролог Иисуса, сына Сирахова" type="apocrypha">
-		<short>syr0</short>
 		<short>sip</short>
-		<short>сир0</short>
-		<short>сирах0</short>
 	</alias>
 	<alias id="sir" group="ot" name="Премудрости Иисуса, сына Сирахова (Сирах)" type="apocrypha">
 		<short>syr</short>
