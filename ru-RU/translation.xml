@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation app="rBiblia">
+    <authors>
+        <name>Piotr Proc</name>
+        <name>Oleksandr Baraniuk</name>
+    </authors>
+
+    <controls>
+        <!-- mainForm -->
+        <value id="mainForm.navigatorToolStrip.goToolStripButton" type="ToolTipText">Быстро перейти к избранному месту в открытом переводе [Ctrl+J]\r\nНесколько примеров: gen, быт2, быт2:1, 2тм, 2tим, 2tим1, 2тимофею1:2, 3и, 3ин, 3иоан, ap, откр</value>
+        <value id="mainForm.navigatorToolStrip.prevToolStripButton" type="ToolTipText">Назад [Alt+влево]</value>
+        <value id="mainForm.navigatorToolStrip.nextToolStripButton" type="ToolTipText">Далее [Alt+вправо]</value>
+        <value id="mainForm.navigatorToolStrip.copyToolStripButton" type="ToolTipText">Скопировать выделенный стих в буфер обмена [Ctrl+C]</value>
+        <value id="mainForm.navigatorToolStrip.searchToolStripButton" type="ToolTipText">Искать в активном переводе [Ctrl+F]</value>
+        <value id="mainForm.navigatorToolStrip.addBookmarkToolStripButton" type="ToolTipText">Добавить выделенный стих в закладки [Ctrl+B]</value>
+        <value id="mainForm.navigatorToolStrip.propagateToolStripButton" type="ToolTipText">Перейти в это место во всех открытых переводах [Enter]</value>
+        <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="Text">Работник достоин своей платы [1Тим 5:18]</value>
+        <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="ToolTipText">Пожертвовать небольшую сумму в знак благодарности за программу</value>
+        <value id="mainForm.navigatorToolStrip.bookToolStripLabel" type="Text">
+            <![CDATA[&Книга:]]>
+        </value>
+        <value id="mainForm.navigatorToolStrip.chapterToolStripLabel" type="Text">
+            <![CDATA[&Раздел:]]>
+        </value>
+        <value id="mainForm.navigatorToolStrip.verseToolStripLabel" type="Text">
+            <![CDATA[&Стих:]]>
+        </value>
+        <value id="mainForm.menuStrip.operationsToolStripMenuItem" type="Text">
+            <![CDATA[&Операции]]>
+        </value>
+        <value id="mainForm.menuStrip.copyToolStripMenuItem" type="Text">
+            <![CDATA[С&копировать]]>
+        </value>
+        <value id="mainForm.menuStrip.searchToolStripMenuItem" type="Text">
+            <![CDATA[&Искать]]>
+        </value>
+        <value id="mainForm.menuStrip.settingsToolStripMenuItem" type="Text">
+            <![CDATA[&Настройки]]>
+        </value>
+        <value id="mainForm.menuStrip.languageToolStripMenuItem" type="Text">
+            <![CDATA[Из&менить язык]]>
+        </value>
+        <value id="mainForm.menuStrip.exitToolStripMenuItem" type="Text">
+            <![CDATA[&Закончить]]>
+        </value>
+        <value id="mainForm.menuStrip.translationsToolStripMenuItem" type="Text">
+            <![CDATA[&Переводы]]>
+        </value>
+        <value id="mainForm.menuStrip.downloadTranslationsToolStripMenuItem" type="Text">
+            <![CDATA[Управление &репозиторием]]>
+        </value>
+        <value id="mainForm.menuStrip.openAllToolStripMenuItem" type="Text">
+            <![CDATA[Открыть &все]]>
+        </value>
+        <value id="mainForm.menuStrip.bookmarksToolStripMenuItem" type="Text">
+            <![CDATA[&Закладки]]>
+        </value>
+        <value id="mainForm.menuStrip.addBookmarkToolStripMenuItem" type="Text">
+            <![CDATA[Добавить в &закладки]]>
+        </value>
+        <value id="mainForm.menuStrip.manageBookmarksToolStripMenuItem" type="Text">
+            <![CDATA[&Организовать закладки]]>
+        </value>
+        <value id="mainForm.menuStrip.importBookmarksToolStripMenuItem" type="Text">
+            <![CDATA[Имп&ортировать/экспортировать закладки]]>
+        </value>
+        <value id="mainForm.menuStrip.windowToolStripMenuItem" type="Text">
+            <![CDATA[Ок&на]]>
+        </value>
+        <value id="mainForm.menuStrip.maximizeToolStripMenuItem" type="Text">
+            <![CDATA[&Развернуть]]>
+        </value>
+        <value id="mainForm.menuStrip.verticalToolStripMenuItem" type="Text">
+            <![CDATA[&Вертикально]]>
+        </value>
+        <value id="mainForm.menuStrip.horizontalToolStripMenuItem" type="Text">
+            <![CDATA[&Горизонтально]]>
+        </value>
+        <value id="mainForm.menuStrip.cascadeToolStripMenuItem" type="Text">
+            <![CDATA[&Каскадом]]>
+        </value>
+        <value id="mainForm.menuStrip.closeAllToolStripMenuItem" type="Text">
+            <![CDATA[Закрыть &все]]>
+        </value>
+        <value id="mainForm.menuStrip.closeAllRemainingToolStripMenuItem" type="Text">
+            <![CDATA[З&акрыть остальные]]>
+        </value>
+        <value id="mainForm.menuStrip.helpToolStripMenuItem" type="Text">
+            <![CDATA[Помо&щь]]>
+        </value>
+        <value id="mainForm.menuStrip.dictionaryToolStripMenuItem" type="Text">
+            <![CDATA[&Словарь библейских терминов]]>
+        </value>
+        <value id="mainForm.menuStrip.clipboardToolStripMenuItem" type="Text">
+            <![CDATA[&Мультибуфер обмена]]>
+        </value>
+        <value id="mainForm.menuStrip.topicsToolStripMenuItem" type="Text">
+            <![CDATA[&Божьи обещания, когда в чём-то нуждаешься]]>
+        </value>
+        <value id="mainForm.menuStrip.donationsToolStripMenuItem" type="Text">
+            <![CDATA[Пожертвовать &деньги на программу]]>
+        </value>
+        <value id="mainForm.menuStrip.contactToolStripMenu" type="Text">
+            <![CDATA[&Контакт с автором]]>
+        </value>
+        <value id="mainForm.menuStrip.aboutToolStripMenuItem" type="Text">
+            <![CDATA[И&нформация о программе]]>
+        </value>
+
+        <!-- settingsForm -->
+        <value id="settingsForm" type="Text">Настройки</value>
+        <value id="settingsForm.menuToolStrip.saveToolStripButton" type="Text">Сохранить</value>
+        <value id="settingsForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="settingsForm.categoriesTreeView.layoutNode" type="Text">Вид</value>
+        <value id="settingsForm.categoriesTreeView.languageNode" type="Text">Язык</value>
+        <value id="settingsForm.categoriesTreeView.mainNode" type="Text">Общие</value>
+
+        <!-- settingsLanguageForm -->
+        <value id="settingsLanguageForm.languageGroupBox" type="Text">
+            <![CDATA[&Язык]]>
+        </value>
+        <value id="settingsLanguageForm.localesLabel" type="Text">ресурсы для переводчиков</value>
+        <value id="settingsLanguageForm.instructionsLabel" type="Text">Больше языковых версий и детальную инструкцию по подготовке переводов на другие языки найдёшь на официальном сайте программы</value>
+        <value id="settingsLanguageForm.languageLabel" type="Text">Здесь можешь выбрать язык интерфейса программы.</value>
+
+        <!-- settingsMainForm -->
+        <value id="settingsMainForm.mainGroupBox" type="Text">
+            <![CDATA[&Основные]]>
+        </value>
+        <value id="settingsMainForm.quickBarLabel" type="Text">
+            <![CDATA[Панель &быстрого запуска:]]>
+        </value>
+        <value id="settingsMainForm.showTranslationOnStartCheckBox" type="Text">
+            <![CDATA[&Открыть недавно просмотренные переводы при запуске]]>
+        </value>
+        <value id="settingsMainForm.saveWindowPositionCheckBox" type="Text">
+            <![CDATA[&Сохранить позицию главного окна]]>
+        </value>
+        <value id="settingsMainForm.quickBarComboBox" type="Items">
+            <item>скрыть</item>
+            <item>показать вверху экрана</item>
+            <item>показать внизу экрана</item>
+        </value>
+
+        <!-- settingsLayoutForm -->
+        <value id="settingsLayoutForm.sizeGroupBox" type="Text">
+            <![CDATA[&Размер текста]]>
+        </value>
+        <value id="settingsLayoutForm.fontColorGroupBox" type="Text">
+            <![CDATA[Цвет шриф&та]]>
+        </value>
+        <value id="settingsLayoutForm.backgroundColorGroupBox" type="Text">
+            <![CDATA[Цвет фо&на]]>
+        </value>
+        <value id="settingsLayoutForm.selectedColorGroupBox" type="Text">
+            <![CDATA[Цвет &выделенного фрагмента]]>
+        </value>
+        <value id="settingsLayoutForm.verseColorGroupBox" type="Text">
+            <![CDATA[Цвет &стиха]]>
+        </value>
+        <value id="settingsLayoutForm.fontNameGroupBox" type="Text">
+            <![CDATA[&Название шрифта]]>
+        </value>
+
+        <!-- translationForm -->
+        <value id="translationForm.searchToolStrip.resultsToolStripLabel" type="Text">
+            <![CDATA[&Результаты поиска:]]>
+        </value>
+        <value id="translationForm.searchToolStrip.previousResultToolStripButton" type="ToolTipText">Предыдущий [Ctrl+Shift+G]</value>
+        <value id="translationForm.searchToolStrip.nextResultToolStripButton" type="ToolTipText">Следующий [Ctrl+G]</value>
+        <value id="translationForm.searchToolStrip.hideResultsToolStripButton" type="ToolTipText">Скрыть список результатов</value>
+
+        <!-- updateForm -->
+        <value id="updateForm" type="Text">Обновление программы</value>
+        <value id="updateForm.updateLabel" type="Text">Загрузка новой версии программы...</value>
+
+        <!-- aboutForm -->
+        <value id="aboutForm" type="Text">Информация о программе</value>
+        <value id="aboutForm.menuToolStrip.detailsToolStripButton" type="Text">
+            <![CDATA[&Версия]]>
+        </value>
+        <value id="aboutForm.menuToolStrip.changesToolStripButton" type="Text">
+            <![CDATA[&Дневник изменений]]>
+        </value>
+        <value id="aboutForm.menuToolStrip.aboutToolStripButton" type="Text">
+            <![CDATA[И&нформация]]>
+        </value>
+        <value id="aboutForm.menuToolStrip.shortcutsToolStripButton" type="Text">
+            <![CDATA[&Горячие клавиши]]>
+        </value>
+        <value id="aboutForm.menuToolStrip.contactToolStripButton" type="Text">
+            <![CDATA[&Контакт]]>
+        </value>
+
+        <!-- aboutContactForm -->
+        <value id="aboutContactForm.authorLabel" type="Text">Больше информации об авторе на сайте</value>
+        <value id="aboutContactForm.messageLabel" type="Text">
+            <![CDATA[&Что хотел бы сказать?]]>
+        </value>
+        <value id="aboutContactForm.sendButton" type="Text">
+            <![CDATA[Отправить &автору]]>
+        </value>
+        <value id="aboutContactForm.emailLabel" type="Text">
+            <![CDATA[Укажи &e-mail:]]>
+        </value>
+        <value id="aboutContactForm.nameLabel" type="Text">
+            <![CDATA[&Представься:]]>
+        </value>
+
+        <!-- aboutDetailsForm -->
+        <value id="aboutDetailsForm.omniLabel" type="Text">Создано в сотрудничестве с</value>
+        <value id="aboutDetailsForm.dotNetVersionLabel" type="Text">версия .NET: {0}</value>
+        <value id="aboutDetailsForm.versionLabel" type="Text">рБиблия, версия {0}</value>
+        <value id="aboutDetailsForm.descriptionLabel" type="Text">Программа рБиблия была создана для легкого просмотра и поиска выбранных стихов разных библейских переводов. Автор программы не поддерживает никакой церкви. Если у тебя есть замечания касающиеся программы или ты хотел бы сообщить о какой-то проблеме, используй пожалуйста форму на сайте. Рекомендую каждому читать Библию, в которой полно ответов на все Твои вопросы. Если ты не можешь себе позволить её купить, напиши мне, отправлю тебе экземпляр совершенно бесплатно.</value>
+
+        <!-- addbookmarkForm -->
+        <value id="addBookmarkForm" type="Text">Добавить в закладки</value>
+        <value id="addBookmarkForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="addBookmarkForm.menuToolStrip.okToolStripButton" type="Text">ОК</value>
+        <value id="addBookmarkForm.directoriesGroupBox" type="Text">
+            <![CDATA[&Каталог]]>
+        </value>
+        <value id="addBookmarkForm.nameGroupBox" type="Text">
+            <![CDATA[&Название]]>
+        </value>
+
+        <!-- bookmarksForm -->
+        <value id="bookmarksForm" type="Text">Организовать закладки</value>
+        <value id="bookmarksForm.upDownToolStrip.moveUpToolStripButton" type="ToolTipText">Переместить вверх [Ctrl+Вверх]</value>
+        <value id="bookmarksForm.upDownToolStrip.moveDownToolStripButton" type="ToolTipText">Переместить вниз [Ctrl+Вниз]</value>
+        <value id="bookmarksForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="bookmarksForm.menuToolStrip.saveToolStripButton" type="Text">Сохранить</value>
+        <value id="bookmarksForm.bookmarksGroupBox" type="Text">
+            <![CDATA[&Закладки]]>
+        </value>
+        <value id="bookmarksForm.nameGroupBox" type="Text">
+            <![CDATA[&Название]]>
+        </value>
+        <value id="bookmarksForm.menuToolStrip.newDirectoryToolStripButton" type="Text">
+            <![CDATA[Создать па&пку]]>
+        </value>
+        <value id="bookmarksForm.menuToolStrip.deleteToolStripButton" type="Text">
+            <![CDATA[&Удалить]]>
+        </value>
+        <value id="bookmarksForm.menuToolStrip.moveToolStripButton" type="Text">
+            <![CDATA[&Переместить]]>
+        </value>
+
+        <!-- clipboardForm -->
+        <value id="clipboardForm" type="Text">Мультибуфер обмена</value>
+        <value id="clipboardForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="clipboardForm.menuToolStrip.saveToolStripButton" type="Text">Сохранить</value>
+        <value id="clipboardForm.statusStrip.toolStripStatusLabel" type="Text">Мультибуфер обмена сохраняет историю всех скопированных стихов</value>
+        <value id="clipboardForm.menuToolStrip.copyToolStripButton" type="ToolTipText">Скопировать содержимое Мультибуфера обмена в системный буфер</value>
+        <value id="clipboardForm.menuToolStrip.clearToolStripButton" type="Text">
+            <![CDATA[&Очистить]]>
+        </value>
+        <value id="clipboardForm.menuToolStrip.copyToolStripButton" type="Text">
+            <![CDATA[С&копировать...]]>
+        </value>
+        <value id="clipboardForm.menuToolStrip.saveToFileToolStripButton" type="Text">
+            <![CDATA[&Сохранить в файл]]>
+        </value>
+
+        <!-- dictionaryForm -->
+        <value id="dictionaryForm" type="Text">Словарь библейских терминов</value>
+        <value id="dictionaryForm.menuToolStrip.termsButton" type="ToolTipText">Показать или скрыть список терминов [Ctrl+L]</value>
+        <value id="dictionaryForm.menuToolStrip.copyButton" type="Text">
+            <![CDATA[&Скопировать]]>
+        </value>
+        <value id="dictionaryForm.menuToolStrip.copyButton" type="ToolTipText">Скопировать текст в буфер обмена [Ctrl+C]</value>
+
+        <!-- downloadForm -->
+        <value id="downloadForm" type="Text">Репозиторий переводов</value>
+        <value id="downloadForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="downloadForm.menuToolStrip.updateToolStripButton" type="Text">Обновить</value>
+
+        <!-- downloadErrorForm -->
+        <value id="downloadErrorForm.errorLabel" type="Text">Ошибка соединения с сервером. Попробуй заново через несколько минут. Если проблема остаётся, убедись, что firewall не блокирует доступа к Интернету</value>
+
+        <!-- downloadTranslationsForm -->
+        <value id="downloadTranslationsForm.descriptionLabel" type="Text">В этом месте можешь добавить или удалить установленные переводы. Переводы, отмеченные зелёным, уже установлены. Если их отключить это удалит их из компьютера. Переводы, отмеченные оранжевым, доступны в более новой версии и появятся после обновленния программы. Из-за размера файлов рекомендуется скачать только те переводы, которые намереваешься использовать:</value>
+        <value id="downloadTranslationsForm.translationsListView.languageColumnHeader" type="Text">Язык</value>
+        <value id="downloadTranslationsForm.translationsListView.authorisationColumnHeader" type="Text">Авторизация</value>
+        <value id="downloadTranslationsForm.translationsListView.sizeColumnHeader" type="Text">Размер</value>
+        <value id="downloadTranslationsForm.translationsListView.descriptionColumnHeader" type="Text">Описание</value>
+        <value id="downloadTranslationsForm.translationsListView.nameColumnHeader" type="Text">Название</value>
+        <value id="downloadTranslationsForm.translationsListView.clearToolStripMenuItem" type="Text">
+            <![CDATA[&Удалить все избранные]]>
+        </value>
+        <value id="downloadTranslationsForm.translationsListView.selectToolStripMenuItem" type="Text">
+            <![CDATA[Выбрать &все переводы на языке:]]>
+        </value>
+
+        <!-- moveBookmarkForm -->
+        <value id="moveBookmarkForm" type="Text">Переместить закладку</value>
+        <value id="moveBookmarkForm.mainGroupBox" type="Text">Переместить в</value>
+        <value id="moveBookmarkForm.menuToolStrip.okToolStripButton" type="Text">ОК</value>
+        <value id="moveBookmarkForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+
+        <!-- searchForm -->
+        <value id="searchForm" type="Text">Искать</value>
+        <value id="searchForm.optionWordsLabel" type="Text">Слово должно существовать в реальном языке, фрагменты слов не считаются.</value>
+        <value id="searchForm.optionsTabPage" type="Text">Опции</value>
+        <value id="searchForm.optionAllLabel" type="Text">Стих должен содержать каждое слово из списка</value>
+        <value id="searchForm.optionAnyLabel" type="Text">Стих может содержать одно или несколько слов из списка</value>
+        <value id="searchForm.rangeTabPage" type="Text">Область</value>
+        <value id="searchForm.wordsTabPage" type="Text">Слова</value>
+        <value id="searchForm.menuToolStrip.findToolStripButton" type="Text">Искать</value>
+        <value id="searchForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="searchForm.descriptionLabel" type="Text">Введи слово, которое хочешь найти в открытом переводе, а потом нажми зелёный плюс, чтобы добавить его в список. Поисковая система даёт возможность найти стихи, которые содержат больше одного слова из поиска:</value>
+        <value id="searchForm.optionAllRadioButton" type="Text">
+            <![CDATA[все слова (&и)]]>
+        </value>
+        <value id="searchForm.optionAnyRadioButton" type="Text">
+            <![CDATA[любое из слов (и&ли)]]>
+        </value>
+        <value id="searchForm.optionMatchCaseCheckBox" type="Text">
+            <![CDATA[&Учитывать размер букв]]>
+        </value>
+        <value id="searchForm.optionWordsCheckBox" type="Text">
+            <![CDATA[Только &целые слова]]>
+        </value>
+        <value id="searchForm.rangeNTRadioButton" type="Text">
+            <![CDATA[только &Новый Завет]]>
+        </value>
+        <value id="searchForm.rangeAllRadioButton" type="Text">
+            <![CDATA[&везде]]>
+        </value>
+        <value id="searchForm.rangeOTRadioButton" type="Text">
+            <![CDATA[только &Старый Завет]]>
+        </value>
+        <value id="searchForm.rangeSelectedBooksRadioButton" type="Text">
+            <![CDATA[избранные &книги{0}:]]>
+        </value>
+
+        <!-- importBookmarksForm -->
+        <value id="importBookmarksForm" type="Text">Импортировать/Экспортировать закладки</value>
+        <value id="importBookmarksForm.listLabel" type="Text">Создать документ, который содержит избранные стихи в разных переводах, созданный на основе избранных закладок</value>
+        <value id="importBookmarksForm.listTabPage" type="Text">Список стихов</value>
+        <value id="importBookmarksForm.importTabPage" type="Text">Резервная копия</value>
+        <value id="importBookmarksForm.importLabel" type="Text">Позволяет загрузить закладки, сохраненные раньше в файл</value>
+        <value id="importBookmarksForm.exportLabel" type="Text">Позволяет сохранить существующие закладки в файл, чтобы создать копию или перенести на другой компьютер</value>
+        <value id="importBookmarksForm.importGroupBox" type="Text">Параметры импорта</value>
+        <value id="importBookmarksForm.menuToolStrip.proceedToolStripButton" type="Text">Начать</value>
+        <value id="importBookmarksForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="importBookmarksForm.listTranslationsLabel" type="Text">
+            <![CDATA[Избранные &переводы:]]>
+        </value>
+        <value id="importBookmarksForm.listBookmarksLabel" type="Text">
+            <![CDATA[Избранные &закладки:]]>
+        </value>
+        <value id="importBookmarksForm.listAboveLabel" type="Text">
+            <![CDATA[Количество стихов в&верх:]]>
+        </value>
+        <value id="importBookmarksForm.listBelowLabel" type="Text">
+            <![CDATA[Количество стихов в&низ:]]>
+        </value>
+        <value id="importBookmarksForm.listAddNameCheckBox" type="Text">
+            <![CDATA[Добавить &название закладки]]>
+        </value>
+        <value id="importBookmarksForm.importRadioButton" type="Text">
+            <![CDATA[И&мпортировать закладки из файла]]>
+        </value>
+        <value id="importBookmarksForm.exportRadioButton" type="Text">
+            <![CDATA[&Экспортировать закладки в файл]]>
+        </value>
+        <value id="importBookmarksForm.overwriteRadioButton" type="Text">
+            <![CDATA[Загрузить закладки заново (&удалить существующие)]]>
+        </value>
+        <value id="importBookmarksForm.addRadioButton" type="Text">
+            <![CDATA[Добавить закладки в новом &расположении:]]>
+        </value>
+
+        <!-- readerUserControl -->
+        <value id="readerUserControl.setToolStripMenuItem" type="Text">
+            <![CDATA[&Перейти к стиху в остальных переводах]]>
+        </value>
+        <value id="readerUserControl.copyToolStripMenuItem" type="Text">
+            <![CDATA[&Скопировать избранные стихи в буфер обмена]]>
+        </value>
+        <value id="readerUserControl.addBookmarkToolStripMenuItem" type="Text">
+            <![CDATA[Добавить в &закладки]]>
+        </value>
+        <value id="readerUserControl.detailsToolStripMenuItem" type="Text">
+            <![CDATA[&Информации о переводе]]>
+        </value>
+    </controls>
+
+    <strings>
+        <value id="about_contact_form_done_text">Сообщение было отправлено, отвечу вскоре.</value>
+        <value id="about_contact_form_done_title">Спасибо :-)</value>
+        <value id="about_contact_form_error_text">Не удалось отправить сообщение автору, попробуй позже.\r\n{0}</value>
+        <value id="about_contact_form_error_title">Ошибка при отправке сообщения</value>
+        <value id="add_bookmark_form_root">Самый высокий уровень</value>
+        <value id="bookmark_form_delete_text">Ты действительно хочешь удалить закладку?</value>
+        <value id="bookmark_form_delete_title">Удалить</value>
+        <value id="bookmark_form_new_directory">Новая папка</value>
+        <value id="clipboard_form_clear_text">Ты действительно хочешь очистить буфер обмена?</value>
+        <value id="clipboard_form_clear_title">Очистить</value>
+        <value id="clipboard_form_copy_text">Текст находится в буфере обмена</value>
+        <value id="clipboard_form_copy_title">Скопировать в буфер обмена</value>
+        <value id="clipboard_form_save_dialog_filename">мультибуфер_обмена_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
+        <value id="clipboard_form_save_dialog_filter">Текстовые документы (*.txt)|*.txt</value>
+        <value id="clipboard_form_save_dialog_title">Сохранить содержимое Мультибуфера обмена в файл</value>
+        <value id="clipboard_form_save_done_text">Содержимое успешно сохраненное в файле</value>
+        <value id="clipboard_form_save_done_title">Содержимое записано</value>
+        <value id="clipboard_form_save_error_text">При сохранении файла возникла ошибка: {0}</value>
+        <value id="clipboard_form_save_error_title">Не удалось сохранить содержимое в файл</value>
+        <value id="dictionary_form_count">Доступных терминов: {0}</value>
+        <value id="download_form_authorisation_no">Отсутствует</value>
+        <value id="download_form_authorisation_yes">Авторизованный</value>
+        <value id="download_form_cancel_text">Ты действительно хочешь прервать загрузку переводов?</value>
+        <value id="download_form_cancel_title">Отменить загрузку переводов</value>
+        <value id="download_form_error_out_of_date">Эта версия программы неактуальная. Чтобы использовать репозиторий, необходимо обновить программу</value>
+        <value id="download_form_status_download_list">Загружаю список доступных переводов...</value>
+        <value id="download_form_status_download_translations">Загружаю избранные переводы...</value>
+        <value id="download_form_summary">всех переводов: {0}   установленных: {1}   для обновления: {2}</value>
+        <value id="import_bookmarks_form_dialog_filter">Закладки программы рБиблия (*.xml)|*.xml</value>
+        <value id="import_bookmarks_form_export_done_text">Закладки сохранены в файл</value>
+        <value id="import_bookmarks_form_export_done_title">Закладки сохранены</value>
+        <value id="import_bookmarks_form_export_error_text">Не удалось сохранить закладки в указанное место</value>
+        <value id="import_bookmarks_form_export_error_title">Проблема при сохранении закладок</value>
+        <value id="import_bookmarks_form_import_done_text">Закладки успешно импортированы</value>
+        <value id="import_bookmarks_form_import_done_title">Закладки импортированы</value>
+        <value id="import_bookmarks_form_import_error_text">Не удалось успешно импортировать закладки из файла. Возможно файл повреждён или не содержит закладок</value>
+        <value id="import_bookmarks_form_import_error_title">Ошибка при импорте закладок</value>
+        <value id="import_bookmarks_form_list_bookmarks_warning_text">Закладки не выбраны</value>
+        <value id="import_bookmarks_form_list_bookmarks_warning_title">Невозможно создать список</value>
+        <value id="import_bookmarks_form_list_done_text">Документ со стихами успешно создан</value>
+        <value id="import_bookmarks_form_list_done_title">Список создан</value>
+        <value id="import_bookmarks_form_list_save_dialog_filename">любимые_стихи_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
+        <value id="import_bookmarks_form_list_save_dialog_filter">Текстовые документы (*.txt)|*.txt</value>
+        <value id="import_bookmarks_form_list_save_dialog_title">Сохранить закладки в виде списка</value>
+        <value id="import_bookmarks_form_list_translations_warning_text">Перевод не выбран</value>
+        <value id="import_bookmarks_form_list_translations_warning_title">Невозможно создать список</value>
+        <value id="import_bookmarks_form_open_dialog_title">Загрузить закладки из файла</value>
+        <value id="import_bookmarks_form_save_dialog_filename">закладки_рбиблия_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
+        <value id="import_bookmarks_form_save_dialog_title">Сохранить все закладки в файл</value>
+        <value id="import_bookmarks_form_warning_text">Ввести название для новой папки с закладками</value>
+        <value id="import_bookmarks_form_warning_title">Не указано название папки</value>
+        <value id="import_bookmarks_form_write_error_text">Ошибка при сохранении в файл</value>
+        <value id="main_form_application_update_notification">Доступна новая версия программы рБиблия. Всегда рекомендуется использовать самую новую версию программы. Обновить сейчас?</value>
+        <value id="main_form_bookmarks_warning_text">Установленные переводы отсутствуют. Установи хотя бы один перевод, чтобы открыть закладку.</value>
+        <value id="main_form_bookmarks_warning_title">Закладки</value>
+        <value id="main_form_close_all_remaining_text">Ты уверен, что хочешь закрыть все остальные переводы?</value>
+        <value id="main_form_close_all_remaining_title">Закрой остальные переводы</value>
+        <value id="main_form_close_all_text">Ты уверен, что хочешь закрыть все открытые переводы?</value>
+        <value id="main_form_close_all_title">Закрой открытые переводы</value>
+        <value id="main_form_copy_warning_text">Копировать нечего :-(</value>
+        <value id="main_form_dictionary_error_text">Файл, необходимый для запуска словаря, не найден или повреждён. Установи программу заново.</value>
+        <value id="main_form_dictionary_error_title">Невозможно запустить словарь</value>
+        <value id="main_form_helper_notification">Похоже это первый запуск программы. Чтобы удобно просматривать разные версии библейских переводов необходимо их скачать и установить. Встроенный создатель позволяет быстро добавить новые переводы. Хочешь его запустить?</value>
+        <value id="main_form_no_translations_summary">Нет доступных переводов</value>
+        <value id="main_form_not_found_text">Выражения не найдены</value>
+        <value id="main_form_not_found_title">Поиск закончен</value>
+        <value id="main_form_topics_info_text">Нет установленных переводов. Чтобы получить справку на избранную тему, установи хотя бы один перевод.</value>
+        <value id="main_form_topics_info_title">Необходимая помощь</value>
+        <value id="main_form_translation_update_notification">Доступны обновления установленных переводов ({0}) содержащие исправления найденных ошибок. Хочешь перейти в репозиторий и обновить переводы?</value>
+        <value id="main_form_translations_count_summary">Доступных переводов: {0}</value>
+        <value id="main_form_updated_notification">Программа обновлена :-)</value>
+        <value id="move_bookmark_form_warning_text">Элемент из избранной папки</value>
+        <value id="move_bookmark_form_warning_title">Указано неверное расположение</value>
+        <value id="notification_user_control_cool">Хорошо</value>
+        <value id="notification_user_control_no">Нет</value>
+        <value id="notification_user_control_yes">Да</value>
+        <value id="reader_user_control_authorisation_no">Нет</value>
+        <value id="reader_user_control_authorisation_yes">Да</value>
+        <value id="reader_user_control_chapter">Раздел {0}.</value>
+        <value id="reader_user_control_details">{0}\r\n{1}\r\n\r\nАвторизация: {2}\r\nЯзык: {3}\r\nРазмер: {4}\r\nФайл: {5}\r\n\r\nДоступные книги ({6}):\r\n{7}\r\n\r\nРазделов: {8}\r\nСтихов: {9}\r\nСлов: {10}</value>
+        <value id="reader_user_control_details_title">Информация о переводе</value>
+        <value id="reader_user_control_missing_book">К сожалению, перевод не содержит избранной книги.</value>
+        <value id="search_form_range_warning_text">Чтобы найти перевод надо выбрать хотя бы одну книгу</value>
+        <value id="search_form_range_warning_title">Не выбрана ни одна книга</value>
+        <value id="splash_form_aliases_error_text">Файл определения псевдонимов не найден, дальнейшая работа невозможна. Скачай программу из сайта http://rbiblia.toborek.info и установи заново.</value>
+        <value id="splash_form_aliases_error_title">Ошибка</value>
+        <value id="splash_form_translation_error_text">{0}\r\n\r\n{1}\r\n\r\nПеревод удален, загрузи его заново</value>
+        <value id="splash_form_translation_error_title">Ошибка при загрузке перевода</value>
+        <value id="translation_form_search_results_summary">стих {0} из {1} найденных</value>
+        <value id="translation_form_search_results_tool_tip">Слова для поиска:</value>
+        <value id="translation_form_searching_summary">Ищу, подожди пожалуйста...</value>
+        <value id="update_form_cancel_text">Хочешь прервать процесс обновления?</value>
+        <value id="update_form_cancel_title">Прервать обновление</value>
+        <value id="settings_form_translation_authors">Авторы перевода:\r\n\r\n{0}</value>
+        <value id="about_form_preview_file_error">Файл {0} не найден или его невозможно открыть.</value>
+    </strings>
+</translation>
