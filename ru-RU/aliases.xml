@@ -116,15 +116,15 @@
 	<alias id="ezr" group="ot" name="Ездра">
 		<short>ezr</short>
 		<short>ezra</short>
-		<short>эзд</short>
-		<short>эздры</short>
-		<short>эздра</short>
+		<short>езд</short>
+		<short>ездры</short>
+		<short>ездра</short>
 	</alias>
-	<alias id="neh" group="ot" name="Неемия">
+	<alias id="neh" group="ot" name="Неемии">
 		<short>ne</short>
 		<short>neh</short>
 		<short>неем</short>
-		<short>неемия</short>
+		<short>неемии</short>
 	</alias>
 	<alias id="tob" group="ot" name="Товита" type="apocrypha">
 		<short>tb</short>
@@ -135,15 +135,17 @@
 	<alias id="jdt" group="ot" name="Иудифи" type="apocrypha">
 		<short>jdt</short>
 		<short>judyty</short>
-		<short>иудифь</short>
+		<short>иудифи</short>
 		<short>иуд</short>
 		<short>идф</short>
+		<short>юдф</short>
+		<short>юдифи</short>
 	</alias>
 	<alias id="est" group="ot" name="Есфирь">
 		<short>est</short>
 		<short>ester</short>
-		<short>эсф</short>
-		<short>эсфири</short>
+		<short>есф</short>
+		<short>есфири</short>
 	</alias>
 	<alias id="1ma" group="ot" name="1 Маккавейская" type="apocrypha">
 		<short>1мак</short>
@@ -187,13 +189,13 @@
 		<short>притчи</short>
 		<short>притчей</short>
 	</alias>
-	<alias id="ecc" group="ot" name="Екклесиаст">
+	<alias id="ecc" group="ot" name="Екклесиаста">
 		<short>koh</short>
 		<short>ecc</short>
 		<short>kohelet</short>
-		<short>эккл</short>
-		<short>экклесиаст</short>
-		<short>экклесиаста</short>
+		<short>еккл</short>
+		<short>екклесиаст</short>
+		<short>екклесиаста</short>
 		<short>проп</short>
 		<short>проповедника</short>
 	</alias>
@@ -515,7 +517,7 @@
 		<short>оз</short>
 		<short>озия</short>
 	</alias>
-	<alias id="prm" group="ot" name="Молитва Манассия" type="apocrypha">
+	<alias id="prm" group="ot" name="Молитва Манассии" type="apocrypha">
 		<short>prm</short>
 		<short>манас</short>
 		<short>мнс</short>
@@ -530,9 +532,9 @@
 		<short>4ezd</short>
 		<short>4ezdr</short>
 		<short>4ezdr</short>
-		<short>4эз</short>
-		<short>4эздр</short>
-		<short>4эздра</short>
-		<short>4эздры</short>
+		<short>4ез</short>
+		<short>4ездр</short>
+		<short>4ездра</short>
+		<short>4ездры</short>
 	</alias>
 </aliases>

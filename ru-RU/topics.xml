@@ -62,7 +62,7 @@
 			<location book="joh" chapter="14" verse="27" />
 			<location book="phi" chapter="4" verse="6" range="7" />
 		</topic>
-		<topic name="твоим Прощением">
+		<topic name="твое Прощение">
 			<location book="eph" chapter="1" verse="6" range="7" />
 			<location book="psa" chapter="85" verse="2" />
 			<location book="2co" chapter="5" verse="17" />
@@ -79,7 +79,7 @@
 			<location book="isa" chapter="43" verse="25" />
 			<location book="psa" chapter="32" verse="1" range="2" />
 		</topic>
-		<topic name="твоей Справедливостью">
+		<topic name="твоя Справедливость">
 			<location book="2co" chapter="5" verse="21" />
 			<location book="1co" chapter="1" verse="30" />
 			<location book="phi" chapter="3" verse="9" />
@@ -126,7 +126,7 @@
 			<location book="eph" chapter="5" verse="30" />
 			<location book="1jo" chapter="1" verse="5" range="7" />
 		</topic>
-		<topic name="Пример для Подражания">
+		<topic name="пример для Подражания">
 			<location book="1pe" chapter="2" verse="21" />
 			<location book="1jo" chapter="2" verse="6" />
 			<location book="eph" chapter="5" verse="1" range="2" />
@@ -233,7 +233,7 @@
 			<location book="psa" chapter="63" verse="5" range="6" />
 			<location book="rom" chapter="8" verse="32" />
 		</topic>
-		<topic name="Всё для тебя">
+		<topic name="всё для тебя">
 			<location book="phi" chapter="4" verse="19" />
 			<location book="phi" chapter="4" verse="13" />
 			<location book="rom" chapter="8" verse="37" />
@@ -510,7 +510,7 @@
 		</topic>
 	</topic>
 	<topic name="Что делать, когда...">
-		<topic name="ты Испуганный">
+		<topic name="ты Испуган">
 			<location book="2ti" chapter="1" verse="7" />
 			<location book="rom" chapter="8" verse="15" />
 			<location book="1jo" chapter="4" verse="18" />
@@ -528,7 +528,7 @@
 			<location book="psa" chapter="27" verse="1" range="3" />
 			<location book="heb" chapter="13" verse="6" />
 		</topic>
-		<topic name="ты Взволнованный">
+		<topic name="ты Взволнован">
 			<location book="2ti" chapter="1" verse="7" />
 			<location book="isa" chapter="41" verse="10" />
 			<location book="1co" chapter="14" verse="33" />
@@ -629,7 +629,7 @@
 			<location book="2co" chapter="5" verse="8" />
 			<location book="rev" chapter="21" verse="4" />
 		</topic>
-		<topic name="у тебя Сомнения о Боге">
+		<topic name="у тебя Сомнения насчет Бога">
 			<location book="mar" chapter="11" verse="22" range="24" />
 			<location book="luk" chapter="12" verse="29" range="31" />
 			<location book="rom" chapter="4" verse="20" range="21" />
@@ -642,7 +642,7 @@
 			<location book="rom" chapter="10" verse="17" />
 			<location book="isa" chapter="55" verse="10" range="11" />
 		</topic>
-		<topic name="тебе не хватает Уверенности в себя">
+		<topic name="тебе не хватает Уверенности в себе">
 			<location book="phi" chapter="4" verse="13" />
 			<location book="heb" chapter="13" verse="6" />
 			<location book="heb" chapter="10" verse="35" range="36" />
@@ -659,7 +659,7 @@
 			<location book="1jo" chapter="3" verse="21" />
 			<location book="isa" chapter="40" verse="31" />
 		</topic>
-		<topic name="в твоей жизни наваливаются проблемы">
+		<topic name="на тебя наваливаются проблемы">
 			<location book="nah" chapter="1" verse="7" />
 			<location book="2co" chapter="4" verse="8" range="9" />
 			<location book="psa" chapter="138" verse="7" />
@@ -744,7 +744,7 @@
 			<location book="deu" chapter="31" verse="6" />
 			<location book="1sa" chapter="12" verse="22" />
 		</topic>
-		<topic name="не понимаешь Божьей пути">
+		<topic name="не понимаешь Божьего пути">
 			<location book="isa" chapter="55" verse="8" range="9" />
 			<location book="jer" chapter="33" verse="3" />
 			<location book="rom" chapter="8" verse="31" />
@@ -774,7 +774,7 @@
 			<location book="isa" chapter="25" verse="9" />
 		</topic>
 	</topic>
-	<topic name="Что Библия говорить на тему...">
+	<topic name="Что Библия говорит на тему...">
 		<topic name="Веры">
 			<location book="heb" chapter="11" verse="1" />
 			<location book="rom" chapter="10" verse="17" />
@@ -1054,7 +1054,7 @@
 		</topic>
 	</topic>
 	<topic name="Библейские правды на тему...">
-		<topic name="Прощения другим">
+		<topic name="Прощения других">
 			<location book="mat" chapter="6" verse="14" range="15" />
 			<location book="mat" chapter="18" verse="21" range="22" />
 			<location book="luk" chapter="17" verse="3" />
@@ -1140,7 +1140,7 @@
 			<location book="pro" chapter="13" verse="2" range="3" />
 			<location book="pro" chapter="12" verse="18" />
 		</topic>
-		<topic name="Открытие Воли Бога">
+		<topic name="Открытия Воли Бога">
 			<location book="jam" chapter="1" verse="5" />
 			<location book="psa" chapter="32" verse="8" />
 			<location book="psa" chapter="119" verse="105" />
@@ -1301,7 +1301,7 @@
 		</topic>
 	</topic>
 	<topic name="Что можешь сделать, чтобы...">
-		<topic name="Развиваться духово">
+		<topic name="Развиваться духовно">
 			<location book="2pe" chapter="3" verse="18" />
 			<location book="1pe" chapter="2" verse="2" range="3" />
 			<location book="2ti" chapter="2" verse="15" />
