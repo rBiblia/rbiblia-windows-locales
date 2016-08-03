@@ -210,7 +210,7 @@
         <value id="aboutDetailsForm.omniLabel" type="Text">Stworzone we współpracy z</value>
         <value id="aboutDetailsForm.dotNetVersionLabel" type="Text">wersja .NET: {0}</value>
         <value id="aboutDetailsForm.versionLabel" type="Text">rBiblia, wersja {0}</value>
-        <value id="aboutDetailsForm.descriptionLabel" type="Text">Program rBiblia powstał, aby ułatwić przeglądanie oraz poszukiwanie wybranych wersetów różnych tłumaczeń biblijnych. Autor program nie identyfikuje się z żadnym kościołem. Jeśli masz sugestie dotyczące programu lub chciałbyś zgłosić błąd, skorzystaj z formularza umieszczonego na stronie domowej. Zachęcam Cię do czytania Biblii, która pełna jest odpowiedzi na każde Twoje pytanie. Jeśli nie stać Cię na jej zakup, skontaktuj się ze mną, a ja wyślę Ci egzemplarz zupełnie za darmo.</value>
+        <value id="aboutDetailsForm.descriptionLabel" type="Text">Program rBiblia powstał, aby ułatwić przeglądanie oraz poszukiwanie wybranych wersetów różnych tłumaczeń biblijnych. Autor program nie identyfikuje się z żadnym kościołem. Jeśli masz sugestie dotyczące programu lub chciałbyś zgłosić błąd, skorzystaj z formularza umieszczonego na stronie domowej. Zachęcam Cię do czytania Biblii, która pełna jest odpowiedzi na każde Twoje pytanie. Jeśli nie stać Cię na jej zakup, skontaktuj się ze mną, a wyślę Ci egzemplarz zupełnie za darmo.</value>
 
         <!-- addbookmarkForm -->
         <value id="addBookmarkForm" type="Text">Dodaj do zakładek</value>
@@ -278,7 +278,7 @@
         <value id="downloadErrorForm.errorLabel" type="Text">Podczas łączenia z serwerem wystąpił błąd. Spróbuj ponownie za kilka minut. Jeśli problem będzie nadal występował upewnij się, że firewall nie blokuje dostępu do internetu</value>
 
         <!-- downloadTranslationsForm -->
-        <value id="downloadTranslationsForm.descriptionLabel" type="Text">W tym miejscu możesz dodać lub usunąć aktualnie zainstalowane tłumaczenia. Tłumaczenia oznaczone zielonym kolorem zostały już zainstalowane, odznaczenie ich spowoduje usunięcie tłumaczenia z komputera. Tłumaczenia oznaczone kolorem pomarańczowym są dostępne w nowszej wersji i po wybraniu zostaną zaktualizowane. Ze względu na objętość plików zalecane jest pobieranie tylko tych tłumaczeń, z których zamierzasz korzystać:</value>
+        <value id="downloadTranslationsForm.descriptionLabel" type="Text">W tym miejscu możesz dodać lub usunąć aktualnie zainstalowane tłumaczenia. Tłumaczenia oznaczone zielonym kolorem zostały już zainstalowane, odznaczenie ich spowoduje usunięcie tłumaczenia z komputera. Tłumaczenia oznaczone kolorem pomarańczowym są dostępne w nowszej wersji i po wybraniu zostaną zaktualizowane. Ze względu na objętość plików, zalecane jest pobieranie tylko tych tłumaczeń, z których zamierzasz korzystać:</value>
         <value id="downloadTranslationsForm.translationsListView.languageColumnHeader" type="Text">Język</value>
         <value id="downloadTranslationsForm.translationsListView.authorisationColumnHeader" type="Text">Autoryzacja</value>
         <value id="downloadTranslationsForm.translationsListView.sizeColumnHeader" type="Text">Rozmiar</value>
@@ -302,12 +302,12 @@
         <value id="searchForm.optionWordsLabel" type="Text">Wyraz musi stanowić kompletne słowo, fragmenty nie będą brane pod uwagę</value>
         <value id="searchForm.optionsTabPage" type="Text">Opcje</value>
         <value id="searchForm.optionAllLabel" type="Text">Werset musi zawierać każde ze słów z listy</value>
-        <value id="searchForm.optionAnyLabel" type="Text">Werset może zawierać jedno lub kilka wyrazów z listy</value>
+        <value id="searchForm.optionAnyLabel" type="Text">Werset może zawierać jeden lub kilka wyrazów z listy</value>
         <value id="searchForm.rangeTabPage" type="Text">Zakres</value>
         <value id="searchForm.wordsTabPage" type="Text">Szukane wyrazy</value>
         <value id="searchForm.menuToolStrip.findToolStripButton" type="Text">Szukaj</value>
         <value id="searchForm.menuToolStrip.cancelToolStripButton" type="Text">Anuluj</value>
-        <value id="searchForm.descriptionLabel" type="Text">Wprowadź wyraz, który chcesz wyszukać w otwartym tłumaczeniu, a następnie kliknij w zielony plus, aby dodać go do listy. Wyszukiwarka umożliwia znalezienie wersetów, które zawierają więcej niż jeden poszukiwany wyraz:</value>
+        <value id="searchForm.descriptionLabel" type="Text">Wprowadź wyraz, który chcesz wyszukać w otwartym tłumaczeniu, a następnie kliknij zielony plus, aby dodać go do listy. Wyszukiwarka umożliwia znalezienie wersetów, które zawierają więcej niż jeden poszukiwany wyraz:</value>
         <value id="searchForm.optionAllRadioButton" type="Text">
             <![CDATA[wszystkie słowa (&i)]]>
         </value>
@@ -335,7 +335,7 @@
 
         <!-- importBookmarksForm -->
         <value id="importBookmarksForm" type="Text">Importuj/eksportuj zakładki</value>
-        <value id="importBookmarksForm.listLabel" type="Text">Utwórz dokument zawierający wybrane wersety w różnych tłumaczeniach stworzony na podstawie wybranych zakładek</value>
+        <value id="importBookmarksForm.listLabel" type="Text">Utwórz dokument zawierający wybrane wersety w różnych tłumaczeniach, stworzony na podstawie wybranych zakładek</value>
         <value id="importBookmarksForm.listTabPage" type="Text">Lista wersetów</value>
         <value id="importBookmarksForm.importTabPage" type="Text">Kopia zapasowa</value>
         <value id="importBookmarksForm.importLabel" type="Text">Pozwala wczytać zakładki zapisane wcześniej do pliku</value>
@@ -350,10 +350,10 @@
             <![CDATA[Wybrane &zakładki:]]>
         </value>
         <value id="importBookmarksForm.listAboveLabel" type="Text">
-            <![CDATA[Ilość wersetów w gó&rę:]]>
+            <![CDATA[Liczba wersetów w gó&rę:]]>
         </value>
         <value id="importBookmarksForm.listBelowLabel" type="Text">
-            <![CDATA[Ilość wersetów w &dół:]]>
+            <![CDATA[Liczba wersetów w &dół:]]>
         </value>
         <value id="importBookmarksForm.listAddNameCheckBox" type="Text">
             <![CDATA[Dodaj &nazwę zakładki]]>
@@ -411,7 +411,7 @@
         <value id="download_form_authorisation_yes">Autoryzowany</value>
         <value id="download_form_cancel_text">Czy na pewno przerwać pobieranie tłumaczenia?</value>
         <value id="download_form_cancel_title">Anuluj pobieranie tłumaczenia</value>
-        <value id="download_form_error_out_of_date">Ta wersja programu jest nieaktualna. Aby korzystać z repozytorium musisz dokonać aktualizacji programu do nowszej wersji</value>
+        <value id="download_form_error_out_of_date">Ta wersja programu jest nieaktualna. Aby korzystać z repozytorium, musisz dokonać aktualizacji programu do nowszej wersji</value>
         <value id="download_form_status_download_list">Pobieram listę dostępnych tłumaczeń...</value>
         <value id="download_form_status_download_translations">Pobieram wybrane tłumaczenia...</value>
         <value id="download_form_summary">wszystkich tłumaczeń: {0}   zainstalowanych: {1}   do aktualizacji: {2}</value>
@@ -424,14 +424,14 @@
         <value id="import_bookmarks_form_import_done_title">Zakładki zaimportowane</value>
         <value id="import_bookmarks_form_import_error_text">Nie udało się prawidłowo zaimportować zakładek z pliku. Możliwe, że plik został uszkodzony lub nie zawiera żadnych zakładek</value>
         <value id="import_bookmarks_form_import_error_title">Błąd podczas importowania zakładek</value>
-        <value id="import_bookmarks_form_list_bookmarks_warning_text">Nie wybrałeś żadnej zakładki</value>
+        <value id="import_bookmarks_form_list_bookmarks_warning_text">Nie wybrano żadnej zakładki</value>
         <value id="import_bookmarks_form_list_bookmarks_warning_title">Nie można utworzyć listy</value>
         <value id="import_bookmarks_form_list_done_text">Dokument z wersetami został pomyślnie utworzony</value>
         <value id="import_bookmarks_form_list_done_title">Lista została utworzona</value>
         <value id="import_bookmarks_form_list_save_dialog_filename">ulubione_wersety_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
         <value id="import_bookmarks_form_list_save_dialog_filter">Dokumenty tekstowe (*.txt)|*.txt</value>
         <value id="import_bookmarks_form_list_save_dialog_title">Zapisz zakładki jako listę</value>
-        <value id="import_bookmarks_form_list_translations_warning_text">Nie wybrałeś żadnego tłumaczenia</value>
+        <value id="import_bookmarks_form_list_translations_warning_text">Nie wybrano żadnego tłumaczenia</value>
         <value id="import_bookmarks_form_list_translations_warning_title">Nie można utworzyć listy</value>
         <value id="import_bookmarks_form_open_dialog_title">Wczytaj zakładki z pliku</value>
         <value id="import_bookmarks_form_save_dialog_filename">rbiblia_zakladki_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
@@ -449,7 +449,7 @@
         <value id="main_form_copy_warning_text">Brak treści do skopiowania :-(</value>
         <value id="main_form_dictionary_error_text">Plik niezbędny do uruchomienia słownika nie został znaleziony lub został uszkodzony. Należy ponownie zainstalować program.</value>
         <value id="main_form_dictionary_error_title">Nie można uruchomić słownika</value>
-        <value id="main_form_helper_notification">Wygląda na to, że jest to pierwsze uruchomienie programu. Aby móc wygodnie przeglądać różne wersje tłumaczeń biblijnych musisz je najpierw pobrać i zainstalować. Wbudowany kreator umożliwia szybkie dodanie dostępnych tłumaczeń. Czy chcesz go teraz uruchomić?</value>
+        <value id="main_form_helper_notification">Wygląda na to, że jest to pierwsze uruchomienie programu. Aby móc wygodnie przeglądać różne wersje tłumaczeń biblijnych, musisz je najpierw pobrać i zainstalować. Wbudowany kreator umożliwia szybkie dodanie dostępnych tłumaczeń. Czy chcesz go teraz uruchomić?</value>
         <value id="main_form_no_translations_summary">Brak dostępnych tłumaczeń</value>
         <value id="main_form_not_found_text">Nie znaleziono szukanych wyrażeń</value>
         <value id="main_form_not_found_title">Wyszukiwanie zakończone</value>
@@ -465,11 +465,11 @@
         <value id="notification_user_control_yes">Tak</value>
         <value id="reader_user_control_authorisation_no">Nie</value>
         <value id="reader_user_control_authorisation_yes">Tak</value>
-        <value id="reader_user_control_chapter">Rodział {0}.</value>
+        <value id="reader_user_control_chapter">Rozdział {0}.</value>
         <value id="reader_user_control_details">{0}\r\n{1}\r\n\r\nAutoryzacja: {2}\r\nJęzyk: {3}\r\nRozmiar: {4}\r\nPlik: {5}\r\n\r\nDostępne księgi ({6}):\r\n{7}\r\n\r\nRozdziałów: {8}\r\nWersetów: {9}\r\nSłów: {10}</value>
         <value id="reader_user_control_details_title">Informacje o tłumaczeniu</value>
         <value id="reader_user_control_missing_book">Niestety, tłumaczenie nie zawiera wybranej księgi.</value>
-        <value id="search_form_range_warning_text">Aby przeszukać tłumaczenie należy wybrać przynajmniej jedną księgę</value>
+        <value id="search_form_range_warning_text">Aby przeszukać tłumaczenie, należy wybrać przynajmniej jedną księgę</value>
         <value id="search_form_range_warning_title">Nie wybrano żadnej księgi</value>
         <value id="splash_form_aliases_error_text">Nie odnaleziono pliku z definicją aliasów, dalsza praca nie jest możliwa. Pobierz program ze strony http://rbiblia.toborek.info i zainstaluj go ponownie.</value>
         <value id="splash_form_aliases_error_title">Błąd</value>
