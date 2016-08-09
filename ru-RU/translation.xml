@@ -210,7 +210,7 @@
         <!-- aboutDetailsForm -->
         <value id="aboutDetailsForm.omniLabel" type="Text">Создано в сотрудничестве с</value>
         <value id="aboutDetailsForm.dotNetVersionLabel" type="Text">версия .NET: {0}</value>
-        <value id="aboutDetailsForm.versionLabel" type="Text">рБиблия, версия {0}</value>
+        <value id="aboutDetailsForm.versionLabel" type="Text">rBiblia, версия {0}</value>
         <value id="aboutDetailsForm.descriptionLabel" type="Text">Программа рБиблия была создана для легкого просмотра и поиска выбранных стихов разных библейских переводов. Автор программы не поддерживает никакой церкви. Если у тебя есть замечания касающиеся программы или ты хотел бы сообщить о какой-то проблеме, используй пожалуйста форму на сайте. Рекомендую каждому читать Библию, в которой полно ответов на все Твои вопросы. Если ты не можешь себе позволить её купить, напиши мне, отправлю тебе экземпляр совершенно бесплатно.</value>
 
         <!-- addbookmarkForm -->
