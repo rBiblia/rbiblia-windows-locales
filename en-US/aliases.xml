@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<aliases app="rBiblia">
+	<alias id="gen" group="ot" name="Genesis">
+		<short>gen</short>
+		<short>ge</short>
+		<short>gn</short>
+	</alias>
+	<alias id="exo" group="ot" name="Exodus">
+		<short>exo</short>
+		<short>ex</short>
+		<short>exod</short>
+	</alias>
+	<alias id="lev" group="ot" name="Leviticus">
+		<short>lev</short>
+		<short>le</short>
+		<short>lv</short>
+	</alias>
+	<alias id="num" group="ot" name="Numbers">
+		<short>num</short>
+		<short>nu</short>
+		<short>nm</short>
+		<short>nb</short>
+	</alias>
+	<alias id="deu" group="ot" name="Deuteronomy">
+		<short>deut</short>
+		<short>dt</short>
+	</alias>
+	<alias id="jos" group="ot" name="Joshua">
+		<short>josh</short>
+		<short>jos</short>
+		<short>jsh</short>
+	</alias>
+	<alias id="jdg" group="ot" name="Judges">
+		<short>judg</short>
+		<short>jdg</short>
+		<short>jg</short>
+		<short>jdgs</short>
+		<short>jud</short>
+	</alias>
+	<alias id="rut" group="ot" name="Ruth">
+		<short>rth</short>
+		<short>ru</short>
+		<short>ruth</short>
+	</alias>
+	<alias id="1sa" group="ot" name="1 Samuel">
+		<short>1sam</short>
+		<short>1sa</short>
+		<short>1samuel</short>
+		<short>1s</short>
+		<short>1sm</short>
+		<short>1stsamuel</short>
+	</alias>
+	<alias id="2sa" group="ot" name="2 Samuel">
+		<short>2sam</short>
+		<short>2sa</short>
+		<short>2s</short>
+		<short>2sm</short>
+		<short>2samuel</short>
+		<short>2ndsamuel</short>
+	</alias>
+	<alias id="1ki" group="ot" name="1 Kings">
+		<short>1kgs</short>
+		<short>1ki</short>
+		<short>1k</short>
+		<short>1kings</short>
+		<short>1stkgs</short>
+		<short>1stkings</short>
+		<short>1kin</short>
+	</alias>
+	<alias id="2ki" group="ot" name="2 Kings">
+		<short>2kgs</short>
+		<short>2ki</short>
+		<short>2k</short>
+		<short>2kings</short>
+		<short>2ndkgs</short>
+		<short>2ndkings</short>
+		<short>2kin</short>
+	</alias>
+	<alias id="1ch" group="ot" name="1 Chronicles">
+		<short>1chron</short>
+		<short>1ch</short>
+		<short>1chr</short>
+		<short>1chron</short>
+		<short>1chronicles</short>
+		<short>1stchronicles</short>
+	</alias>
+	<alias id="2ch" group="ot" name="2 Chronicles">
+		<short>2chron</short>
+		<short>2ch</short>
+		<short>2chr</short>
+		<short>2chron</short>
+		<short>2chronicles</short>
+		<short>2ndchronicles</short>
+	</alias>
+	<alias id="ezr" group="ot" name="Ezra">
+		<short>ezra</short>
+		<short>ezr</short>
+	</alias>
+	<alias id="neh" group="ot" name="Nehemiah">
+		<short>ne</short>
+		<short>neh</short>
+	</alias>
+	<alias id="tob" group="ot" name="Tobit" type="apocrypha">
+		<short>tb</short>
+		<short>tob</short>
+		<short>tobit</short>
+	</alias>
+	<alias id="jdt" group="ot" name="Judith" type="apocrypha">
+		<short>jdt</short>
+		<short>jdth</short>
+		<short>jth</short>
+	</alias>
+	<alias id="est" group="ot" name="Esther">
+		<short>esth</short>
+		<short>es</short>
+	</alias>
+	<alias id="1ma" group="ot" name="1 Maccabees" type="apocrypha">
+		<short>1macc</short>
+		<short>1mac</short>
+		<short>1m</short>
+		<short>1ma</short>
+		<short>1maccabees</short>
+		<short>1stmaccabees</short>
+	</alias>
+	<alias id="2ma" group="ot" name="2 Maccabees" type="apocrypha">
+		<short>2macc</short>
+		<short>2mac</short>
+		<short>2m</short>
+		<short>2ma</short>
+		<short>2maccabees</short>
+		<short>2ndmaccabees</short>
+	</alias>
+	<alias id="3ma" group="ot" name="3 Maccabees" type="apocrypha">
+		<short>3macc</short>
+		<short>3mac</short>
+		<short>3ma</short>
+		<short>3rdmaccabees</short>
+	</alias>
+	<alias id="4ma" group="ot" name="4 Maccabees" type="apocrypha">
+		<short>4macc</short>
+		<short>4mac</short>
+		<short>4ma</short>
+		<short>4maccabees</short>
+		<short>4thmaccabees</short>
+	</alias>
+	<alias id="job" group="ot" name="Job">
+		<short>job</short>
+		<short>jb</short>
+	</alias>
+	<alias id="psa" group="ot" name="Psalms">
+		<short>ps</short>
+		<short>pslm</short>
+		<short>psalms</short>
+		<short>psa</short>
+		<short>psm</short>
+		<short>pss</short>
+	</alias>
+	<alias id="pro" group="ot" name="Proverbs">
+		<short>prov</short>
+		<short>pr</short>
+		<short>prv</short>
+	</alias>
+	<alias id="ecc" group="ot" name="Ecclesiastes">
+		<short>ec</short>
+		<short>eccl</short>
+		<short>eccles</short>
+		<short>ecc</short>
+		<short>qoh</short>
+		<short>qoheleth</short>
+	</alias>
+	<alias id="sol" group="ot" name="Song of Solomon">
+		<short>song</short>
+		<short>so</short>
+		<short>canticleofcanticles</short>
+		<short>canticles</short>
+		<short>songofsongs</short>
+		<short>sos</short>
+		<short>songofsol</short>
+		<short>songofsg</short>
+	</alias>
+	<alias id="wis" group="ot" name="Wisdom of Solomon" type="apocrypha">
+		<short>wisdofsol</short>
+		<short>wis</short>
+		<short>ws</short>
+		<short>wisdom</short>
+	</alias>
+	<alias id="sip" group="ot" name="Sirach's Prologue" type="apocrypha">
+		<short>sip</short>
+	</alias>
+	<alias id="sir" group="ot" name="Wisdom of Sirach" type="apocrypha">
+		<short>sirach</short>
+		<short>sir</short>
+		<short>ecclesiasticus</short>
+		<short>ecclus</short>
+	</alias>
+	<alias id="pss" group="ot" name="Psalms of Solomon" type="apocrypha">
+		<short>pssolomon</short>
+		<short>pssol</short>
+		<short>psalmssolomon</short>
+	</alias>
+	<alias id="isa" group="ot" name="Isaiah">
+		<short>isa</short>
+		<short>is</short>
+	</alias>
+	<alias id="jer" group="ot" name="Jeremiah">
+		<short>jr</short>
+		<short>jer</short>
+		<short>je</short>
+	</alias>
+	<alias id="lam" group="ot" name="Lamentations">
+		<short>la</short>
+		<short>lam</short>
+	</alias>
+	<alias id="bar" group="ot" name="Baruch" type="apocrypha">
+		<short>bar</short>
+		<short>baruch</short>
+	</alias>
+	<alias id="eze" group="ot" name="Ezekiel">
+		<short>ezek</short>
+		<short>eze</short>
+		<short>ezk</short>
+	</alias>
+	<alias id="dan" group="ot" name="Daniel">
+		<short>dn</short>
+		<short>dan</short>
+		<short>da</short>
+	</alias>
+	<alias id="hos" group="ot" name="Hosea">
+		<short>hos</short>
+		<short>ho</short>
+	</alias>
+	<alias id="joe" group="ot" name="Joel">
+		<short>jl</short>
+		<short>joe</short>
+		<short>joel</short>
+	</alias>
+	<alias id="amo" group="ot" name="Amos">
+		<short>am</short>
+		<short>amos</short>
+	</alias>
+	<alias id="oba" group="ot" name="Obadiah">
+		<short>obad</short>
+		<short>ob</short>
+	</alias>
+	<alias id="jon" group="ot" name="Jonah">
+		<short>jonah</short>
+		<short>jon</short>
+		<short>jnh</short>
+	</alias>
+	<alias id="mic" group="ot" name="Micah">
+		<short>micah</short>
+		<short>mic</short>
+	</alias>
+	<alias id="nah" group="ot" name="Nahum">
+		<short>nah</short>
+		<short>na</short>
+	</alias>
+	<alias id="hab" group="ot" name="Habakkuk">
+		<short>hab</short>
+	</alias>
+	<alias id="zep" group="ot" name="Zephaniah">
+		<short>zeph</short>
+		<short>zep</short>
+		<short>zp</short>
+	</alias>
+	<alias id="hag" group="ot" name="Haggai">
+		<short>haggai</short>
+		<short>hag</short>
+		<short>hg</short>
+	</alias>
+	<alias id="zec" group="ot" name="Zechariah">
+		<short>zech</short>
+		<short>zec</short>
+		<short>zc</short>
+	</alias>
+	<alias id="mal" group="ot" name="Malachi">
+		<short>ml</short>
+		<short>mal</short>
+	</alias>
+	<alias id="mat" group="nt" name="Matthew">
+		<short>matt</short>
+		<short>mt</short>
+	</alias>
+	<alias id="mar" group="nt" name="Mark">
+		<short>mrk</short>
+		<short>mk</short>
+		<short>mr</short>
+		<short>mark</short>
+	</alias>
+	<alias id="luk" group="nt" name="Luke">
+		<short>luke</short>
+		<short>lu</short>
+		<short>lk</short>
+	</alias>
+	<alias id="joh" group="nt" name="John">
+		<short>john</short>
+		<short>jn</short>
+		<short>jhn</short>
+		<short>joh</short>
+	</alias>
+	<alias id="act" group="nt" name="Acts">
+		<short>acts</short>
+		<short>ac</short>
+	</alias>
+	<alias id="rom" group="nt" name="Romans">
+		<short>rom</short>
+		<short>ro</short>
+		<short>rm</short>
+	</alias>
+	<alias id="1co" group="nt" name="1 Corinthians">
+		<short>1cor</short>
+		<short>1co</short>
+		<short>1corinthians</short>
+		<short>1stcorinthians</short>
+	</alias>
+	<alias id="2co" group="nt" name="2 Corinthians">
+		<short>2cor</short>
+		<short>2co</short>
+		<short>2corinthians</short>
+		<short>2ndcorinthians</short>
+	</alias>
+	<alias id="gal" group="nt" name="Galatians">
+		<short>ga</short>
+		<short>gal</short>
+	</alias>
+	<alias id="eph" group="nt" name="Ephesians">
+		<short>eph</short>
+		<short>ephes</short>
+	</alias>
+	<alias id="phi" group="nt" name="Philippians">
+		<short>phil</short>
+		<short>php</short>
+	</alias>
+	<alias id="col" group="nt" name="Colossians">
+		<short>col</short>
+	</alias>
+	<alias id="1th" group="nt" name="1 Thessalonians">
+		<short>1thess</short>
+		<short>1th</short>
+		<short>1thes</short>
+		<short>1thessalonians</short>
+		<short>1stthessalonians</short>
+	</alias>
+	<alias id="2th" group="nt" name="2 Thessalonians">
+		<short>2thess</short>
+		<short>2th</short>
+		<short>2thes</short>
+		<short>2thessalonians</short>
+		<short>2ndthessalonians</short>
+	</alias>
+	<alias id="1ti" group="nt" name="1 Timothy">
+		<short>1tim</short>
+		<short>1ti</short>
+		<short>1timothy</short>
+		<short>1sttimothy</short>
+	</alias>
+	<alias id="2ti" group="nt" name="2 Timothy">
+		<short>2tim</short>
+		<short>2ti</short>
+		<short>2timothy</short>
+		<short>2ndsttimothy</short>
+	</alias>
+	<alias id="tit" group="nt" name="Titus">
+		<short>tit</short>
+		<short>titus</short>
+	</alias>
+	<alias id="phm" group="nt" name="Philemon">
+		<short>phlm</short>
+		<short>phm</short>
+		<short>philem</short>
+	</alias>
+	<alias id="heb" group="nt" name="Hebrews">
+		<short>hebrews</short>
+		<short>heb</short>
+	</alias>
+	<alias id="jam" group="nt" name="James">
+		<short>james</short>
+		<short>jas</short>
+		<short>jm</short>
+	</alias>
+	<alias id="1pe" group="nt" name="1 Peter">
+		<short>1pet</short>
+		<short>1pe</short>
+		<short>1pt</short>
+		<short>1peter</short>
+		<short>1stpeter</short>
+	</alias>
+	<alias id="2pe" group="nt" name="2 Peter">
+		<short>2pet</short>
+		<short>2pe</short>
+		<short>2pt</short>
+		<short>2peter</short>
+		<short>2ndpeter</short>
+	</alias>
+	<alias id="1jo" group="nt" name="1 John">
+		<short>1john</short>
+		<short>1jn</short>
+		<short>1jo</short>
+		<short>1joh</short>
+		<short>1jhn</short>
+		<short>1stjohn</short>
+	</alias>
+	<alias id="2jo" group="nt" name="2 John">
+		<short>2john</short>
+		<short>2jn</short>
+		<short>2jo</short>
+		<short>2joh</short>
+		<short>2jhn</short>
+		<short>2ndjohn</short>
+	</alias>
+	<alias id="3jo" group="nt" name="3 John">
+		<short>3john</short>
+		<short>3jn</short>
+		<short>3jo</short>
+		<short>3joh</short>
+		<short>3jhn</short>
+		<short>3rdjohn</short>
+	</alias>
+	<alias id="jud" group="nt" name="Jude">
+		<short>jud</short>
+		<short>jude</short>
+	</alias>
+	<alias id="rev" group="nt" name="Revelation">
+		<short>rev</short>
+		<short>re</short>
+		<short>therevelation</short>
+	</alias>
+	<alias id="epj" group="ot" name="Epistle of Jeremiah" type="apocrypha">
+		<short>epjer</short>
+	</alias>
+	<alias id="sus" group="ot" name="Susanna" type="apocrypha">
+		<short>sus</short>
+		<short>sussanna</short>
+	</alias>
+	<alias id="bel" group="ot" name="Bel and the Dragon" type="apocrypha">
+		<short>bel</short>
+	</alias>
+	<alias id="pra" group="ot" name="Prayer of Azariah" type="apocrypha">
+		<short>aza</short>
+		<short>prazar</short>
+	</alias>
+	<alias id="prm" group="ot" name="Prayer of Manasseh" type="apocrypha">
+		<short>profman</short>
+		<short>prman</short>
+		<short>pma</short>
+		<short>prayerofmanasses</short>
+		<short>mns</short>
+	</alias>
+	<alias id="lao" group="ot" name="Epistle of the Laodiceans" type="apocrypha">
+		<short>laodiceans</short>
+		<short>laod</short>
+		<short>eplaod</short>
+		<short>epistlaodiceans</short>
+		<short>epistlelaodiceans</short>
+		<short>epistletolaodiceans</short>
+	</alias>
+	<alias id="4es" group="ot" name="4 Esdras" type="apocrypha">
+		<short>4es</short>
+		<short>4esd</short>
+		<short>4esdr</short>
+		<short>4esdras</short>
+		<short>4thesdras</short>
+	</alias>
+</aliases>

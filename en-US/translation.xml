@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<translation app="rBiblia">
+    <authors>
+        <name>Jakub Wardęga (jakub.wardega@wp.pl)</name>
+    </authors>
+
+    <controls>
+        <!-- mainForm -->
+        <value id="mainForm.navigatorToolStrip.goToolStripButton" type="ToolTipText">Go quickly to a place in the active translation [Ctrl+J]\r\nA few examples: gen, gn2, 2tim1, 2timothy1:2, 3john, rev</value>
+        <value id="mainForm.navigatorToolStrip.prevToolStripButton" type="ToolTipText">Back [Alt+Left]</value>
+        <value id="mainForm.navigatorToolStrip.nextToolStripButton" type="ToolTipText">Forward [Alt+Right]</value>
+        <value id="mainForm.navigatorToolStrip.copyToolStripButton" type="ToolTipText">Copy the selected verse(s) to the clipboard [Ctrl+C]</value>
+        <value id="mainForm.navigatorToolStrip.searchToolStripButton" type="ToolTipText">Search in the active translation [Ctrl+F]</value>
+        <value id="mainForm.navigatorToolStrip.addBookmarkToolStripButton" type="ToolTipText">Add one selected verse to your bookmarks [Ctrl+B]</value>
+        <value id="mainForm.navigatorToolStrip.propagateToolStripButton" type="ToolTipText">Go to the same verse in all open translations [Enter]</value>
+        <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="Text">The worker deserves his wages [1 Tim. 5:18]</value>
+        <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="ToolTipText">Donate money to the author</value>
+        <value id="mainForm.navigatorToolStrip.bookToolStripLabel" type="Text">
+            <![CDATA[Boo&k:]]>
+        </value>
+        <value id="mainForm.navigatorToolStrip.chapterToolStripLabel" type="Text">
+            <![CDATA[&Chapter:]]>
+        </value>
+        <value id="mainForm.navigatorToolStrip.verseToolStripLabel" type="Text">
+            <![CDATA[&Verse:]]>
+        </value>
+        <value id="mainForm.menuStrip.operationsToolStripMenuItem" type="Text">
+            <![CDATA[&Operations]]>
+        </value>
+        <value id="mainForm.menuStrip.copyToolStripMenuItem" type="Text">
+            <![CDATA[&Copy]]>
+        </value>
+        <value id="mainForm.menuStrip.searchToolStripMenuItem" type="Text">
+            <![CDATA[&Search]]>
+        </value>
+        <value id="mainForm.menuStrip.settingsToolStripMenuItem" type="Text">
+            <![CDATA[&Preferences]]>
+        </value>
+        <value id="mainForm.menuStrip.languageToolStripMenuItem" type="Text">
+            <![CDATA[C&hange language]]>
+        </value>
+        <value id="mainForm.menuStrip.exitToolStripMenuItem" type="Text">
+            <![CDATA[&Quit]]>
+        </value>
+        <value id="mainForm.menuStrip.translationsToolStripMenuItem" type="Text">
+            <![CDATA[&Translations]]>
+        </value>
+        <value id="mainForm.menuStrip.downloadTranslationsToolStripMenuItem" type="Text">
+            <![CDATA[&Manage the repository]]>
+        </value>
+        <value id="mainForm.menuStrip.openAllToolStripMenuItem" type="Text">
+            <![CDATA[&Open all translations]]>
+        </value>
+        <value id="mainForm.menuStrip.bookmarksToolStripMenuItem" type="Text">
+            <![CDATA[&Bookmarks]]>
+        </value>
+        <value id="mainForm.menuStrip.addBookmarkToolStripMenuItem" type="Text">
+            <![CDATA[&Add to bookmarks]]>
+        </value>
+        <value id="mainForm.menuStrip.manageBookmarksToolStripMenuItem" type="Text">
+            <![CDATA[&Manage bookmarks]]>
+        </value>
+        <value id="mainForm.menuStrip.importBookmarksToolStripMenuItem" type="Text">
+            <![CDATA[Imp&ort/export bookmarks]]>
+        </value>
+        <value id="mainForm.menuStrip.windowToolStripMenuItem" type="Text">
+            <![CDATA[&Windows]]>
+        </value>
+        <value id="mainForm.menuStrip.maximizeToolStripMenuItem" type="Text">
+            <![CDATA[&Maximize]]>
+        </value>
+        <value id="mainForm.menuStrip.verticalToolStripMenuItem" type="Text">
+            <![CDATA[Tile &vertically]]>
+        </value>
+        <value id="mainForm.menuStrip.horizontalToolStripMenuItem" type="Text">
+            <![CDATA[Tile &horizontally]]>
+        </value>
+        <value id="mainForm.menuStrip.cascadeToolStripMenuItem" type="Text">
+            <![CDATA[&Cascade]]>
+        </value>
+        <value id="mainForm.menuStrip.closeAllToolStripMenuItem" type="Text">
+            <![CDATA[Close &all windows]]>
+        </value>
+        <value id="mainForm.menuStrip.closeAllRemainingToolStripMenuItem" type="Text">
+            <![CDATA[Close &other windows]]>
+        </value>
+        <value id="mainForm.menuStrip.helpToolStripMenuItem" type="Text">
+            <![CDATA[&Help]]>
+        </value>
+        <value id="mainForm.menuStrip.dictionaryToolStripMenuItem" type="Text">
+            <![CDATA[&Bible terminology dictionary]]>
+        </value>
+        <value id="mainForm.menuStrip.clipboardToolStripMenuItem" type="Text">
+            <![CDATA[&Multiclipboard]]>
+        </value>
+        <value id="mainForm.menuStrip.topicsToolStripMenuItem" type="Text">
+            <![CDATA[&God's word in time of need]]>
+        </value>
+        <value id="mainForm.menuStrip.donationsToolStripMenuItem" type="Text">
+            <![CDATA[&Support the program]]>
+        </value>
+        <value id="mainForm.menuStrip.contactToolStripMenu" type="Text">
+            <![CDATA[&Contact the author]]>
+        </value>
+        <value id="mainForm.menuStrip.aboutToolStripMenuItem" type="Text">
+            <![CDATA[&About the program]]>
+        </value>
+
+        <!-- settingsForm -->
+        <value id="settingsForm" type="Text">Settings</value>
+        <value id="settingsForm.menuToolStrip.saveToolStripButton" type="Text">Save</value>
+        <value id="settingsForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="settingsForm.categoriesTreeView.layoutNode" type="Text">View</value>
+        <value id="settingsForm.categoriesTreeView.languageNode" type="Text">Language</value>
+        <value id="settingsForm.categoriesTreeView.mainNode" type="Text">General</value>
+
+        <!-- settingsLanguageForm -->
+        <value id="settingsLanguageForm.languageGroupBox" type="Text">
+            <![CDATA[&Language]]>
+        </value>
+        <value id="settingsLanguageForm.localesLabel" type="Text">Resources for translators</value>
+        <value id="settingsLanguageForm.instructionsLabel" type="Text">You can find more language versions of this program and a detailed manual on localizing it into other languages on the official website.</value>
+        <value id="settingsLanguageForm.languageLabel" type="Text">Here you can choose the interface language.</value>
+
+        <!-- settingsMainForm -->
+        <value id="settingsMainForm.mainGroupBox" type="Text">
+            <![CDATA[&General]]>
+        </value>
+        <value id="settingsMainForm.quickBarLabel" type="Text">
+            <![CDATA[Show the &Quick launch bar:]]>
+        </value>
+        <value id="settingsMainForm.showTranslationOnStartCheckBox" type="Text">
+            <![CDATA[&Restore the last viewed translation on startup]]>
+        </value>
+        <value id="settingsMainForm.saveWindowPositionCheckBox" type="Text">
+            <![CDATA[&Keep the last position of the main window]]>
+        </value>
+        <value id="settingsMainForm.quickBarComboBox" type="Items">
+            <item>Never</item>
+            <item>Top of the main window</item>
+            <item>Bottom of the main window</item>
+        </value>
+
+        <!-- settingsLayoutForm -->
+        <value id="settingsLayoutForm.sizeGroupBox" type="Text">
+            <![CDATA[Font &size]]>
+        </value>
+        <value id="settingsLayoutForm.fontColorGroupBox" type="Text">
+            <![CDATA[Font &color]]>
+        </value>
+        <value id="settingsLayoutForm.backgroundColorGroupBox" type="Text">
+            <![CDATA[&Background color]]>
+        </value>
+        <value id="settingsLayoutForm.selectedColorGroupBox" type="Text">
+            <![CDATA[&Highlight color]]>
+        </value>
+        <value id="settingsLayoutForm.verseColorGroupBox" type="Text">
+            <![CDATA[&Verse number color]]>
+        </value>
+        <value id="settingsLayoutForm.fontNameGroupBox" type="Text">
+            <![CDATA[Font &name]]>
+        </value>
+
+        <!-- translationForm -->
+        <value id="translationForm.searchToolStrip.resultsToolStripLabel" type="Text">
+            <![CDATA[&Search results:]]>
+        </value>
+        <value id="translationForm.searchToolStrip.previousResultToolStripButton" type="ToolTipText">Previous [Ctrl+Shift+G]</value>
+        <value id="translationForm.searchToolStrip.nextResultToolStripButton" type="ToolTipText">Next [Ctrl+G]</value>
+        <value id="translationForm.searchToolStrip.hideResultsToolStripButton" type="ToolTipText">Hide the results list</value>
+
+        <!-- updateForm -->
+        <value id="updateForm" type="Text">Program update</value>
+        <value id="updateForm.updateLabel" type="Text">Downloading your update...</value>
+
+        <!-- aboutForm -->
+        <value id="aboutForm" type="Text">About the program</value>
+        <value id="aboutForm.menuToolStrip.detailsToolStripButton" type="Text">
+            <![CDATA[&Version]]>
+        </value>
+        <value id="aboutForm.menuToolStrip.changesToolStripButton" type="Text">
+            <![CDATA[&List of changes]]>
+        </value>
+        <value id="aboutForm.menuToolStrip.aboutToolStripButton" type="Text">
+            <![CDATA[I&nformation]]>
+        </value>
+        <value id="aboutForm.menuToolStrip.shortcutsToolStripButton" type="Text">
+            <![CDATA[&Keyboard shortcuts]]>
+        </value>
+        <value id="aboutForm.menuToolStrip.contactToolStripButton" type="Text">
+            <![CDATA[&Contact form]]>
+        </value>
+
+        <!-- aboutContactForm -->
+        <value id="aboutContactForm.authorLabel" type="Text">You can find more about the author on</value>
+        <value id="aboutContactForm.messageLabel" type="Text">
+            <![CDATA[&What would you like to say?]]>
+        </value>
+        <value id="aboutContactForm.sendButton" type="Text">
+            <![CDATA[&Send]]>
+        </value>
+        <value id="aboutContactForm.emailLabel" type="Text">
+            <![CDATA[Your &e-mail address:]]>
+        </value>
+        <value id="aboutContactForm.nameLabel" type="Text">
+            <![CDATA[&Your name:]]>
+        </value>
+
+        <!-- aboutDetailsForm -->
+        <value id="aboutDetailsForm.omniLabel" type="Text">Created in collaboration with</value>
+        <value id="aboutDetailsForm.dotNetVersionLabel" type="Text">.NET framework version: {0}</value>
+        <value id="aboutDetailsForm.versionLabel" type="Text">rBiblia, version {0}</value>
+        <value id="aboutDetailsForm.descriptionLabel" type="Text">The rBiblia program was created to make it easier to browse and search for Bible verses across many different translations. Its author is not affiliated with any particular Christian denomination. If you have any suggestions concerning the program, or would like to report an error, please use the form available on its home website. I encourage you to read the Bible. You can find there answers to all your life questions. If you cannot afford to buy one, please contact me – I will send a copy to you for free.</value>
+
+        <!-- addbookmarkForm -->
+        <value id="addBookmarkForm" type="Text">Add to bookmarks</value>
+        <value id="addBookmarkForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="addBookmarkForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
+        <value id="addBookmarkForm.directoriesGroupBox" type="Text">
+            <![CDATA[&Folder]]>
+        </value>
+        <value id="addBookmarkForm.nameGroupBox" type="Text">
+            <![CDATA[&Name]]>
+        </value>
+
+        <!-- bookmarksForm -->
+        <value id="bookmarksForm" type="Text">Manage bookmarks</value>
+        <value id="bookmarksForm.upDownToolStrip.moveUpToolStripButton" type="ToolTipText">Move up [Ctrl+Up]</value>
+        <value id="bookmarksForm.upDownToolStrip.moveDownToolStripButton" type="ToolTipText">Move down [Ctrl+Down]</value>
+        <value id="bookmarksForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="bookmarksForm.menuToolStrip.saveToolStripButton" type="Text">Save</value>
+        <value id="bookmarksForm.bookmarksGroupBox" type="Text">
+            <![CDATA[&Bookmarks]]>
+        </value>
+        <value id="bookmarksForm.nameGroupBox" type="Text">
+            <![CDATA[&Name]]>
+        </value>
+        <value id="bookmarksForm.menuToolStrip.newDirectoryToolStripButton" type="Text">
+            <![CDATA[&Create a new folder]]>
+        </value>
+        <value id="bookmarksForm.menuToolStrip.deleteToolStripButton" type="Text">
+            <![CDATA[&Delete]]>
+        </value>
+        <value id="bookmarksForm.menuToolStrip.moveToolStripButton" type="Text">
+            <![CDATA[M&ove]]>
+        </value>
+
+        <!-- clipboardForm -->
+        <value id="clipboardForm" type="Text">Multiclipboard</value>
+        <value id="clipboardForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="clipboardForm.menuToolStrip.saveToolStripButton" type="Text">Save</value>
+        <value id="clipboardForm.statusStrip.toolStripStatusLabel" type="Text">The Multiclipboard contains all the verses you have copied since starting the program</value>
+        <value id="clipboardForm.menuToolStrip.copyToolStripButton" type="ToolTipText">Copy the contents of the Multiclipboard into the system clipboard</value>
+        <value id="clipboardForm.menuToolStrip.clearToolStripButton" type="Text">
+            <![CDATA[&Empty]]>
+        </value>
+        <value id="clipboardForm.menuToolStrip.copyToolStripButton" type="Text">
+            <![CDATA[&Copy...]]>
+        </value>
+        <value id="clipboardForm.menuToolStrip.saveToFileToolStripButton" type="Text">
+            <![CDATA[&Save into a file]]>
+        </value>
+
+        <!-- dictionaryForm -->
+        <value id="dictionaryForm" type="Text">Bible terminology dictionary</value>
+        <value id="dictionaryForm.menuToolStrip.termsButton" type="ToolTipText">Show/hide the term list [Ctrl+L]</value>
+        <value id="dictionaryForm.menuToolStrip.copyButton" type="Text">
+            <![CDATA[&Copy]]>
+        </value>
+        <value id="dictionaryForm.menuToolStrip.copyButton" type="ToolTipText">Copy the highlighted text to the clipboard [Ctrl+C]</value>
+
+        <!-- downloadForm -->
+        <value id="downloadForm" type="Text">Translations repository</value>
+        <value id="downloadForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="downloadForm.menuToolStrip.updateToolStripButton" type="Text">Update</value>
+
+        <!-- downloadErrorForm -->
+        <value id="downloadErrorForm.errorLabel" type="Text">An error occurred while connecting to the server. Try again in a few minutes. If the problem persists, make sure that your firewall does not block the program's Internet access.</value>
+
+        <!-- downloadTranslationsForm -->
+        <value id="downloadTranslationsForm.descriptionLabel" type="Text">Here you can download new or remove the already installed Bible translations. Translations marked in green are already installed. In order to remove such a translation, uncheck the box next to its name and click Update. If an already downloaded translation is marked in orange, an update is available. To install the update, check the box next to its name and click Update. Due to the size of the files it is advisable to download only these translations that you aim to use:</value>
+        <value id="downloadTranslationsForm.translationsListView.languageColumnHeader" type="Text">Language</value>
+        <value id="downloadTranslationsForm.translationsListView.authorisationColumnHeader" type="Text">Authorization</value>
+        <value id="downloadTranslationsForm.translationsListView.sizeColumnHeader" type="Text">Size</value>
+        <value id="downloadTranslationsForm.translationsListView.descriptionColumnHeader" type="Text">Description</value>
+        <value id="downloadTranslationsForm.translationsListView.nameColumnHeader" type="Text">Name</value>
+        <value id="downloadTranslationsForm.translationsListView.clearToolStripMenuItem" type="Text">
+            <![CDATA[&Uncheck all boxes]]>
+        </value>
+        <value id="downloadTranslationsForm.translationsListView.selectToolStripMenuItem" type="Text">
+            <![CDATA[&Select all translations in:]]>
+        </value>
+
+        <!-- moveBookmarkForm -->
+        <value id="moveBookmarkForm" type="Text">Move a bookmark</value>
+        <value id="moveBookmarkForm.mainGroupBox" type="Text">Move to</value>
+        <value id="moveBookmarkForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
+        <value id="moveBookmarkForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+
+        <!-- searchForm -->
+        <value id="searchForm" type="Text">Search</value>
+        <value id="searchForm.optionWordsLabel" type="Text">The program will only show whole words, not parts of words</value>
+        <value id="searchForm.optionsTabPage" type="Text">Options</value>
+        <value id="searchForm.optionAllLabel" type="Text">Verses must have all of the expressions searched for</value>
+        <value id="searchForm.optionAnyLabel" type="Text">Verses may have one or more of the expressions searched for</value>
+        <value id="searchForm.rangeTabPage" type="Text">Range</value>
+        <value id="searchForm.wordsTabPage" type="Text">Searched expressions</value>
+        <value id="searchForm.menuToolStrip.findToolStripButton" type="Text">Search</value>
+        <value id="searchForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="searchForm.descriptionLabel" type="Text">Enter the expression which you want to find in the active translation and then click on the green plus sign or press Enter to add it to the list. The search engine allows searching for more than one expression at once:</value>
+        <value id="searchForm.optionAllRadioButton" type="Text">
+            <![CDATA[All the words (&and)]]>
+        </value>
+        <value id="searchForm.optionAnyRadioButton" type="Text">
+            <![CDATA[Any word (&or)]]>
+        </value>
+        <value id="searchForm.optionMatchCaseCheckBox" type="Text">
+            <![CDATA[Match &case]]>
+        </value>
+        <value id="searchForm.optionWordsCheckBox" type="Text">
+            <![CDATA[Find &whole words only]]>
+        </value>
+        <value id="searchForm.rangeNTRadioButton" type="Text">
+            <![CDATA[&New Testament only]]>
+        </value>
+        <value id="searchForm.rangeAllRadioButton" type="Text">
+            <![CDATA[&Everywhere]]>
+        </value>
+        <value id="searchForm.rangeOTRadioButton" type="Text">
+            <![CDATA[&Old Testament only]]>
+        </value>
+        <value id="searchForm.rangeSelectedBooksRadioButton" type="Text">
+            <![CDATA[&Books:]]>
+        </value>
+
+        <!-- importBookmarksForm -->
+        <value id="importBookmarksForm" type="Text">Import/export bookmarks</value>
+        <value id="importBookmarksForm.listLabel" type="Text">Export bookmarks together with their contexts in different translations into a text file</value>
+        <value id="importBookmarksForm.listTabPage" type="Text">Advanced export</value>
+        <value id="importBookmarksForm.importTabPage" type="Text">Backup</value>
+        <value id="importBookmarksForm.importLabel" type="Text">Import bookmarks previously exported into an .xml file</value>
+        <value id="importBookmarksForm.exportLabel" type="Text">Export bookmarks into an .xml file for backup or in order to copy them onto another computer</value>
+        <value id="importBookmarksForm.importGroupBox" type="Text">Import options</value>
+        <value id="importBookmarksForm.menuToolStrip.proceedToolStripButton" type="Text">Start</value>
+        <value id="importBookmarksForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="importBookmarksForm.listTranslationsLabel" type="Text">
+            <![CDATA[Select tra&nslations]]>
+        </value>
+        <value id="importBookmarksForm.listBookmarksLabel" type="Text">
+            <![CDATA[Select &bookmarks]]>
+        </value>
+        <value id="importBookmarksForm.listAboveLabel" type="Text">
+            <![CDATA[&Previous verses:]]>
+        </value>
+        <value id="importBookmarksForm.listBelowLabel" type="Text">
+            <![CDATA[&Following verses:]]>
+        </value>
+        <value id="importBookmarksForm.listAddNameCheckBox" type="Text">
+            <![CDATA[&Add bookmark names]]>
+        </value>
+        <value id="importBookmarksForm.importRadioButton" type="Text">
+            <![CDATA[I&mport bookmarks from a file]]>
+        </value>
+        <value id="importBookmarksForm.exportRadioButton" type="Text">
+            <![CDATA[&Export bookmarks into a file]]>
+        </value>
+        <value id="importBookmarksForm.overwriteRadioButton" type="Text">
+            <![CDATA[&Overwrite already stored bookmarks]]>
+        </value>
+        <value id="importBookmarksForm.addRadioButton" type="Text">
+            <![CDATA[&Copy the bookmarks to a new folder:]]>
+        </value>
+
+        <!-- readerUserControl -->
+        <value id="readerUserControl.setToolStripMenuItem" type="Text">
+            <![CDATA[&Go to this verse in all open translations]]>
+        </value>
+        <value id="readerUserControl.copyToolStripMenuItem" type="Text">
+            <![CDATA[&Copy into the clipboard]]>
+        </value>
+        <value id="readerUserControl.addBookmarkToolStripMenuItem" type="Text">
+            <![CDATA[Add to &bookmarks]]>
+        </value>
+        <value id="readerUserControl.detailsToolStripMenuItem" type="Text">
+            <![CDATA[&About the translation]]>
+        </value>
+    </controls>
+
+    <strings>
+        <value id="about_contact_form_done_text">Your message has been sent. I will reply soon.</value>
+        <value id="about_contact_form_done_title">Thank you :-)</value>
+        <value id="about_contact_form_error_text">Unable to send your message. Please try again later.\r\n{0}</value>
+        <value id="about_contact_form_error_title">Error sending your message</value>
+        <value id="add_bookmark_form_root">Highest level</value>
+        <value id="bookmark_form_delete_text">Are you sure you want to delete?</value>
+        <value id="bookmark_form_delete_title">Delete</value>
+        <value id="bookmark_form_new_directory">New folder</value>
+        <value id="clipboard_form_clear_text">Are you sure you want to empty the clipboard?</value>
+        <value id="clipboard_form_clear_title">Empty</value>
+        <value id="clipboard_form_copy_text">The text has been copied into the clipboard</value>
+        <value id="clipboard_form_copy_title">Copy into the clipboard</value>
+        <value id="clipboard_form_save_dialog_filename">multiclipboard_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
+        <value id="clipboard_form_save_dialog_filter">Plain text (*.txt)|*.txt</value>
+        <value id="clipboard_form_save_dialog_title">Save Multiclipboard contents into a file</value>
+        <value id="clipboard_form_save_done_text">Contents successfully saved into a file</value>
+        <value id="clipboard_form_save_done_title">Contents saved</value>
+        <value id="clipboard_form_save_error_text">An error occurred: {0}</value>
+        <value id="clipboard_form_save_error_title">Unable to save the contents into a file</value>
+        <value id="dictionary_form_count">Number of stored entries: {0}</value>
+        <value id="download_form_authorisation_no">No</value>
+        <value id="download_form_authorisation_yes">Authorized</value>
+        <value id="download_form_cancel_text">Are you sure you want to cancel the download?</value>
+        <value id="download_form_cancel_title">Cancel the download</value>
+        <value id="download_form_error_out_of_date">Your program is out-of-date. You need to update the program to use the translations repository</value>
+        <value id="download_form_status_download_list">Checking available translations...</value>
+        <value id="download_form_status_download_translations">Downloading selected translations...</value>
+        <value id="download_form_summary">available translations: {0}   installed: {1}   updates available: {2}</value>
+        <value id="import_bookmarks_form_dialog_filter">rBiblia bookmarks (*.xml)|*.xml</value>
+        <value id="import_bookmarks_form_export_done_text">Your bookmarks have been exported into a file</value>
+        <value id="import_bookmarks_form_export_done_title">Bookmarks exported</value>
+        <value id="import_bookmarks_form_export_error_text">Unable to export your bookmarks into the given directory</value>
+        <value id="import_bookmarks_form_export_error_title">Error exporting bookmarks</value>
+        <value id="import_bookmarks_form_import_done_text">Your bookmarks have been imported successfully</value>
+        <value id="import_bookmarks_form_import_done_title">Bookmarks imported</value>
+        <value id="import_bookmarks_form_import_error_text">Unable to import bookmarks from this file. The file may contain no bookmarks or be broken</value>
+        <value id="import_bookmarks_form_import_error_title">Error importing bookmarks</value>
+        <value id="import_bookmarks_form_list_bookmarks_warning_text">No bookmark has been selected</value>
+        <value id="import_bookmarks_form_list_bookmarks_warning_title">Unable to export</value>
+        <value id="import_bookmarks_form_list_done_text">Your bookmarks have been exported successfully</value>
+        <value id="import_bookmarks_form_list_done_title">Export successful</value>
+        <value id="import_bookmarks_form_list_save_dialog_filename">favorite_verses_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
+        <value id="import_bookmarks_form_list_save_dialog_filter">Plain text (*.txt)|*.txt</value>
+        <value id="import_bookmarks_form_list_save_dialog_title">Export your bookmark(s) as text</value>
+        <value id="import_bookmarks_form_list_translations_warning_text">No translation has been selected</value>
+        <value id="import_bookmarks_form_list_translations_warning_title">Unable to export</value>
+        <value id="import_bookmarks_form_open_dialog_title">Import bookmarks from a file</value>
+        <value id="import_bookmarks_form_save_dialog_filename">rbiblia_bookmarks_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
+        <value id="import_bookmarks_form_save_dialog_title">Export all your bookmarks into a file</value>
+        <value id="import_bookmarks_form_warning_text">Enter the name for a new bookmark folder</value>
+        <value id="import_bookmarks_form_warning_title">No folder name entered</value>
+        <value id="import_bookmarks_form_write_error_text">Error saving file</value>
+        <value id="main_form_application_update_notification">An update for rBiblia is now available. It is recommended to use the latest version of the program. Do you want to perform an automatic update now?</value>
+        <value id="main_form_bookmarks_warning_text">No translations are installed. Please install at least one Bible translation to open the bookmark.</value>
+        <value id="main_form_bookmarks_warning_title">Bookmarks</value>
+        <value id="main_form_close_all_remaining_text">Are you sure you want to close all the other translations?</value>
+        <value id="main_form_close_all_remaining_title">Close other translations</value>
+        <value id="main_form_close_all_text">Are you sure you want to close all the open translations?</value>
+        <value id="main_form_close_all_title">Close all open translations</value>
+        <value id="main_form_copy_warning_text">Nothing to copy :-(</value>
+        <value id="main_form_dictionary_error_text">The file required to open the dictionary cannot be found or is broken. Please reinstall the program.</value>
+        <value id="main_form_dictionary_error_title">Unable to run the dictionary</value>
+        <value id="main_form_helper_notification">It seems that this is the first run of the program. To be able to browse different Bible translations, you need to download and install them first. The built-in wizard allows a quick download of available translations. Do you want to run it now?</value>
+        <value id="main_form_no_translations_summary">No translations available</value>
+        <value id="main_form_not_found_text">Searched expressions not found</value>
+        <value id="main_form_not_found_title">Search complete</value>
+        <value id="main_form_topics_info_text">There are no translations installed. Please install at least one Bible translation in order to read help in need contents.</value>
+        <value id="main_form_topics_info_title">God's word in time of need</value>
+        <value id="main_form_translation_update_notification">There are updates available for some of the already installed translations ({0}) containing fixes to errors. Do you want to go now to the translations repository and install these updates?</value>
+        <value id="main_form_translations_count_summary">Available translations: {0}</value>
+        <value id="main_form_updated_notification">Great! The program is now up-to-date! :-)</value>
+        <value id="move_bookmark_form_warning_text">Items cannot be copied into their original folders</value>
+        <value id="move_bookmark_form_warning_title">Wrong destination folder</value>
+        <value id="notification_user_control_cool">Cool!</value>
+        <value id="notification_user_control_no">No</value>
+        <value id="notification_user_control_yes">Yes</value>
+        <value id="reader_user_control_authorisation_no">No</value>
+        <value id="reader_user_control_authorisation_yes">Yes</value>
+        <value id="reader_user_control_chapter">Chapter {0}.</value>
+        <value id="reader_user_control_details">{0}\r\n{1}\r\n\r\nAuthorization: {2}\r\nLanguage: {3}\r\nSize: {4}\r\nFile: {5}\r\n\r\nBooks ({6}):\r\n{7}\r\n\r\nChapters: {8}\r\nVerses: {9}\r\nWords: {10}</value>
+        <value id="reader_user_control_details_title">About the translation</value>
+        <value id="reader_user_control_missing_book">Sorry, this translation does not have this book.</value>
+        <value id="search_form_range_warning_text">To begin the search, you need to choose at least one book</value>
+        <value id="search_form_range_warning_title">No book chosen</value>
+        <value id="splash_form_aliases_error_text">No file with aliases has been found. The program is unable to operate. Please download the program again from http://rbiblia.toborek.info and reinstall it.</value>
+        <value id="splash_form_aliases_error_title">Error</value>
+        <value id="splash_form_translation_error_text">{0}\r\n\r\n{1}\r\n\r\nThis translation has been deleted. Please download it again.</value>
+        <value id="splash_form_translation_error_title">Error loading a translation</value>
+        <value id="translation_form_search_results_summary">verse {0} out of {1} found</value>
+        <value id="translation_form_search_results_tool_tip">Searched expressions:</value>
+        <value id="translation_form_searching_summary">Searching, please wait...</value>
+        <value id="update_form_cancel_text">Are you sure you want to cancel the update process?</value>
+        <value id="update_form_cancel_title">Cancel the update process</value>
+        <value id="settings_form_translation_authors">Translated by:\r\n\r\n{0}</value>
+        <value id="about_form_preview_file_error">File {0} could not be found or opened.</value>
+    </strings>
+</translation>

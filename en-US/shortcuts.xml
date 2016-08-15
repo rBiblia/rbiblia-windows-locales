@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts app="rBiblia">
+    <window name="Global">
+		<key id="Ctrl+C">copy the selected verse(s) into the clipboard</key>
+		<key id="Ctrl+F">open the Search window</key>
+		<key id="Ctrl+U">open the Settings window</key>
+		<key id="Ctrl+L">open the Language window</key>
+		<key id="Ctrl+R">open the Translations repository window</key>
+		<key id="Ctrl+M">open the Multiclipboard window</key>
+		<key id="Ctrl+J">go quickly to a place in the active translation</key>
+		<key id="Ctrl+T">open the Bible terminology dictionary window</key>
+		<key id="Ctrl+1">maximize open windows</key>
+		<key id="Ctrl+2">tile windows vertically</key>
+		<key id="Ctrl+3">tile windows horizontally</key>
+		<key id="Ctrl+4">cascade windows</key>
+		<key id="F1..F12">open a window with a set translation</key>
+		<key id="Ctrl+Tab">switch to the next window</key>
+		<key id="Tab">switch to the previous window</key>
+	</window>
+    <window name="In a translation window">
+		<key id="Up">go to the previous verse</key>
+		<key id="Down">go to the next verse</key>
+		<key id="Left">go to the previous chapter</key>
+		<key id="Right">go to the next chapter</key>
+		<key id="Ctrl+Left">go to the previous book</key>
+		<key id="Ctrl+Right">go to the next book</key>
+		<key id="Ctrl+I">open the About the translation window</key>
+		<key id="Home">go to the first verse</key>
+		<key id="End">go to the last verse</key>
+		<key id="PageUp">go 10 verses forward</key>
+		<key id="PageDown">go 10 verses back</key>
+		<key id="Enter">go to the same verse in all open translations [double click]</key>
+		<key id="Tilde">switch between a translation window and the Navigator</key>
+		<key id="Alt+Left">go to the previous viewed verse</key>
+		<key id="Alt+Right">go to the next viewed verse</key>
+	</window>
+    <window name="When browsing search results">
+		<key id="Ctrl+G">go to the next found verse</key>
+		<key id="Ctrl+Shift+G">go to the previous found verse</key>
+	</window>
+</shortcuts>
