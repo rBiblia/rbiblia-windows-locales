@@ -483,7 +483,7 @@
 	<alias id="prm" group="ot" name="Modlitwa Manassesa" type="apocrypha">
 		<short>prm</short>
 	</alias>
-	<alias id="lao" group="ot" name="Laodiceanie" type="apocrypha">
+	<alias id="lao" group="ot" name="List do Laodicean" type="apocrypha">
 		<short>lao</short>
 	</alias>
 	<alias id="4es" group="ot" name="4 Ezdrasz" type="apocrypha">
