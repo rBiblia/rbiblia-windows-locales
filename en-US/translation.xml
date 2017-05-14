@@ -12,6 +12,7 @@
         <value id="mainForm.navigatorToolStrip.copyToolStripButton" type="ToolTipText">Copy the selected verse(s) to the clipboard [Ctrl+C]</value>
         <value id="mainForm.navigatorToolStrip.searchToolStripButton" type="ToolTipText">Search in the active translation [Ctrl+F]</value>
         <value id="mainForm.navigatorToolStrip.addBookmarkToolStripButton" type="ToolTipText">Add one selected verse to your bookmarks [Ctrl+B]</value>
+        <value id="mainForm.navigatorToolStrip.addNoteToolStripButton" type="ToolTipText">Add/edit a note (single verse) [Ctrl+N]</value>
         <value id="mainForm.navigatorToolStrip.propagateToolStripButton" type="ToolTipText">Go to the same verse in all open translations [Enter]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="Text">The worker deserves his wages [1 Tim. 5:18]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="ToolTipText">Donate money to the author</value>
@@ -113,6 +114,9 @@
         <value id="settingsForm.categoriesTreeView.layoutNode" type="Text">View</value>
         <value id="settingsForm.categoriesTreeView.languageNode" type="Text">Language</value>
         <value id="settingsForm.categoriesTreeView.mainNode" type="Text">General</value>
+        <value id="settingsForm.categoriesTreeView.clipboardNode" type="Text">Clipboard</value>
+        <value id="settingsForm.categoriesTreeView.noteLayoutNode" type="Text">Note</value>
+        <value id="settingsForm.categoriesTreeView.reorderNode" type="Text">List</value>
 
         <!-- settingsLanguageForm -->
         <value id="settingsLanguageForm.languageGroupBox" type="Text">
@@ -140,6 +144,10 @@
             <item>Top of the main window</item>
             <item>Bottom of the main window</item>
         </value>
+        <value id="settingsMainForm.translationMaskLabel" type="Text">
+            <![CDATA[&Display names of installed translations using this mask:]]>
+        </value>
+        <value id="settingsMainForm.translationMaskDefaultLinkLabel" type="Text">set the default value</value>
 
         <!-- settingsLayoutForm -->
         <value id="settingsLayoutForm.sizeGroupBox" type="Text">
@@ -160,6 +168,43 @@
         <value id="settingsLayoutForm.fontNameGroupBox" type="Text">
             <![CDATA[Font &name]]>
         </value>
+
+        <!-- settingsClipboardForm -->
+        <value id="settingsClipboardForm.clipboardGroupBox" type="Text">
+            <![CDATA[&Clipboard]]>
+        </value>
+        <value id="settingsClipboardForm.contentLabel" type="Text">
+            <![CDATA[C&opy verses to the Clipboard using this mask:]]>
+        </value>
+        <value id="settingsClipboardForm.contentDefaultLinkLabel" type="Text">set the default value</value>
+        <value id="settingsClipboardForm.verseLabel" type="Text">
+            <![CDATA[&Print verses using this mask:]]>
+        </value>
+        <value id="settingsClipboardForm.verseDefaultLinkLabel" type="Text">set the default value</value>
+
+        <!-- settingsNoteLayoutForm -->
+        <value id="settingsNoteLayoutForm.sizeGroupBox" type="Text">
+            <![CDATA[Font &size]]>
+        </value>
+        <value id="settingsNoteLayoutForm.backgroundColorGroupBox" type="Text">
+            <![CDATA[&Background color]]>
+        </value>
+        <value id="settingsNoteLayoutForm.fontNameGroupBox" type="Text">
+            <![CDATA[Font &name]]>
+        </value>
+        <value id="settingsNoteLayoutForm.fontColorGroupBox" type="Text">
+            <![CDATA[Font &color]]>
+        </value>
+
+        <!-- settingsReorderForm -->
+        <value id="settingsReorderForm.mainGroupBox" type="Text">
+            <![CDATA[&Show installed translations in this order:]]>
+        </value>
+        <value id="settingsReorderForm.reorderListView.shortcutColumnHeader" type="Text">Key</value>
+        <value id="settingsReorderForm.reorderListView.nameColumnHeader" type="Text">Name</value>
+        <value id="settingsReorderForm.upDownToolStrip.moveUpToolStripButton" type="ToolTipText">Move Up [Ctrl+Up]</value>
+        <value id="settingsReorderForm.upDownToolStrip.moveDownToolStripButton" type="ToolTipText">Move Down [Ctrl+Down]</value>
+        <value id="downloadTranslationsForm.translationsListView.dateColumnHeader" type="Text">Date of publication</value>
 
         <!-- translationForm -->
         <value id="translationForm.searchToolStrip.resultsToolStripLabel" type="Text">
@@ -192,7 +237,6 @@
         </value>
 
         <!-- aboutContactForm -->
-        <value id="aboutContactForm.authorLabel" type="Text">You can find more about the author on</value>
         <value id="aboutContactForm.messageLabel" type="Text">
             <![CDATA[&What would you like to say?]]>
         </value>
@@ -207,7 +251,7 @@
         </value>
 
         <!-- aboutDetailsForm -->
-        <value id="aboutDetailsForm.omniLabel" type="Text">Created in collaboration with</value>
+        <value id="aboutDetailsForm.authorLabel" type="Text">You can find more about the author on</value>
         <value id="aboutDetailsForm.dotNetVersionLabel" type="Text">.NET framework version: {0}</value>
         <value id="aboutDetailsForm.versionLabel" type="Text">rBiblia, version {0}</value>
         <value id="aboutDetailsForm.descriptionLabel" type="Text">The rBiblia program was created to make it easier to browse and search for Bible verses across many different translations. Its author is not affiliated with any particular Christian denomination. If you have any suggestions concerning the program, or would like to report an error, please use the form available on its home website. I encourage you to read the Bible. You can find there answers to all your life questions. If you cannot afford to buy one, please contact me – I will send a copy to you for free.</value>
@@ -284,6 +328,7 @@
         <value id="downloadTranslationsForm.translationsListView.sizeColumnHeader" type="Text">Size</value>
         <value id="downloadTranslationsForm.translationsListView.descriptionColumnHeader" type="Text">Description</value>
         <value id="downloadTranslationsForm.translationsListView.nameColumnHeader" type="Text">Name</value>
+        <value id="downloadTranslationsForm.translationsListView.dateColumnHeader" type="Text">Publication date</value>
         <value id="downloadTranslationsForm.translationsListView.clearToolStripMenuItem" type="Text">
             <![CDATA[&Uncheck all boxes]]>
         </value>
@@ -296,10 +341,23 @@
         <value id="moveBookmarkForm.mainGroupBox" type="Text">Move to</value>
         <value id="moveBookmarkForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
         <value id="moveBookmarkForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+		
+        <!-- notesForm -->
+        <value id="notesForm" type="Text">Add/edit a note</value>
+        <value id="notesForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
+        <value id="notesForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="notesForm.currentGroupBox" type="Text">
+            <![CDATA[&Note]]>
+        </value>
+        <value id="notesForm.globalGroupBox" type="Text">
+            <![CDATA[&Note]]>
+        </value>
 
         <!-- searchForm -->
         <value id="searchForm" type="Text">Search</value>
+        <value id="searchForm.optionMethodLabel" type="Text">Look for:</value>
         <value id="searchForm.optionWordsLabel" type="Text">The program will only show whole words, not parts of words</value>
+        <value id="searchForm.optionStartingLabel" type="Text">The entered characters must begin or constitute the searched expression</value>
         <value id="searchForm.optionsTabPage" type="Text">Options</value>
         <value id="searchForm.optionAllLabel" type="Text">Verses must have all of the expressions searched for</value>
         <value id="searchForm.optionAnyLabel" type="Text">Verses may have one or more of the expressions searched for</value>
@@ -317,6 +375,15 @@
         <value id="searchForm.optionMatchCaseCheckBox" type="Text">
             <![CDATA[Match &case]]>
         </value>
+        <value id="searchForm.optionRegularRadioButton" type="Text">
+            <![CDATA[&Everything]]>
+        </value>
+        <value id="searchForm.optionWordsRadioButton" type="Text">
+            <![CDATA[&Whole words only]]>
+        </value>
+        <value id="searchForm.optionStartingRadioButton" type="Text">
+            <![CDATA[Words &beginning with the entered characters]]>
+        </value>
         <value id="searchForm.optionWordsCheckBox" type="Text">
             <![CDATA[Find &whole words only]]>
         </value>
@@ -330,7 +397,7 @@
             <![CDATA[&Old Testament only]]>
         </value>
         <value id="searchForm.rangeSelectedBooksRadioButton" type="Text">
-            <![CDATA[&Books:]]>
+            <![CDATA[&Books{0}:]]>
         </value>
 
         <!-- importBookmarksForm -->
@@ -370,6 +437,11 @@
         <value id="importBookmarksForm.addRadioButton" type="Text">
             <![CDATA[&Copy the bookmarks to a new folder:]]>
         </value>
+        <value id="importBookmarksForm.sortComboBox" type="Items">
+            <item>sort by verse</item>
+            <item>sort by translation</item>
+            <item>sort by translation alternately </item>
+        </value>
 
         <!-- readerUserControl -->
         <value id="readerUserControl.setToolStripMenuItem" type="Text">
@@ -383,6 +455,12 @@
         </value>
         <value id="readerUserControl.detailsToolStripMenuItem" type="Text">
             <![CDATA[&About the translation]]>
+        </value>
+        <value id="readerUserControl.addNoteToolStripMenuItem" type="Text">
+            <![CDATA[Add/edit a note (single verse)]]>
+        </value>
+        <value id="readerUserControl.showNotesToolStripMenuItem" type="Text">
+            <![CDATA[&Show notes]]>
         </value>
     </controls>
 
@@ -409,6 +487,7 @@
         <value id="dictionary_form_count">Number of stored entries: {0}</value>
         <value id="download_form_authorisation_no">No</value>
         <value id="download_form_authorisation_yes">Authorized</value>
+        <value id="download_form_date_not_available">n/a</value>
         <value id="download_form_cancel_text">Are you sure you want to cancel the download?</value>
         <value id="download_form_cancel_title">Cancel the download</value>
         <value id="download_form_error_out_of_date">Your program is out-of-date. You need to update the program to use the translations repository</value>
@@ -471,6 +550,8 @@
         <value id="reader_user_control_missing_book">Sorry, this translation does not have this book.</value>
         <value id="search_form_range_warning_text">To begin the search, you need to choose at least one book</value>
         <value id="search_form_range_warning_title">No book chosen</value>
+        <value id="search_form_range_ot">Old Testament</value>
+        <value id="search_form_range_nt">New Testament</value>
         <value id="splash_form_aliases_error_text">No file with aliases has been found. The program is unable to operate. Please download the program again from http://rbiblia.toborek.info and reinstall it.</value>
         <value id="splash_form_aliases_error_title">Error</value>
         <value id="splash_form_translation_error_text">{0}\r\n\r\n{1}\r\n\r\nThis translation has been deleted. Please download it again.</value>
@@ -481,6 +562,12 @@
         <value id="update_form_cancel_text">Are you sure you want to cancel the update process?</value>
         <value id="update_form_cancel_title">Cancel the update process</value>
         <value id="settings_form_translation_authors">Translated by:\r\n\r\n{0}</value>
+        <value id="settings_clipboard_form_help_title">Available parameters</value>
+        <value id="settings_clipboard_form_content_text">%t — content of verse(s)\r\n%n — name of translation\r\n%s — short name of translation\r\n%d — description of translation\r\n%y — year of publication\r\n%l — language\r\n%b — book\r\n%c — chapter\r\n%v — verse number(s)</value>
+        <value id="settings_clipboard_form_verse_text">%v — verse number(s)\r\n%t — single verse content</value>
+        <value id="settings_main_form_mask_help_title">Available parameters</value>
+        <value id="settings_main_form_mask_help_text">%n — name of translation\r\n%s — short name of translation\r\n%d — description of translation\r\n%y — year of publication\r\n%l — language</value>
         <value id="about_form_preview_file_error">File {0} could not be found or opened.</value>
+        <value id="notes_form_global_tab_title">Global</value>
     </strings>
 </translation>
