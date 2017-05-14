@@ -12,6 +12,7 @@
         <value id="mainForm.navigatorToolStrip.copyToolStripButton" type="ToolTipText">Kopiuj zaznaczony werset do schowka [Ctrl+C]</value>
         <value id="mainForm.navigatorToolStrip.searchToolStripButton" type="ToolTipText">Szukaj w aktywnym tłumaczeniu [Ctrl+F]</value>
         <value id="mainForm.navigatorToolStrip.addBookmarkToolStripButton" type="ToolTipText">Dodaje zaznaczony werset do zakładek [Ctrl+B]</value>
+        <value id="mainForm.navigatorToolStrip.addNoteToolStripButton" type="ToolTipText">Dodaj/edytuj notatkę do wersetu [Ctrl+N]</value>
         <value id="mainForm.navigatorToolStrip.propagateToolStripButton" type="ToolTipText">Ustawia to samo miejsce we wszystkich otwartych tłumaczeniach [Enter]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="Text">Godzien jest robotnik zapłaty swojej [1Tym 5:18]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="ToolTipText">Przekaż niewielką darowiznę w podziękowaniu za program</value>
@@ -113,6 +114,9 @@
         <value id="settingsForm.categoriesTreeView.layoutNode" type="Text">Wygląd</value>
         <value id="settingsForm.categoriesTreeView.languageNode" type="Text">Język</value>
         <value id="settingsForm.categoriesTreeView.mainNode" type="Text">Ogólne</value>
+        <value id="settingsForm.categoriesTreeView.clipboardNode" type="Text">Schowek</value>
+        <value id="settingsForm.categoriesTreeView.noteLayoutNode" type="Text">Notatka</value>
+        <value id="settingsForm.categoriesTreeView.reorderNode" type="Text">Lista</value>
 
         <!-- settingsLanguageForm -->
         <value id="settingsLanguageForm.languageGroupBox" type="Text">
@@ -140,6 +144,10 @@
             <item>pokaż u góry ekranu</item>
             <item>pokaż u dołu ekranu</item>
         </value>
+        <value id="settingsMainForm.translationMaskLabel" type="Text">
+            <![CDATA[&Maska używana do wyświetlania nazwy tłumaczenia na liście:]]>
+        </value>
+        <value id="settingsMainForm.translationMaskDefaultLinkLabel" type="Text">ustaw wartość domyślną</value>
 
         <!-- settingsLayoutForm -->
         <value id="settingsLayoutForm.sizeGroupBox" type="Text">
@@ -160,6 +168,42 @@
         <value id="settingsLayoutForm.fontNameGroupBox" type="Text">
             <![CDATA[&Nazwa czcionki]]>
         </value>
+
+        <!-- settingsClipboardForm -->
+        <value id="settingsClipboardForm.clipboardGroupBox" type="Text">
+            <![CDATA[&Schowek]]>
+        </value>
+        <value id="settingsClipboardForm.contentLabel" type="Text">
+            <![CDATA[Kopiuj wersety do schowka używając poniższej &maski:]]>
+        </value>
+        <value id="settingsClipboardForm.contentDefaultLinkLabel" type="Text">ustaw wartość domyślną</value>
+        <value id="settingsClipboardForm.verseLabel" type="Text">
+            <![CDATA[Maska, która zostanie użyta do wydrukowania &wersetów:]]>
+        </value>
+        <value id="settingsClipboardForm.verseDefaultLinkLabel" type="Text">ustaw wartość domyślną</value>
+
+        <!-- settingsNoteLayoutForm -->
+        <value id="settingsNoteLayoutForm.sizeGroupBox" type="Text">
+            <![CDATA[&Rozmiar tekstu]]>
+        </value>
+        <value id="settingsNoteLayoutForm.backgroundColorGroupBox" type="Text">
+            <![CDATA[Kolor &tła]]>
+        </value>
+        <value id="settingsNoteLayoutForm.fontNameGroupBox" type="Text">
+            <![CDATA[&Nazwa czcionki]]>
+        </value>
+        <value id="settingsNoteLayoutForm.fontColorGroupBox" type="Text">
+            <![CDATA[Kolor &czcionki]]>
+        </value>
+
+        <!-- settingsReorderForm -->
+        <value id="settingsReorderForm.mainGroupBox" type="Text">
+            <![CDATA[&Kolejność tłumaczeń na liście]]>
+        </value>
+        <value id="settingsReorderForm.reorderListView.shortcutColumnHeader" type="Text">Klawisz</value>
+        <value id="settingsReorderForm.reorderListView.nameColumnHeader" type="Text">Nazwa</value>
+        <value id="settingsReorderForm.upDownToolStrip.moveUpToolStripButton" type="ToolTipText">Przenieś w górę [Ctrl+W górę]</value>
+		<value id="settingsReorderForm.upDownToolStrip.moveDownToolStripButton" type="ToolTipText">Przenieś w dół [Ctrl+W dół]</value>
 
         <!-- translationForm -->
         <value id="translationForm.searchToolStrip.resultsToolStripLabel" type="Text">
@@ -192,7 +236,6 @@
         </value>
 
         <!-- aboutContactForm -->
-        <value id="aboutContactForm.authorLabel" type="Text">Więcej o autorze na stronie</value>
         <value id="aboutContactForm.messageLabel" type="Text">
             <![CDATA[&Co chciałbyś przekazać?]]>
         </value>
@@ -207,7 +250,7 @@
         </value>
 
         <!-- aboutDetailsForm -->
-        <value id="aboutDetailsForm.omniLabel" type="Text">Stworzone we współpracy z</value>
+        <value id="aboutDetailsForm.authorLabel" type="Text">Więcej o autorze na stronie</value>
         <value id="aboutDetailsForm.dotNetVersionLabel" type="Text">wersja .NET: {0}</value>
         <value id="aboutDetailsForm.versionLabel" type="Text">rBiblia, wersja {0}</value>
         <value id="aboutDetailsForm.descriptionLabel" type="Text">Program rBiblia powstał, aby ułatwić przeglądanie oraz poszukiwanie wybranych wersetów różnych tłumaczeń biblijnych. Autor program nie identyfikuje się z żadnym kościołem. Jeśli masz sugestie dotyczące programu lub chciałbyś zgłosić błąd, skorzystaj z formularza umieszczonego na stronie domowej. Zachęcam Cię do czytania Biblii, która pełna jest odpowiedzi na każde Twoje pytanie. Jeśli nie stać Cię na jej zakup, skontaktuj się ze mną, a wyślę Ci egzemplarz zupełnie za darmo.</value>
@@ -284,6 +327,7 @@
         <value id="downloadTranslationsForm.translationsListView.sizeColumnHeader" type="Text">Rozmiar</value>
         <value id="downloadTranslationsForm.translationsListView.descriptionColumnHeader" type="Text">Opis</value>
         <value id="downloadTranslationsForm.translationsListView.nameColumnHeader" type="Text">Nazwa</value>
+        <value id="downloadTranslationsForm.translationsListView.dateColumnHeader" type="Text">Data wydania</value>
         <value id="downloadTranslationsForm.translationsListView.clearToolStripMenuItem" type="Text">
             <![CDATA[&Usuń wszystkie zaznaczenia]]>
         </value>
@@ -297,9 +341,22 @@
         <value id="moveBookmarkForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
         <value id="moveBookmarkForm.menuToolStrip.cancelToolStripButton" type="Text">Anuluj</value>
 
+        <!-- notesForm -->
+        <value id="notesForm" type="Text">Dodaj/edytuj notatkę do wersetu</value>
+        <value id="notesForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
+		<value id="notesForm.menuToolStrip.cancelToolStripButton" type="Text">Anuluj</value>
+        <value id="notesForm.currentGroupBox" type="Text">
+            <![CDATA[&Notatka]]>
+        </value>
+        <value id="notesForm.globalGroupBox" type="Text">
+            <![CDATA[&Notatka]]>
+        </value>
+
         <!-- searchForm -->
         <value id="searchForm" type="Text">Szukaj</value>
+        <value id="searchForm.optionMethodLabel" type="Text">Wyszukaj:</value>
         <value id="searchForm.optionWordsLabel" type="Text">Wyraz musi stanowić kompletne słowo, fragmenty nie będą brane pod uwagę</value>
+        <value id="searchForm.optionStartingLabel" type="Text">Szukane słowo musi rozpoczynać się podanym wyrazem lub być całym wyrazem</value>
         <value id="searchForm.optionsTabPage" type="Text">Opcje</value>
         <value id="searchForm.optionAllLabel" type="Text">Werset musi zawierać każde ze słów z listy</value>
         <value id="searchForm.optionAnyLabel" type="Text">Werset może zawierać jeden lub kilka wyrazów z listy</value>
@@ -317,8 +374,14 @@
         <value id="searchForm.optionMatchCaseCheckBox" type="Text">
             <![CDATA[&Uwzględniaj wielkość liter]]>
         </value>
-        <value id="searchForm.optionWordsCheckBox" type="Text">
-            <![CDATA[Tylko &całe wyrazy]]>
+        <value id="searchForm.optionRegularRadioButton" type="Text">
+            <![CDATA[&wszystko]]>
+        </value>
+        <value id="searchForm.optionWordsRadioButton" type="Text">
+            <![CDATA[tylko &całe wyrazy]]>
+        </value>
+        <value id="searchForm.optionStartingRadioButton" type="Text">
+            <![CDATA[słowa &rozpoczynające się od podanych wyrazów]]>
         </value>
         <value id="searchForm.rangeNTRadioButton" type="Text">
             <![CDATA[tylko &Nowy Testament]]>
@@ -370,6 +433,11 @@
         <value id="importBookmarksForm.addRadioButton" type="Text">
             <![CDATA[Dodaj zakładki w nowej lo&kalizacji:]]>
         </value>
+        <value id="importBookmarksForm.sortComboBox" type="Items">
+            <item>sortuj wersetami</item>
+            <item>sortuj tłumaczeniami</item>
+            <item>sortuj tłum. na przemian</item>
+        </value>
 
         <!-- readerUserControl -->
         <value id="readerUserControl.setToolStripMenuItem" type="Text">
@@ -383,6 +451,12 @@
         </value>
         <value id="readerUserControl.detailsToolStripMenuItem" type="Text">
             <![CDATA[I&nformacje o tłumaczeniu]]>
+        </value>
+        <value id="readerUserControl.addNoteToolStripMenuItem" type="Text">
+            <![CDATA[Dodaj/edytuj notat&kę]]>
+        </value>
+        <value id="readerUserControl.showNotesToolStripMenuItem" type="Text">
+            <![CDATA[&Pokaż notatki]]>
         </value>
     </controls>
 
@@ -409,6 +483,7 @@
         <value id="dictionary_form_count">Dostępnych terminów: {0}</value>
         <value id="download_form_authorisation_no">Brak</value>
         <value id="download_form_authorisation_yes">Autoryzowany</value>
+        <value id="download_form_date_not_available">Brak</value>
         <value id="download_form_cancel_text">Czy na pewno przerwać pobieranie tłumaczenia?</value>
         <value id="download_form_cancel_title">Anuluj pobieranie tłumaczenia</value>
         <value id="download_form_error_out_of_date">Ta wersja programu jest nieaktualna. Aby korzystać z repozytorium, musisz dokonać aktualizacji programu do nowszej wersji</value>
@@ -471,6 +546,8 @@
         <value id="reader_user_control_missing_book">Niestety, tłumaczenie nie zawiera wybranej księgi.</value>
         <value id="search_form_range_warning_text">Aby przeszukać tłumaczenie, należy wybrać przynajmniej jedną księgę</value>
         <value id="search_form_range_warning_title">Nie wybrano żadnej księgi</value>
+        <value id="search_form_range_ot">Stary Testament</value>
+        <value id="search_form_range_nt">Nowy Testament</value>
         <value id="splash_form_aliases_error_text">Nie odnaleziono pliku z definicją aliasów, dalsza praca nie jest możliwa. Pobierz program ze strony http://rbiblia.toborek.info i zainstaluj go ponownie.</value>
         <value id="splash_form_aliases_error_title">Błąd</value>
         <value id="splash_form_translation_error_text">{0}\r\n\r\n{1}\r\n\r\nTłumaczenie zostało usunięte, proszę pobrać je ponownie</value>
@@ -481,6 +558,12 @@
         <value id="update_form_cancel_text">Czy chcesz przerwać proces aktualizacji?</value>
         <value id="update_form_cancel_title">Przerwij aktualizację</value>
         <value id="settings_form_translation_authors">Autorzy tłumaczenia:\r\n\r\n{0}</value>
+        <value id="settings_clipboard_form_help_title">Dostępne parametry</value>
+        <value id="settings_clipboard_form_content_text">%t - treść wersetów\r\n%n - nazwa tłumaczenia\r\n%s - skrócona nazwa tłumaczenia\r\n%d - opis tłumaczenia\r\n%y - rok wydania\r\n%l - język\r\n%b - księga\r\n%c - rozdział\r\n%v - werset(y)</value>
+        <value id="settings_clipboard_form_verse_text">%v - numer wersetu\r\n%t - treść pojedynczego wersetu</value>
+        <value id="settings_main_form_mask_help_title">Dostępne parametry</value>
+        <value id="settings_main_form_mask_help_text">%n - nazwa tłumaczenia\r\n%s - skrócona nazwa tłumaczenia\r\n%d - opis tłumaczenia\r\n%y - rok wydania\r\n%l - język</value>
         <value id="about_form_preview_file_error">Plik {0} nie został odnaleziony lub nie można go odczytać.</value>
+        <value id="notes_form_global_tab_title">Globalna</value>
     </strings>
 </translation>

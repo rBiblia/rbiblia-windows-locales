@@ -34,6 +34,11 @@
 		<key id="Alt+Left">skocz do poprzedniego miejsca w historii</key>
 		<key id="Alt+Right">skocz do następnego miejsca w historii</key>
 	</window>
+	<window name="W oknie wyszukiwarki">
+		<key id="Enter">dodaj frazę do listy / rozpocznij wyszukiwanie</key>
+		<key id="Del">usuń zaznaczoną frazę z listy</key>
+		<key id="Ctrl+Del">wyczyść listę fraz</key>
+	</window>
 	<window name="W wynikach wyszukiwania">
 		<key id="Ctrl+G">skocz do następnego wersetu</key>
 		<key id="Ctrl+Shift+G">skocz do poprzedniego wersetu</key>
