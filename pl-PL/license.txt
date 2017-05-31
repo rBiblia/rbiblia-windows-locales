@@ -9,8 +9,5 @@ Jako autor dołożyłem wszelkich starań, aby program działał według swojego
 
 Będę wdzięczny za wszelkie uwagi oraz pomysły dotyczące usprawnienia aplikacji.
 
-(c) 2013-2016 Rafał Toborek
+(c) 2013-2017 Rafał Toborek
 http://rbiblia.toborek.info
-
-Program powstał we współpracy z:
-http://omniproject.pl
