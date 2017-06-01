@@ -13,6 +13,7 @@
         <value id="mainForm.navigatorToolStrip.copyToolStripButton" type="ToolTipText">Скопировать выделенный стих в буфер обмена [Ctrl+C]</value>
         <value id="mainForm.navigatorToolStrip.searchToolStripButton" type="ToolTipText">Искать в активном переводе [Ctrl+F]</value>
         <value id="mainForm.navigatorToolStrip.addBookmarkToolStripButton" type="ToolTipText">Добавить выделенный стих в закладки [Ctrl+B]</value>
+        <value id="mainForm.navigatorToolStrip.addNoteToolStripButton" type="ToolTipText">Добавить/изменить заметку к стиху [Ctrl+N]</value>
         <value id="mainForm.navigatorToolStrip.propagateToolStripButton" type="ToolTipText">Перейти в это место во всех открытых переводах [Enter]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="Text">Работник достоин своей платы [1Тим 5:18]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="ToolTipText">Пожертвовать небольшую сумму в знак благодарности за программу</value>
@@ -114,6 +115,9 @@
         <value id="settingsForm.categoriesTreeView.layoutNode" type="Text">Вид</value>
         <value id="settingsForm.categoriesTreeView.languageNode" type="Text">Язык</value>
         <value id="settingsForm.categoriesTreeView.mainNode" type="Text">Общие</value>
+        <value id="settingsForm.categoriesTreeView.clipboardNode" type="Text">Буфер обмена</value>
+        <value id="settingsForm.categoriesTreeView.noteLayoutNode" type="Text">Заметка</value>
+        <value id="settingsForm.categoriesTreeView.reorderNode" type="Text">Список</value>
 
         <!-- settingsLanguageForm -->
         <value id="settingsLanguageForm.languageGroupBox" type="Text">
@@ -141,7 +145,47 @@
             <item>показать вверху экрана</item>
             <item>показать внизу экрана</item>
         </value>
+        <value id="settingsMainForm.translationMaskLabel" type="Text">
+            <![CDATA[&Маска для того, чтобы показать название перевода в списке:]]>
+        </value>
+        <value id="settingsMainForm.translationMaskDefaultLinkLabel" type="Text">принять значение по умолчанию</value>
 
+		<!-- settingsClipboardForm -->
+        <value id="settingsClipboardForm.clipboardGroupBox" type="Text">
+            <![CDATA[&Буфер обмена]]>
+        </value>
+        <value id="settingsClipboardForm.contentLabel" type="Text">
+            <![CDATA[Скопировать стихи в буфер обмена, используя следующую &маску:]]>
+        </value>
+        <value id="settingsClipboardForm.contentDefaultLinkLabel" type="Text">принять значение по умолчанию</value>
+        <value id="settingsClipboardForm.verseLabel" type="Text">
+            <![CDATA[Маска для печати &стихов:]]>
+        </value>
+        <value id="settingsClipboardForm.verseDefaultLinkLabel" type="Text">принять значение по умолчанию</value>
+		
+        <!-- settingsReorderForm -->
+        <value id="settingsReorderForm.mainGroupBox" type="Text">
+            <![CDATA[&Очередь переводов в списке]]>
+        </value>
+        <value id="settingsReorderForm.reorderListView.shortcutColumnHeader" type="Text">Клавиша</value>
+        <value id="settingsReorderForm.reorderListView.nameColumnHeader" type="Text">Название</value>
+        <value id="settingsReorderForm.upDownToolStrip.moveUpToolStripButton" type="ToolTipText">Переместить вверх [Ctrl+Вверх]</value>
+        <value id="settingsReorderForm.upDownToolStrip.moveDownToolStripButton" type="ToolTipText">Переместить вниз [Ctrl+Вниз]</value>
+		
+        <!-- settingsNoteLayoutForm -->
+        <value id="settingsNoteLayoutForm.sizeGroupBox" type="Text">
+            <![CDATA[&Размер текста]]>
+        </value>
+        <value id="settingsNoteLayoutForm.backgroundColorGroupBox" type="Text">
+            <![CDATA[Цвет &фона]]>
+        </value>
+        <value id="settingsNoteLayoutForm.fontNameGroupBox" type="Text">
+            <![CDATA[&Название шрифта]]>
+        </value>
+        <value id="settingsNoteLayoutForm.fontColorGroupBox" type="Text">
+            <![CDATA[Цвет шриф&та]]>
+        </value>
+		
         <!-- settingsLayoutForm -->
         <value id="settingsLayoutForm.sizeGroupBox" type="Text">
             <![CDATA[&Размер текста]]>
@@ -193,7 +237,6 @@
         </value>
 
         <!-- aboutContactForm -->
-        <value id="aboutContactForm.authorLabel" type="Text">Больше информации об авторе на сайте</value>
         <value id="aboutContactForm.messageLabel" type="Text">
             <![CDATA[&Что хотел бы сказать?]]>
         </value>
@@ -208,7 +251,7 @@
         </value>
 
         <!-- aboutDetailsForm -->
-        <value id="aboutDetailsForm.omniLabel" type="Text">Создано в сотрудничестве с</value>
+        <value id="aboutDetailsForm.authorLabel" type="Text">Больше информации об авторе на сайте</value>
         <value id="aboutDetailsForm.dotNetVersionLabel" type="Text">версия .NET: {0}</value>
         <value id="aboutDetailsForm.versionLabel" type="Text">rBiblia, версия {0}</value>
         <value id="aboutDetailsForm.descriptionLabel" type="Text">Программа рБиблия была создана для легкого просмотра и поиска выбранных стихов разных библейских переводов. Автор программы не поддерживает никакой церкви. Если у тебя есть замечания касающиеся программы или ты хотел бы сообщить о какой-то проблеме, используй пожалуйста форму на сайте. Рекомендую каждому читать Библию, в которой полно ответов на все Твои вопросы. Если ты не можешь себе позволить её купить, напиши мне, отправлю тебе экземпляр совершенно бесплатно.</value>
@@ -285,6 +328,7 @@
         <value id="downloadTranslationsForm.translationsListView.sizeColumnHeader" type="Text">Размер</value>
         <value id="downloadTranslationsForm.translationsListView.descriptionColumnHeader" type="Text">Описание</value>
         <value id="downloadTranslationsForm.translationsListView.nameColumnHeader" type="Text">Название</value>
+        <value id="downloadTranslationsForm.translationsListView.dateColumnHeader" type="Text">Дата выпускa</value>
         <value id="downloadTranslationsForm.translationsListView.clearToolStripMenuItem" type="Text">
             <![CDATA[&Удалить все избранные]]>
         </value>
@@ -298,9 +342,22 @@
         <value id="moveBookmarkForm.menuToolStrip.okToolStripButton" type="Text">ОК</value>
         <value id="moveBookmarkForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
 
+        <!-- notesForm -->
+        <value id="notesForm" type="Text">Добавить/изменить заметку к стиху</value>
+        <value id="notesForm.menuToolStrip.okToolStripButton" type="Text">ОК</value>
+        <value id="notesForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="notesForm.currentGroupBox" type="Text">
+            <![CDATA[&Заметка]]>
+        </value>
+        <value id="notesForm.globalGroupBox" type="Text">
+            <![CDATA[&Заметка]]>
+        </value>
+
         <!-- searchForm -->
         <value id="searchForm" type="Text">Искать</value>
+        <value id="searchForm.optionMethodLabel" type="Text">Искать:</value>
         <value id="searchForm.optionWordsLabel" type="Text">Слово должно существовать в реальном языке, фрагменты слов не считаются.</value>
+        <value id="searchForm.optionStartingLabel" type="Text">Выражение для поиска должно начинаться с указанного слова или состоить из целого слова</value>
         <value id="searchForm.optionsTabPage" type="Text">Опции</value>
         <value id="searchForm.optionAllLabel" type="Text">Стих должен содержать каждое слово из списка</value>
         <value id="searchForm.optionAnyLabel" type="Text">Стих может содержать одно или несколько слов из списка</value>
@@ -317,6 +374,15 @@
         </value>
         <value id="searchForm.optionMatchCaseCheckBox" type="Text">
             <![CDATA[&Учитывать размер букв]]>
+        </value>
+        <value id="searchForm.optionRegularRadioButton" type="Text">
+            <![CDATA[&всё]]>
+        </value>
+        <value id="searchForm.optionWordsRadioButton" type="Text">
+            <![CDATA[только &целые слова]]>
+        </value>
+        <value id="searchForm.optionStartingRadioButton" type="Text">
+            <![CDATA[выражения &начинающиеся с указанных слов]]>
         </value>
         <value id="searchForm.optionWordsCheckBox" type="Text">
             <![CDATA[Только &целые слова]]>
@@ -371,6 +437,11 @@
         <value id="importBookmarksForm.addRadioButton" type="Text">
             <![CDATA[Добавить закладки в новом &расположении:]]>
         </value>
+        <value id="importBookmarksForm.sortComboBox" type="Items">
+            <item>сортировать стихи</item>
+            <item>сортировать переводы</item>
+            <item>сортировать перев. попеременно</item>
+        </value>		
 
         <!-- readerUserControl -->
         <value id="readerUserControl.setToolStripMenuItem" type="Text">
@@ -385,6 +456,12 @@
         <value id="readerUserControl.detailsToolStripMenuItem" type="Text">
             <![CDATA[&Информации о переводе]]>
         </value>
+        <value id="readerUserControl.addNoteToolStripMenuItem" type="Text">
+            <![CDATA[Добавить/изменить замет&ку]]>
+        </value>
+        <value id="readerUserControl.showNotesToolStripMenuItem" type="Text">
+            <![CDATA[&Показать заметки]]>
+        </value>		
     </controls>
 
     <strings>
@@ -410,6 +487,7 @@
         <value id="dictionary_form_count">Доступных терминов: {0}</value>
         <value id="download_form_authorisation_no">Отсутствует</value>
         <value id="download_form_authorisation_yes">Авторизованный</value>
+        <value id="download_form_date_not_available">Нет результатов</value>
         <value id="download_form_cancel_text">Ты действительно хочешь прервать загрузку переводов?</value>
         <value id="download_form_cancel_title">Отменить загрузку переводов</value>
         <value id="download_form_error_out_of_date">Эта версия программы неактуальная. Чтобы использовать репозиторий, необходимо обновить программу</value>
@@ -472,6 +550,8 @@
         <value id="reader_user_control_missing_book">К сожалению, перевод не содержит избранной книги.</value>
         <value id="search_form_range_warning_text">Чтобы найти перевод надо выбрать хотя бы одну книгу</value>
         <value id="search_form_range_warning_title">Не выбрана ни одна книга</value>
+        <value id="search_form_range_ot">Старый Завет</value>
+        <value id="search_form_range_nt">Новый Завет</value>
         <value id="splash_form_aliases_error_text">Файл определения псевдонимов не найден, дальнейшая работа невозможна. Скачай программу из сайта http://rbiblia.toborek.info и установи заново.</value>
         <value id="splash_form_aliases_error_title">Ошибка</value>
         <value id="splash_form_translation_error_text">{0}\r\n\r\n{1}\r\n\r\nПеревод удален, загрузи его заново</value>
@@ -482,6 +562,12 @@
         <value id="update_form_cancel_text">Хочешь прервать процесс обновления?</value>
         <value id="update_form_cancel_title">Прервать обновление</value>
         <value id="settings_form_translation_authors">Авторы перевода:\r\n\r\n{0}</value>
+        <value id="settings_clipboard_form_help_title">Доступные параметры</value>
+        <value id="settings_clipboard_form_content_text">%t - содержание стихов\r\n%n - название перевода\r\n%s - сокращённое название перевода\r\n%d - описание перевода\r\n%y - год выпуска\r\n%l - язык\r\n%b - книга\r\n%c - раздел\r\n%v - стих(y)</value>
+        <value id="settings_clipboard_form_verse_text">%v - номер стиха\r\n%t - содержание отдельного стиха</value>
+        <value id="settings_main_form_mask_help_title">Доступные параметры</value>
+        <value id="settings_main_form_mask_help_text">%n - название перевода\r\n%s - сокращённое название перевода\r\n%d - описание перевода\r\n%y - год выпуска\r\n%l - язык</value>
         <value id="about_form_preview_file_error">Файл {0} не найден или его невозможно открыть.</value>
+        <value id="notes_form_global_tab_title">Глобально</value>
     </strings>
 </translation>
