@@ -198,7 +198,7 @@
 
         <!-- settingsReorderForm -->
         <value id="settingsReorderForm.mainGroupBox" type="Text">
-            <![CDATA[&Kolejność tłumaczeń na liście]]>
+            <![CDATA[&Porządek wyświetlania zainstalowanych tłumaczeń]]>
         </value>
         <value id="settingsReorderForm.reorderListView.shortcutColumnHeader" type="Text">Klawisz</value>
         <value id="settingsReorderForm.reorderListView.nameColumnHeader" type="Text">Nazwa</value>
@@ -381,7 +381,7 @@
             <![CDATA[tylko &całe wyrazy]]>
         </value>
         <value id="searchForm.optionStartingRadioButton" type="Text">
-            <![CDATA[słowa &rozpoczynające się od podanych wyrazów]]>
+            <![CDATA[słowa &rozpoczynające się od podanych znaków]]>
         </value>
         <value id="searchForm.rangeNTRadioButton" type="Text">
             <![CDATA[tylko &Nowy Testament]]>
