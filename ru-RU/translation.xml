@@ -162,7 +162,7 @@
             <![CDATA[Маска для печати &стихов:]]>
         </value>
         <value id="settingsClipboardForm.verseDefaultLinkLabel" type="Text">принять значение по умолчанию</value>
-		
+
         <!-- settingsReorderForm -->
         <value id="settingsReorderForm.mainGroupBox" type="Text">
             <![CDATA[&Очередь переводов в списке]]>
@@ -171,7 +171,7 @@
         <value id="settingsReorderForm.reorderListView.nameColumnHeader" type="Text">Название</value>
         <value id="settingsReorderForm.upDownToolStrip.moveUpToolStripButton" type="ToolTipText">Переместить вверх [Ctrl+Вверх]</value>
         <value id="settingsReorderForm.upDownToolStrip.moveDownToolStripButton" type="ToolTipText">Переместить вниз [Ctrl+Вниз]</value>
-		
+
         <!-- settingsNoteLayoutForm -->
         <value id="settingsNoteLayoutForm.sizeGroupBox" type="Text">
             <![CDATA[&Размер текста]]>
@@ -185,7 +185,7 @@
         <value id="settingsNoteLayoutForm.fontColorGroupBox" type="Text">
             <![CDATA[Цвет шриф&та]]>
         </value>
-		
+
         <!-- settingsLayoutForm -->
         <value id="settingsLayoutForm.sizeGroupBox" type="Text">
             <![CDATA[&Размер текста]]>

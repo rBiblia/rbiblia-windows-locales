@@ -203,7 +203,7 @@
         <value id="settingsReorderForm.reorderListView.shortcutColumnHeader" type="Text">Klawisz</value>
         <value id="settingsReorderForm.reorderListView.nameColumnHeader" type="Text">Nazwa</value>
         <value id="settingsReorderForm.upDownToolStrip.moveUpToolStripButton" type="ToolTipText">Przenieś w górę [Ctrl+W górę]</value>
-		<value id="settingsReorderForm.upDownToolStrip.moveDownToolStripButton" type="ToolTipText">Przenieś w dół [Ctrl+W dół]</value>
+        <value id="settingsReorderForm.upDownToolStrip.moveDownToolStripButton" type="ToolTipText">Przenieś w dół [Ctrl+W dół]</value>
 
         <!-- translationForm -->
         <value id="translationForm.searchToolStrip.resultsToolStripLabel" type="Text">
@@ -344,7 +344,7 @@
         <!-- notesForm -->
         <value id="notesForm" type="Text">Dodaj/edytuj notatkę do wersetu</value>
         <value id="notesForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
-		<value id="notesForm.menuToolStrip.cancelToolStripButton" type="Text">Anuluj</value>
+        <value id="notesForm.menuToolStrip.cancelToolStripButton" type="Text">Anuluj</value>
         <value id="notesForm.currentGroupBox" type="Text">
             <![CDATA[&Notatka]]>
         </value>

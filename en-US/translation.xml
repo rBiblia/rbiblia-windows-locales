@@ -341,7 +341,7 @@
         <value id="moveBookmarkForm.mainGroupBox" type="Text">Move to</value>
         <value id="moveBookmarkForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
         <value id="moveBookmarkForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
-		
+        
         <!-- notesForm -->
         <value id="notesForm" type="Text">Add/edit a note</value>
         <value id="notesForm.menuToolStrip.okToolStripButton" type="Text">OK</value>

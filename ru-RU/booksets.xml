@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <booksets app="rBiblia">
-	<set group="ot" name="Пятикнижие">
-		<book id="gen"/>
-		<book id="exo"/>
-		<book id="lev"/>
-		<book id="num"/>
-		<book id="deu"/>
-	</set>
-	<set group="ot" name="Исторические">
-		<book id="jos"/>
-		<book id="jud"/>
-		<book id="rut"/>
-		<book id="1sa"/>
-		<book id="2sa"/>
-		<book id="1ki"/>
-		<book id="2ki"/>
-		<book id="1ch"/>
-		<book id="2ch"/>
-		<book id="ezr"/>
-		<book id="neh"/>
-		<book id="est"/>
-	</set>
-	<set group="ot" name="Учительные">
-		<book id="job"/>
-		<book id="psa"/>
-		<book id="pro"/>
-		<book id="ecc"/>
-		<book id="sol"/>
-	</set>
-	<set group="ot" name="Большие пророки">
-		<book id="isa"/>
-		<book id="jer"/>
-		<book id="lam"/>
-		<book id="eze"/>
-		<book id="dan"/>
-	</set>
-	<set group="ot" name="Малые пророки">
-		<book id="hos"/>
-		<book id="joe"/>
-		<book id="amo"/>
-		<book id="oba"/>
-		<book id="jon"/>
-		<book id="mic"/>
-		<book id="nah"/>
-		<book id="hab"/>
-		<book id="zep"/>
-		<book id="hag"/>
-		<book id="zec"/>
-		<book id="mal"/>
-	</set>
-	<set group="nt" name="Евангелие">
-		<book id="mat"/>
-		<book id="mar"/>
-		<book id="luk"/>
-		<book id="joh"/>
-	</set>
-	<set group="nt" name="История апостолов">
-		<book id="act"/>
-	</set>
-	<set group="nt" name="Послания Павла">
-		<book id="rom"/>
-		<book id="1co"/>
-		<book id="2co"/>
-		<book id="gal"/>
-		<book id="eph"/>
-		<book id="phi"/>
-		<book id="col"/>
-		<book id="1th"/>
-		<book id="2th"/>
-		<book id="1ti"/>
-		<book id="2ti"/>
-		<book id="tit"/>
-		<book id="phm"/>
-	</set>
-	<set group="nt" name="Соборные послания">
-		<book id="heb"/>
-		<book id="jam"/>
-		<book id="1pe"/>
-		<book id="2pe"/>
-		<book id="1jo"/>
-		<book id="2jo"/>
-		<book id="3jo"/>
-		<book id="jud"/>
-	</set>
-	<set group="nt" name="Апокалипсис">
-		<book id="rev"/>
-	</set>
+    <set group="ot" name="Пятикнижие">
+        <book id="gen"/>
+        <book id="exo"/>
+        <book id="lev"/>
+        <book id="num"/>
+        <book id="deu"/>
+    </set>
+    <set group="ot" name="Исторические">
+        <book id="jos"/>
+        <book id="jud"/>
+        <book id="rut"/>
+        <book id="1sa"/>
+        <book id="2sa"/>
+        <book id="1ki"/>
+        <book id="2ki"/>
+        <book id="1ch"/>
+        <book id="2ch"/>
+        <book id="ezr"/>
+        <book id="neh"/>
+        <book id="est"/>
+    </set>
+    <set group="ot" name="Учительные">
+        <book id="job"/>
+        <book id="psa"/>
+        <book id="pro"/>
+        <book id="ecc"/>
+        <book id="sol"/>
+    </set>
+    <set group="ot" name="Большие пророки">
+        <book id="isa"/>
+        <book id="jer"/>
+        <book id="lam"/>
+        <book id="eze"/>
+        <book id="dan"/>
+    </set>
+    <set group="ot" name="Малые пророки">
+        <book id="hos"/>
+        <book id="joe"/>
+        <book id="amo"/>
+        <book id="oba"/>
+        <book id="jon"/>
+        <book id="mic"/>
+        <book id="nah"/>
+        <book id="hab"/>
+        <book id="zep"/>
+        <book id="hag"/>
+        <book id="zec"/>
+        <book id="mal"/>
+    </set>
+    <set group="nt" name="Евангелие">
+        <book id="mat"/>
+        <book id="mar"/>
+        <book id="luk"/>
+        <book id="joh"/>
+    </set>
+    <set group="nt" name="История апостолов">
+        <book id="act"/>
+    </set>
+    <set group="nt" name="Послания Павла">
+        <book id="rom"/>
+        <book id="1co"/>
+        <book id="2co"/>
+        <book id="gal"/>
+        <book id="eph"/>
+        <book id="phi"/>
+        <book id="col"/>
+        <book id="1th"/>
+        <book id="2th"/>
+        <book id="1ti"/>
+        <book id="2ti"/>
+        <book id="tit"/>
+        <book id="phm"/>
+    </set>
+    <set group="nt" name="Соборные послания">
+        <book id="heb"/>
+        <book id="jam"/>
+        <book id="1pe"/>
+        <book id="2pe"/>
+        <book id="1jo"/>
+        <book id="2jo"/>
+        <book id="3jo"/>
+        <book id="jud"/>
+    </set>
+    <set group="nt" name="Апокалипсис">
+        <book id="rev"/>
+    </set>
 </booksets>
