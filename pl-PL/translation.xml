@@ -559,10 +559,10 @@
         <value id="update_form_cancel_title">Przerwij aktualizację</value>
         <value id="settings_form_translation_authors">Autorzy tłumaczenia:\r\n\r\n{0}</value>
         <value id="settings_clipboard_form_help_title">Dostępne parametry</value>
-        <value id="settings_clipboard_form_content_text">%t - treść wersetów\r\n%n - nazwa tłumaczenia\r\n%s - skrócona nazwa tłumaczenia\r\n%d - opis tłumaczenia\r\n%y - rok wydania\r\n%l - język\r\n%b - księga\r\n%c - rozdział\r\n%v - werset(y)</value>
-        <value id="settings_clipboard_form_verse_text">%v - numer wersetu\r\n%t - treść pojedynczego wersetu</value>
+        <value id="settings_clipboard_form_content_text">%t — treść wersetów\r\n%n — nazwa tłumaczenia\r\n%s — skrócona nazwa tłumaczenia\r\n%d — opis tłumaczenia\r\n%y — rok wydania\r\n%l — język\r\n%b — księga\r\n%c — rozdział\r\n%v — werset(y)</value>
+        <value id="settings_clipboard_form_verse_text">%v — numer wersetu\r\n%t — treść pojedynczego wersetu</value>
         <value id="settings_main_form_mask_help_title">Dostępne parametry</value>
-        <value id="settings_main_form_mask_help_text">%n - nazwa tłumaczenia\r\n%s - skrócona nazwa tłumaczenia\r\n%d - opis tłumaczenia\r\n%y - rok wydania\r\n%l - język</value>
+        <value id="settings_main_form_mask_help_text">%n — nazwa tłumaczenia\r\n%s — skrócona nazwa tłumaczenia\r\n%d — opis tłumaczenia\r\n%y — rok wydania\r\n%l — język</value>
         <value id="about_form_preview_file_error">Plik {0} nie został odnaleziony lub nie można go odczytać.</value>
         <value id="notes_form_global_tab_title">Globalna</value>
     </strings>

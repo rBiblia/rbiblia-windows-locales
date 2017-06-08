@@ -563,10 +563,10 @@
         <value id="update_form_cancel_title">Прервать обновление</value>
         <value id="settings_form_translation_authors">Авторы перевода:\r\n\r\n{0}</value>
         <value id="settings_clipboard_form_help_title">Доступные параметры</value>
-        <value id="settings_clipboard_form_content_text">%t - содержание стихов\r\n%n - название перевода\r\n%s - сокращённое название перевода\r\n%d - описание перевода\r\n%y - год выпуска\r\n%l - язык\r\n%b - книга\r\n%c - раздел\r\n%v - стих(y)</value>
-        <value id="settings_clipboard_form_verse_text">%v - номер стиха\r\n%t - содержание отдельного стиха</value>
+        <value id="settings_clipboard_form_content_text">%t — содержание стихов\r\n%n — название перевода\r\n%s — сокращённое название перевода\r\n%d — описание перевода\r\n%y — год выпуска\r\n%l — язык\r\n%b — книга\r\n%c — раздел\r\n%v — стих(y)</value>
+        <value id="settings_clipboard_form_verse_text">%v — номер стиха\r\n%t — содержание отдельного стиха</value>
         <value id="settings_main_form_mask_help_title">Доступные параметры</value>
-        <value id="settings_main_form_mask_help_text">%n - название перевода\r\n%s - сокращённое название перевода\r\n%d - описание перевода\r\n%y - год выпуска\r\n%l - язык</value>
+        <value id="settings_main_form_mask_help_text">%n — название перевода\r\n%s — сокращённое название перевода\r\n%d — описание перевода\r\n%y — год выпуска\r\n%l — язык</value>
         <value id="about_form_preview_file_error">Файл {0} не найден или его невозможно открыть.</value>
         <value id="notes_form_global_tab_title">Глобально</value>
     </strings>
