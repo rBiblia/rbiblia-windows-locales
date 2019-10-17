@@ -1,13 +1,13 @@
-rBiblia locales
-===============
+rBiblia for Windows locales
+===========================
 
-[![Build Status](https://travis-ci.org/rBiblia/locales.svg?branch=master)](https://travis-ci.org/rBiblia/locales)
+[![Build Status](https://travis-ci.org/rBiblia/rbiblia-windows-locales.svg?branch=master)](https://travis-ci.org/rBiblia/rbiblia-windows-locales)
 
-Localisation repository for [rBiblia](http://rbiblia.toborek.info) application.
+Localisation repository for [rBiblia](https://rbiblia.toborek.info) application.
 
 All contributions are welcome.
 
-Here you will find informations on how to translate rBiblia's interface into desired language.
+Here you will find details on how to translate rBiblia's interface into your language.
 
 Step by step instruction
 ------------------------
@@ -22,10 +22,14 @@ Step by step instruction
 * after your work is done, you can add a new commit with the proper name, for example `[en-GB] added interface translation file` - all your commits should be preceded with culture specific id stored between `[`square brackets`]`,
 * push your local branch to your fork and create a new Pull Request.
 
-After successful review of your Pull Request your commits will be merged into master branch of the upstream repository.
+After successful review of your Pull Request, your commits will be merged into master branch of the upstream repository.
 
 Only two files are required to translate rBiblia's interface: `translation.xml` and `aliases.xml`.
 
 If you have any questions, please do not hestitate to contact the author of this repository.
 
-You can drop me a line using dedicated [contact form](http://toborek.info/kontakt/) (please keep in mind that I can understand only Polish or English language).
+You can drop me a line using dedicated [contact form](https://toborek.info/kontakt/) (please keep in mind that I can understand only Polish and English language).
+
+Please [support my work](https://rbiblia.toborek.info/donation/).
+
+You can follow rBiblia on [Facebook](https://www.facebook.com/rBiblia) and [Telegram](https://t.me/rBiblia).
