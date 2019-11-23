@@ -49,6 +49,9 @@
         <value id="mainForm.menuStrip.downloadTranslationsToolStripMenuItem" type="Text">
             <![CDATA[Zarządzaj &repozytorium]]>
         </value>
+        <value id="mainForm.menuStrip.installTranslationToolStripMenuItem" type="Text">
+            <![CDATA[&Zaimportuj z pliku]]>
+        </value>
         <value id="mainForm.menuStrip.openAllToolStripMenuItem" type="Text">
             <![CDATA[Otwórz &wszystkie]]>
         </value>
@@ -62,7 +65,19 @@
             <![CDATA[&Organizuj zakładki]]>
         </value>
         <value id="mainForm.menuStrip.importBookmarksToolStripMenuItem" type="Text">
-            <![CDATA[Imp&ortuj/eksportuj zakładki]]>
+            <![CDATA[Importuj/&eksportuj zakładki]]>
+        </value>
+        <value id="mainForm.menuStrip.notesToolStripMenuItem" type="Text">
+            <![CDATA[Notat&ki]]>
+        </value>
+        <value id="mainForm.menuStrip.addNoteToolStripMenuItem" type="Text">
+            <![CDATA[&Dodaj/edytuj notatkę]]>
+        </value>
+        <value id="mainForm.menuStrip.organizeNotesToolStripMenuItem" type="Text">
+            <![CDATA[&Przeglądaj notatki]]>
+        </value>
+        <value id="mainForm.menuStrip.importNotesToolStripMenuItem" type="Text">
+            <![CDATA[Importuj/&eksportuj notatki]]>
         </value>
         <value id="mainForm.menuStrip.windowToolStripMenuItem" type="Text">
             <![CDATA[Ok&na]]>
@@ -201,6 +216,7 @@
             <![CDATA[&Porządek wyświetlania zainstalowanych tłumaczeń]]>
         </value>
         <value id="settingsReorderForm.reorderListView.shortcutColumnHeader" type="Text">Klawisz</value>
+        <value id="settingsReorderForm.reorderListView.isDefaultColumnHeader" type="Text">Domyślne</value>
         <value id="settingsReorderForm.reorderListView.nameColumnHeader" type="Text">Nazwa</value>
         <value id="settingsReorderForm.upDownToolStrip.moveUpToolStripButton" type="ToolTipText">Przenieś w górę [Ctrl+W górę]</value>
         <value id="settingsReorderForm.upDownToolStrip.moveDownToolStripButton" type="ToolTipText">Przenieś w dół [Ctrl+W dół]</value>
@@ -326,6 +342,7 @@
         <value id="downloadTranslationsForm.translationsListView.authorisationColumnHeader" type="Text">Autoryzacja</value>
         <value id="downloadTranslationsForm.translationsListView.sizeColumnHeader" type="Text">Rozmiar</value>
         <value id="downloadTranslationsForm.translationsListView.descriptionColumnHeader" type="Text">Opis</value>
+        <value id="downloadTranslationsForm.translationsListView.identifierColumnHeader" type="Text">Nazwa skrócona</value>
         <value id="downloadTranslationsForm.translationsListView.nameColumnHeader" type="Text">Nazwa</value>
         <value id="downloadTranslationsForm.translationsListView.dateColumnHeader" type="Text">Data wydania</value>
         <value id="downloadTranslationsForm.translationsListView.clearToolStripMenuItem" type="Text">
@@ -341,16 +358,51 @@
         <value id="moveBookmarkForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
         <value id="moveBookmarkForm.menuToolStrip.cancelToolStripButton" type="Text">Anuluj</value>
 
+        <!-- addNoteForm -->
+        <value id="addNoteForm" type="Text">Dodaj/edytuj notatkę do wersetu</value>
+        <value id="addNoteForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
+        <value id="addNoteForm.menuToolStrip.cancelToolStripButton" type="Text">Anuluj</value>
+        <value id="addNoteForm.currentGroupBox" type="Text">
+            <![CDATA[&Notatka]]>
+        </value>
+        <value id="addNoteForm.globalGroupBox" type="Text">
+            <![CDATA[&Notatka]]>
+        </value>
+        
         <!-- notesForm -->
-        <value id="notesForm" type="Text">Dodaj/edytuj notatkę do wersetu</value>
-        <value id="notesForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
+        <value id="notesForm" type="Text">Przeglądaj notatki</value>
+        <value id="notesForm.menuToolStrip.saveToolStripButton" type="Text">Zapisz</value>
         <value id="notesForm.menuToolStrip.cancelToolStripButton" type="Text">Anuluj</value>
-        <value id="notesForm.currentGroupBox" type="Text">
-            <![CDATA[&Notatka]]>
+        <value id="notesForm.menuToolStrip.showToolStripButton" type="Text">
+            <![CDATA[&Pokaż w tłumaczeniu]]>
         </value>
-        <value id="notesForm.globalGroupBox" type="Text">
-            <![CDATA[&Notatka]]>
+        <value id="notesForm.menuToolStrip.deleteToolStripButton" type="Text">
+            <![CDATA[&Usuń]]>
         </value>
+        <value id="notesForm.menuToolStrip.listToolStripButton" type="ToolTipText">Pokaż lub schowaj listę wersetów [Ctrl+L]</value>
+
+        <!-- importNotesForm -->
+        <value id="importNotesForm" type="Text">Importuj/eksportuj notatki</value>
+        <value id="importNotesForm.menuToolStrip.proceedToolStripButton" type="Text">Rozpocznij</value>
+        <value id="importNotesForm.menuToolStrip.cancelToolStripButton" type="Text">Anuluj</value>
+        <value id="importNotesForm.importRadioButton" type="Text">
+            <![CDATA[I&mportuj notatki z pliku]]>
+        </value>
+        <value id="importNotesForm.importLabel" type="Text">Pozwala wczytać notatki zapisane wcześniej do pliku</value>
+        <value id="importNotesForm.importGroupBox" type="Text">Sposób obsługi konfliktów</value>
+        <value id="importNotesForm.ignoreRadioButton" type="Text">
+            <![CDATA[&Pomiń istniejące notatki]]>
+        </value>
+        <value id="importNotesForm.overwriteRadioButton" type="Text">
+            <![CDATA[&Zastąp istniejące notatki]]>
+        </value>
+        <value id="importNotesForm.mergeRadioButton" type="Text">
+            <![CDATA[&Scal notatki poprzez dopisanie do już istniejących]]>
+        </value>
+        <value id="importNotesForm.exportRadioButton" type="Text">
+            <![CDATA[&Eksportuj notatki do pliku]]>
+        </value>
+        <value id="importNotesForm.exportLabel" type="Text">Pozwala zapisać istniejące notatki do pliku w celu wykonania kopii lub przeniesienia na inny komputer</value>
 
         <!-- searchForm -->
         <value id="searchForm" type="Text">Szukaj</value>
@@ -439,6 +491,29 @@
             <item>sortuj tłum. na przemian</item>
         </value>
 
+        <!-- reportForm -->
+        <value id="reportForm" type="Text">Zgłoś błąd w tłumaczeniu</value>
+        <value id="reportForm.descriptionLabel" type="Text">
+            <![CDATA[Skorzystaj z tego formularza, aby zgłosić błąd znaleziony w aktualnie otwartym tłumaczeniu. Podstawowe informacje takie jak nazwa tłumaczenia oraz zaznaczone wersety zostaną dołączone automatycznie.]]>
+        </value>
+        <value id="reportForm.contentGroupBox" type="Text">
+            <![CDATA[Poprawna &zawartość]]>
+        </value>
+        <value id="reportForm.extraGroupBox" type="Text">
+            <![CDATA[Dodatkowe &uwagi (niewymagane)]]>
+        </value>
+        <value id="reportForm.contactGroupBox" type="Text">
+            <![CDATA[Dane kontaktowe]]>
+        </value>
+        <value id="reportForm.emailLabel" type="Text">
+            <![CDATA[Podaj &e-mail:]]>
+        </value>
+        <value id="reportForm.nameLabel" type="Text">
+            <![CDATA[&Przedstaw się:]]>
+        </value>
+        <value id="reportForm.menuToolStrip.cancelToolStripButton" type="Text">Anuluj</value>
+        <value id="reportForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
+
         <!-- readerUserControl -->
         <value id="readerUserControl.setToolStripMenuItem" type="Text">
             <![CDATA[&Ustaw ten sam werset w pozostałych tłumaczeniach]]>
@@ -458,6 +533,28 @@
         <value id="readerUserControl.showNotesToolStripMenuItem" type="Text">
             <![CDATA[&Pokaż notatki]]>
         </value>
+        <value id="readerUserControl.reportToolStripMenuItem" type="Text">
+            <![CDATA[Zgłoś &błąd w tłumaczeniu]]>
+        </value>
+
+        <!-- detailsForm -->
+        <value id="detailsForm" type="Text">Informacje o tłumaczeniu</value>
+        <value id="detailsForm.menuToolStrip.closeToolStripButton" type="Text">Zamknij</value>
+        <value id="detailsForm.basicTabPage" type="Text">Podstawowe</value>
+        <value id="detailsForm.noticeTabPage" type="Text">Nota redakcyjna</value>
+        <value id="detailsForm.statisticsTabPage" type="Text">Statystyka</value>
+        <value id="detailsForm.dateLabel" type="Text">Data wydania:</value>
+        <value id="detailsForm.shortcutLabel" type="Text">Nazwa skrócona:</value>
+        <value id="detailsForm.fileLabel" type="Text">Plik:</value>
+        <value id="detailsForm.sizeLabel" type="Text">Rozmiar:</value>
+        <value id="detailsForm.languageLabel" type="Text">Język:</value>
+        <value id="detailsForm.authorizationLabel" type="Text">Autoryzacja:</value>
+        <value id="detailsForm.descriptionLabel" type="Text">Opis:</value>
+        <value id="detailsForm.nameLabel" type="Text">Nazwa:</value>
+        <value id="detailsForm.wordsCountLabel" type="Text">Słów:</value>
+        <value id="detailsForm.versesCountLabel" type="Text">Wersetów:</value>
+        <value id="detailsForm.chaptersCountLabel" type="Text">Wszystkich rozdziałów:</value>
+        <value id="detailsForm.booksCountLabel" type="Text">Dostępne księgi ({0}):</value>
     </controls>
 
     <strings>
@@ -465,7 +562,14 @@
         <value id="about_contact_form_done_title">Dziękuję :-)</value>
         <value id="about_contact_form_error_text">Nie udało się wysłać wiadomości do autora, proszę spróbować później.\r\n{0}</value>
         <value id="about_contact_form_error_title">Błąd podczas wysyłania wiadomości</value>
+        <value id="about_details_form_social_facebook_hint">Odwiedź stronę programu na Facebooku</value>
+        <value id="about_details_form_social_feed_hint">Zasubskrybuj kanał RSS z blogiem</value>
+        <value id="about_details_form_social_github_hint">Zobacz kody źródłowe na GitHubie</value>
+        <value id="about_details_form_social_telegram_hint">Dołącz do grupy w aplikacji Telegram</value>
+        <value id="about_details_form_social_youtube_hint">Zobacz oficjalny kanał programu na YouTube</value>
         <value id="add_bookmark_form_root">Najwyższy poziom</value>
+        <value id="app_critical_error_title">Błąd krytyczny programu rBiblia</value>
+        <value id="app_missing_assets_file_text">Nie można odnaleźć pliku {0} wymaganego do prawidłowej pracy programu. Należy ponownie zainstalować aplikację.</value>
         <value id="bookmark_form_delete_text">Czy na pewno usunąć zakładkę?</value>
         <value id="bookmark_form_delete_title">Usuń</value>
         <value id="bookmark_form_new_directory">Nowy katalog</value>
@@ -541,14 +645,12 @@
         <value id="reader_user_control_authorisation_no">Nie</value>
         <value id="reader_user_control_authorisation_yes">Tak</value>
         <value id="reader_user_control_chapter">Rozdział {0}.</value>
-        <value id="reader_user_control_details">{0}\r\n{1}\r\n\r\nAutoryzacja: {2}\r\nJęzyk: {3}\r\nRozmiar: {4}\r\nPlik: {5}\r\n\r\nDostępne księgi ({6}):\r\n{7}\r\n\r\nRozdziałów: {8}\r\nWersetów: {9}\r\nSłów: {10}</value>
-        <value id="reader_user_control_details_title">Informacje o tłumaczeniu</value>
         <value id="reader_user_control_missing_book">Niestety, tłumaczenie nie zawiera wybranej księgi.</value>
         <value id="search_form_range_warning_text">Aby przeszukać tłumaczenie, należy wybrać przynajmniej jedną księgę</value>
         <value id="search_form_range_warning_title">Nie wybrano żadnej księgi</value>
         <value id="search_form_range_ot">Stary Testament</value>
         <value id="search_form_range_nt">Nowy Testament</value>
-        <value id="splash_form_aliases_error_text">Nie odnaleziono pliku z definicją aliasów, dalsza praca nie jest możliwa. Pobierz program ze strony http://rbiblia.toborek.info i zainstaluj go ponownie.</value>
+        <value id="splash_form_aliases_error_text">Nie odnaleziono pliku z definicją aliasów, dalsza praca nie jest możliwa. Pobierz program ze strony https://rbiblia.toborek.info i zainstaluj go ponownie.</value>
         <value id="splash_form_aliases_error_title">Błąd</value>
         <value id="splash_form_translation_error_text">{0}\r\n\r\n{1}\r\n\r\nTłumaczenie zostało usunięte, proszę pobrać je ponownie</value>
         <value id="splash_form_translation_error_title">Błąd w trakcie ładowania tłumaczenia</value>
@@ -559,11 +661,37 @@
         <value id="update_form_cancel_title">Przerwij aktualizację</value>
         <value id="settings_form_translation_authors">Autorzy tłumaczenia:\r\n\r\n{0}</value>
         <value id="settings_clipboard_form_help_title">Dostępne parametry</value>
-        <value id="settings_clipboard_form_content_text">%t — treść wersetów\r\n%n — nazwa tłumaczenia\r\n%s — skrócona nazwa tłumaczenia\r\n%d — opis tłumaczenia\r\n%y — rok wydania\r\n%l — język\r\n%b — księga\r\n%c — rozdział\r\n%v — werset(y)</value>
-        <value id="settings_clipboard_form_verse_text">%v — numer wersetu\r\n%t — treść pojedynczego wersetu</value>
+        <value id="settings_clipboard_form_content_text">%t — treść wersetów\r\n%n — nazwa tłumaczenia\r\n%s — skrócona nazwa tłumaczenia\r\n%d — opis tłumaczenia\r\n%y — rok wydania\r\n%l — język\r\n%b — księga\r\n%c — rozdział\r\n%v — werset(y)\r\n%nl — nowa linia</value>
+        <value id="settings_clipboard_form_verse_text">%v — numer wersetu\r\n%t — treść pojedynczego wersetu\r\n%nl — nowa linia</value>
+        <value id="settings_reorder_form_default">Tak</value>
         <value id="settings_main_form_mask_help_title">Dostępne parametry</value>
         <value id="settings_main_form_mask_help_text">%n — nazwa tłumaczenia\r\n%s — skrócona nazwa tłumaczenia\r\n%d — opis tłumaczenia\r\n%y — rok wydania\r\n%l — język</value>
         <value id="about_form_preview_file_error">Plik {0} nie został odnaleziony lub nie można go odczytać.</value>
-        <value id="notes_form_global_tab_title">Globalna</value>
+        <value id="add_note_form_global_tab_title">Globalna</value>
+        <value id="report_form_done_text">Zgłoszenie zostało przesłane poprawnie, proszę oczekiwać odpowiedzi.</value>
+        <value id="report_form_done_title">Zgłoszenie wysłane</value>
+        <value id="report_form_error_text">Nie udało się wysłać zgłoszenia do autora, proszę spróbować później.</value>
+        <value id="report_form_error_title">Błąd podczas wysyłania zgłoszenia</value>
+        <value id="notes_form_count">Wszystkich notatek: {0}</value>
+        <value id="notes_form_save_text">Dokonano zmian w notatkach. Czy na pewno chcesz je zapisać?</value>
+        <value id="notes_form_save_title">Zapisz notatki</value>
+        <value id="notes_form_delete_title">Usuń</value>
+        <value id="notes_form_delete_text">Czy na pewno usunąć notatkę?</value>
+        <value id="main_form_install_translation_error_title">Błąd podczas importu tłumaczenia</value>
+        <value id="main_form_install_translation_error_text">Nie można zaimportować pliku o nazwie: {0}</value>
+        <value id="main_form_install_translation_filter">Pliki zawierające tłumaczenia</value>
+        <value id="main_form_install_translation_title">Zaimportuj tłumaczenia z pliku na komputerze</value>
+        <value id="import_notes_form_dialog_filter">Notatki programu rBiblia (*.xml)|*.xml</value>
+        <value id="import_notes_form_export_done_text">Notatki zostały zapisane do pliku</value>
+        <value id="import_notes_form_export_done_title">Notatki zapisane</value>
+        <value id="import_notes_form_export_error_text">Nie udało się zapisać notatek w podanej lokalizacji</value>
+        <value id="import_notes_form_export_error_title">Błąd podczas zapisywania notatek</value>
+        <value id="import_notes_form_import_done_text">Notatki zostały pomyślnie zaimportowane</value>
+        <value id="import_notes_form_import_done_title">Notatki zaimportowane</value>
+        <value id="import_notes_form_import_error_text">Nie udało się prawidłowo zaimportować notatek z pliku. Możliwe, że plik został uszkodzony lub nie zawiera żadnych notatek</value>
+        <value id="import_notes_form_import_error_title">Błąd podczas importowania notatek</value>
+        <value id="import_notes_form_open_dialog_title">Wczytaj notatki z pliku</value>
+        <value id="import_notes_form_save_dialog_filename">rbiblia_notatki_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
+        <value id="import_notes_form_save_dialog_title">Zapisz wszystkie notatki do pliku</value>
     </strings>
 </translation>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <shortcuts app="rBiblia">
     <window name="Globalne">
+        <key id="Ctrl+B">dodaj werset do zakładek</key>
+        <key id="Ctrl+Shift+B">organizuj zakładki</key>
+        <key id="Ctrl+N">dodaj lub edytuj notatkę</key>
+        <key id="Ctrl+Shift+N">organizuj notatki</key>
         <key id="Ctrl+C">kopiuj wybrany werset do schowka</key>
         <key id="Ctrl+F">otwórz okno wyszukiwania</key>
         <key id="Ctrl+U">wyświetl okno z ustawieniami programu</key>
@@ -25,6 +29,7 @@
         <key id="Ctrl+Left">poprzednia księga</key>
         <key id="Ctrl+Right">następna księga</key>
         <key id="Ctrl+I">wyświetl informacje o tłumaczeniu</key>
+        <key id="Ctrl+E">zgłoś błąd w tłumaczeniu</key>
         <key id="Home">pierwszy werset</key>
         <key id="End">ostatni werset</key>
         <key id="PageUp">skocz o 10 wersetów wstecz</key>

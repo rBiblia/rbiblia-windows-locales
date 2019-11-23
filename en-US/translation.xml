@@ -342,14 +342,14 @@
         <value id="moveBookmarkForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
         <value id="moveBookmarkForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
         
-        <!-- notesForm -->
-        <value id="notesForm" type="Text">Add/edit a note</value>
-        <value id="notesForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
-        <value id="notesForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
-        <value id="notesForm.currentGroupBox" type="Text">
+        <!-- addNoteForm -->
+        <value id="addNoteForm" type="Text">Add/edit a note</value>
+        <value id="addNoteForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
+        <value id="addNoteForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="addNoteForm.currentGroupBox" type="Text">
             <![CDATA[&Note]]>
         </value>
-        <value id="notesForm.globalGroupBox" type="Text">
+        <value id="addNoteForm.globalGroupBox" type="Text">
             <![CDATA[&Note]]>
         </value>
 
@@ -545,14 +545,12 @@
         <value id="reader_user_control_authorisation_no">No</value>
         <value id="reader_user_control_authorisation_yes">Yes</value>
         <value id="reader_user_control_chapter">Chapter {0}.</value>
-        <value id="reader_user_control_details">{0}\r\n{1}\r\n\r\nAuthorization: {2}\r\nLanguage: {3}\r\nSize: {4}\r\nFile: {5}\r\n\r\nBooks ({6}):\r\n{7}\r\n\r\nChapters: {8}\r\nVerses: {9}\r\nWords: {10}</value>
-        <value id="reader_user_control_details_title">About the translation</value>
         <value id="reader_user_control_missing_book">Sorry, this translation does not have this book.</value>
         <value id="search_form_range_warning_text">To begin the search, you need to choose at least one book</value>
         <value id="search_form_range_warning_title">No book chosen</value>
         <value id="search_form_range_ot">Old Testament</value>
         <value id="search_form_range_nt">New Testament</value>
-        <value id="splash_form_aliases_error_text">No file with aliases has been found. The program is unable to operate. Please download the program again from http://rbiblia.toborek.info and reinstall it.</value>
+        <value id="splash_form_aliases_error_text">No file with aliases has been found. The program is unable to operate. Please download the program again from https://rbiblia.toborek.info and reinstall it.</value>
         <value id="splash_form_aliases_error_title">Error</value>
         <value id="splash_form_translation_error_text">{0}\r\n\r\n{1}\r\n\r\nThis translation has been deleted. Please download it again.</value>
         <value id="splash_form_translation_error_title">Error loading a translation</value>
@@ -568,6 +566,6 @@
         <value id="settings_main_form_mask_help_title">Available parameters</value>
         <value id="settings_main_form_mask_help_text">%n — name of translation\r\n%s — short name of translation\r\n%d — description of translation\r\n%y — year of publication\r\n%l — language</value>
         <value id="about_form_preview_file_error">File {0} could not be found or opened.</value>
-        <value id="notes_form_global_tab_title">Global</value>
+        <value id="add_note_form_global_tab_title">Global</value>
     </strings>
 </translation>

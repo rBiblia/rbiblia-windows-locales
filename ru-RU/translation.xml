@@ -342,14 +342,14 @@
         <value id="moveBookmarkForm.menuToolStrip.okToolStripButton" type="Text">ОК</value>
         <value id="moveBookmarkForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
 
-        <!-- notesForm -->
-        <value id="notesForm" type="Text">Добавить/изменить заметку к стиху</value>
-        <value id="notesForm.menuToolStrip.okToolStripButton" type="Text">ОК</value>
-        <value id="notesForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
-        <value id="notesForm.currentGroupBox" type="Text">
+        <!-- addNoteForm -->
+        <value id="addNoteForm" type="Text">Добавить/изменить заметку к стиху</value>
+        <value id="addNoteForm.menuToolStrip.okToolStripButton" type="Text">ОК</value>
+        <value id="addNoteForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="addNoteForm.currentGroupBox" type="Text">
             <![CDATA[&Заметка]]>
         </value>
-        <value id="notesForm.globalGroupBox" type="Text">
+        <value id="addNoteForm.globalGroupBox" type="Text">
             <![CDATA[&Заметка]]>
         </value>
 
@@ -545,14 +545,12 @@
         <value id="reader_user_control_authorisation_no">Нет</value>
         <value id="reader_user_control_authorisation_yes">Да</value>
         <value id="reader_user_control_chapter">Раздел {0}.</value>
-        <value id="reader_user_control_details">{0}\r\n{1}\r\n\r\nАвторизация: {2}\r\nЯзык: {3}\r\nРазмер: {4}\r\nФайл: {5}\r\n\r\nДоступные книги ({6}):\r\n{7}\r\n\r\nРазделов: {8}\r\nСтихов: {9}\r\nСлов: {10}</value>
-        <value id="reader_user_control_details_title">Информация о переводе</value>
         <value id="reader_user_control_missing_book">К сожалению, перевод не содержит избранной книги.</value>
         <value id="search_form_range_warning_text">Чтобы найти перевод надо выбрать хотя бы одну книгу</value>
         <value id="search_form_range_warning_title">Не выбрана ни одна книга</value>
         <value id="search_form_range_ot">Старый Завет</value>
         <value id="search_form_range_nt">Новый Завет</value>
-        <value id="splash_form_aliases_error_text">Файл определения псевдонимов не найден, дальнейшая работа невозможна. Скачай программу из сайта http://rbiblia.toborek.info и установи заново.</value>
+        <value id="splash_form_aliases_error_text">Файл определения псевдонимов не найден, дальнейшая работа невозможна. Скачай программу из сайта https://rbiblia.toborek.info и установи заново.</value>
         <value id="splash_form_aliases_error_title">Ошибка</value>
         <value id="splash_form_translation_error_text">{0}\r\n\r\n{1}\r\n\r\nПеревод удален, загрузи его заново</value>
         <value id="splash_form_translation_error_title">Ошибка при загрузке перевода</value>
@@ -568,6 +566,6 @@
         <value id="settings_main_form_mask_help_title">Доступные параметры</value>
         <value id="settings_main_form_mask_help_text">%n — название перевода\r\n%s — сокращённое название перевода\r\n%d — описание перевода\r\n%y — год выпуска\r\n%l — язык</value>
         <value id="about_form_preview_file_error">Файл {0} не найден или его невозможно открыть.</value>
-        <value id="notes_form_global_tab_title">Глобально</value>
+        <value id="add_note_form_global_tab_title">Глобально</value>
     </strings>
 </translation>
