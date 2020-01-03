@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shortcuts app="rBiblia">
     <window name="Global">
+        <key id="Ctrl+B">add verse to bookmarks</key>
+        <key id="Ctrl+Shift+B">manage bookmarks</key>
+        <key id="Ctrl+N">add/edit a note</key>
+        <key id="Ctrl+Shift+N">manage notes</key>
         <key id="Ctrl+C">copy the selected verse(s) into the clipboard</key>
         <key id="Ctrl+F">open the Search window</key>
         <key id="Ctrl+U">open the Settings window</key>
@@ -25,6 +29,7 @@
         <key id="Ctrl+Left">go to the previous book</key>
         <key id="Ctrl+Right">go to the next book</key>
         <key id="Ctrl+I">open the About the translation window</key>
+        <key id="Ctrl+E">report an error</key>
         <key id="Home">go to the first verse</key>
         <key id="End">go to the last verse</key>
         <key id="PageUp">go 10 verses forward</key>

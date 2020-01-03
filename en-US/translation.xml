@@ -13,7 +13,7 @@
         <value id="mainForm.navigatorToolStrip.searchToolStripButton" type="ToolTipText">Search in the active translation [Ctrl+F]</value>
         <value id="mainForm.navigatorToolStrip.addBookmarkToolStripButton" type="ToolTipText">Add one selected verse to your bookmarks [Ctrl+B]</value>
         <value id="mainForm.navigatorToolStrip.addNoteToolStripButton" type="ToolTipText">Add/edit a note (single verse) [Ctrl+N]</value>
-        <value id="mainForm.navigatorToolStrip.propagateToolStripButton" type="ToolTipText">Go to the same verse in all open translations [Enter]</value>
+        <value id="mainForm.navigatorToolStrip.propagateToolStripButton" type="ToolTipText">Go to the same verse in all the open translations [Enter]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="Text">The worker deserves his wages [1 Tim. 5:18]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="ToolTipText">Donate money to the author</value>
         <value id="mainForm.navigatorToolStrip.bookToolStripLabel" type="Text">
@@ -49,6 +49,9 @@
         <value id="mainForm.menuStrip.downloadTranslationsToolStripMenuItem" type="Text">
             <![CDATA[&Manage the repository]]>
         </value>
+        <value id="mainForm.menuStrip.installTranslationToolStripMenuItem" type="Text">
+            <![CDATA[&Import from file]]>
+        </value>
         <value id="mainForm.menuStrip.openAllToolStripMenuItem" type="Text">
             <![CDATA[&Open all translations]]>
         </value>
@@ -63,6 +66,18 @@
         </value>
         <value id="mainForm.menuStrip.importBookmarksToolStripMenuItem" type="Text">
             <![CDATA[Imp&ort/export bookmarks]]>
+        </value>
+        <value id="mainForm.menuStrip.notesToolStripMenuItem" type="Text">
+            <![CDATA[&Notes]]>
+        </value>
+        <value id="mainForm.menuStrip.addNoteToolStripMenuItem" type="Text">
+            <![CDATA[&Add/edit a note]]>
+        </value>
+        <value id="mainForm.menuStrip.organizeNotesToolStripMenuItem" type="Text">
+            <![CDATA[&Browse notes]]>
+        </value>
+        <value id="mainForm.menuStrip.importNotesToolStripMenuItem" type="Text">
+            <![CDATA[Import/&export notes]]>
         </value>
         <value id="mainForm.menuStrip.windowToolStripMenuItem" type="Text">
             <![CDATA[&Windows]]>
@@ -201,6 +216,7 @@
             <![CDATA[&Show installed translations in this order:]]>
         </value>
         <value id="settingsReorderForm.reorderListView.shortcutColumnHeader" type="Text">Key</value>
+        <value id="settingsReorderForm.reorderListView.isDefaultColumnHeader" type="Text">Default</value>
         <value id="settingsReorderForm.reorderListView.nameColumnHeader" type="Text">Name</value>
         <value id="settingsReorderForm.upDownToolStrip.moveUpToolStripButton" type="ToolTipText">Move Up [Ctrl+Up]</value>
         <value id="settingsReorderForm.upDownToolStrip.moveDownToolStripButton" type="ToolTipText">Move Down [Ctrl+Down]</value>
@@ -327,6 +343,7 @@
         <value id="downloadTranslationsForm.translationsListView.authorisationColumnHeader" type="Text">Authorization</value>
         <value id="downloadTranslationsForm.translationsListView.sizeColumnHeader" type="Text">Size</value>
         <value id="downloadTranslationsForm.translationsListView.descriptionColumnHeader" type="Text">Description</value>
+        <value id="downloadTranslationsForm.translationsListView.identifierColumnHeader" type="Text">Short name</value>
         <value id="downloadTranslationsForm.translationsListView.nameColumnHeader" type="Text">Name</value>
         <value id="downloadTranslationsForm.translationsListView.dateColumnHeader" type="Text">Publication date</value>
         <value id="downloadTranslationsForm.translationsListView.clearToolStripMenuItem" type="Text">
@@ -352,6 +369,41 @@
         <value id="addNoteForm.globalGroupBox" type="Text">
             <![CDATA[&Note]]>
         </value>
+
+        <!-- notesForm -->
+        <value id="notesForm" type="Text">Browse notes</value>
+        <value id="notesForm.menuToolStrip.saveToolStripButton" type="Text">Save</value>
+        <value id="notesForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="notesForm.menuToolStrip.showToolStripButton" type="Text">
+            <![CDATA[&Show in the Bible]]>
+        </value>
+        <value id="notesForm.menuToolStrip.deleteToolStripButton" type="Text">
+            <![CDATA[&Delete]]>
+        </value>
+        <value id="notesForm.menuToolStrip.listToolStripButton" type="ToolTipText">Show/hide the verse list [Ctrl+L]</value>
+
+        <!-- importNotesForm -->
+        <value id="importNotesForm" type="Text">Import/export notes</value>
+        <value id="importNotesForm.menuToolStrip.proceedToolStripButton" type="Text">Start</value>
+        <value id="importNotesForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="importNotesForm.importRadioButton" type="Text">
+            <![CDATA[I&mport notes from file]]>
+        </value>
+        <value id="importNotesForm.importLabel" type="Text">Allows importing bookmarks previously exported into files</value>
+        <value id="importNotesForm.importGroupBox" type="Text">If verses have notes already:</value>
+        <value id="importNotesForm.ignoreRadioButton" type="Text">
+            <![CDATA[Do &not add notes to verses that have notes]]>
+        </value>
+        <value id="importNotesForm.overwriteRadioButton" type="Text">
+            <![CDATA[&Overwrite existing notes]]>
+        </value>
+        <value id="importNotesForm.mergeRadioButton" type="Text">
+            <![CDATA[&Add new to existing notes]]>
+        </value>
+        <value id="importNotesForm.exportRadioButton" type="Text">
+            <![CDATA[&Export notes to file]]>
+        </value>
+        <value id="importNotesForm.exportLabel" type="Text">Allows exporting notes into file for backup or in order to copy them onto another computer</value>
 
         <!-- searchForm -->
         <value id="searchForm" type="Text">Search</value>
@@ -443,9 +495,32 @@
             <item>sort by translation alternately </item>
         </value>
 
+        <!-- reportForm -->
+        <value id="reportForm" type="Text">Report an error</value>
+        <value id="reportForm.descriptionLabel" type="Text">
+            <![CDATA[Use this form to report an error in the currently used translation. Basic information such as translation name and the marked verses will be sent automatically.]]>
+        </value>
+        <value id="reportForm.contentGroupBox" type="Text">
+            <![CDATA[What should be corrected]]>
+        </value>
+        <value id="reportForm.extraGroupBox" type="Text">
+            <![CDATA[Additional remarks (optional)]]>
+        </value>
+        <value id="reportForm.contactGroupBox" type="Text">
+            <![CDATA[&Contact info]]>
+        </value>
+        <value id="reportForm.emailLabel" type="Text">
+            <![CDATA[&E-mail:]]>
+        </value>
+        <value id="reportForm.nameLabel" type="Text">
+            <![CDATA[&Name:]]>
+        </value>
+        <value id="reportForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="reportForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
+
         <!-- readerUserControl -->
         <value id="readerUserControl.setToolStripMenuItem" type="Text">
-            <![CDATA[&Go to this verse in all open translations]]>
+            <![CDATA[&Go to this verse in all the open translations]]>
         </value>
         <value id="readerUserControl.copyToolStripMenuItem" type="Text">
             <![CDATA[&Copy into the clipboard]]>
@@ -457,11 +532,33 @@
             <![CDATA[&About the translation]]>
         </value>
         <value id="readerUserControl.addNoteToolStripMenuItem" type="Text">
-            <![CDATA[Add/edit a note (single verse)]]>
+            <![CDATA[Add/edit a &note (single verse)]]>
         </value>
         <value id="readerUserControl.showNotesToolStripMenuItem" type="Text">
             <![CDATA[&Show notes]]>
         </value>
+        <value id="readerUserControl.reportToolStripMenuItem" type="Text">
+            <![CDATA[&Report an error]]>
+        </value>
+
+        <!-- detailsForm -->
+        <value id="detailsForm" type="Text">Translation details</value>
+        <value id="detailsForm.menuToolStrip.closeToolStripButton" type="Text">Close</value>
+        <value id="detailsForm.basicTabPage" type="Text">Basic</value>
+        <value id="detailsForm.noticeTabPage" type="Text">Editor's note</value>
+        <value id="detailsForm.statisticsTabPage" type="Text">Statistics</value>
+        <value id="detailsForm.dateLabel" type="Text">Publication date:</value>
+        <value id="detailsForm.shortcutLabel" type="Text">Short name:</value>
+        <value id="detailsForm.fileLabel" type="Text">File:</value>
+        <value id="detailsForm.sizeLabel" type="Text">Size:</value>
+        <value id="detailsForm.languageLabel" type="Text">Language:</value>
+        <value id="detailsForm.authorizationLabel" type="Text">Authorization:</value>
+        <value id="detailsForm.descriptionLabel" type="Text">Description:</value>
+        <value id="detailsForm.nameLabel" type="Text">Name:</value>
+        <value id="detailsForm.wordsCountLabel" type="Text">Word count:</value>
+        <value id="detailsForm.versesCountLabel" type="Text">Verse count:</value>
+        <value id="detailsForm.chaptersCountLabel" type="Text">Chapter count:</value>
+        <value id="detailsForm.booksCountLabel" type="Text">Available books ({0}):</value>
     </controls>
 
     <strings>
@@ -469,7 +566,14 @@
         <value id="about_contact_form_done_title">Thank you :-)</value>
         <value id="about_contact_form_error_text">Unable to send your message. Please try again later.\r\n{0}</value>
         <value id="about_contact_form_error_title">Error sending your message</value>
+        <value id="about_details_form_social_facebook_hint">Visit rBiblia Facebook profile</value>
+        <value id="about_details_form_social_feed_hint">Subscribe to the RSS blog channel</value>
+        <value id="about_details_form_social_github_hint">View the source code on GitHub</value>
+        <value id="about_details_form_social_telegram_hint">Join the Telegram group</value>
+        <value id="about_details_form_social_youtube_hint">Go to rBiblia YouTube channel</value>
         <value id="add_bookmark_form_root">Highest level</value>
+        <value id="app_critical_error_title">rBiblia has encountered a critical error.</value>
+        <value id="app_missing_assets_file_text">Cannot find required file {0}. Please reinstall the program.</value>
         <value id="bookmark_form_delete_text">Are you sure you want to delete?</value>
         <value id="bookmark_form_delete_title">Delete</value>
         <value id="bookmark_form_new_directory">New folder</value>
@@ -561,11 +665,37 @@
         <value id="update_form_cancel_title">Cancel the update process</value>
         <value id="settings_form_translation_authors">Translated by:\r\n\r\n{0}</value>
         <value id="settings_clipboard_form_help_title">Available parameters</value>
-        <value id="settings_clipboard_form_content_text">%t — content of verse(s)\r\n%n — name of translation\r\n%s — short name of translation\r\n%d — description of translation\r\n%y — year of publication\r\n%l — language\r\n%b — book\r\n%c — chapter\r\n%v — verse number(s)</value>
-        <value id="settings_clipboard_form_verse_text">%v — verse number(s)\r\n%t — single verse content</value>
+        <value id="settings_clipboard_form_content_text">%t – verse(s) content\r\n%n – translation name\r\n%s – short translation name\r\n%d – translation description\r\n%y – publication year\r\n%l – language\r\n%b – book\r\n%c – chapter\r\n%v – verse(s)\r\n%nl – new line</value>
+        <value id="settings_clipboard_form_verse_text">%v – verse number\r\n%t – single verse content\r\n%nl – new line</value>
+        <value id="settings_reorder_form_default">Yes</value>
         <value id="settings_main_form_mask_help_title">Available parameters</value>
         <value id="settings_main_form_mask_help_text">%n — name of translation\r\n%s — short name of translation\r\n%d — description of translation\r\n%y — year of publication\r\n%l — language</value>
         <value id="about_form_preview_file_error">File {0} could not be found or opened.</value>
         <value id="add_note_form_global_tab_title">Global</value>
+        <value id="report_form_done_text">Report sent successfully. Please wait for an answer.</value>
+        <value id="report_form_done_title">Report sent</value>
+        <value id="report_form_error_text">Unable to send your report. Please try again later.</value>
+        <value id="report_form_error_title">Report send error</value>
+        <value id="notes_form_count">Notes count: {0}</value>
+        <value id="notes_form_save_text">Notes have been changed. Are you sure you want to save?</value>
+        <value id="notes_form_save_title">Save notes</value>
+        <value id="notes_form_delete_title">Delete</value>
+        <value id="notes_form_delete_text">Are you sure you want to delete?</value>
+        <value id="main_form_install_translation_error_title">Translation import error</value>
+        <value id="main_form_install_translation_error_text">Cannot import file: {0}</value>
+        <value id="main_form_install_translation_filter">Files with translations</value>
+        <value id="main_form_install_translation_title">Import translations from files</value>
+        <value id="import_notes_form_dialog_filter">rBiblia notes (*.xml)|*.xml</value>
+        <value id="import_notes_form_export_done_text">Notes have been saved to file</value>
+        <value id="import_notes_form_export_done_title">Notes saved</value>
+        <value id="import_notes_form_export_error_text">Unable to export your notes into the given directory</value>
+        <value id="import_notes_form_export_error_title">Notes save error</value>
+        <value id="import_notes_form_import_done_text">Notes imported successfully</value>
+        <value id="import_notes_form_import_done_title">Notes imported</value>
+        <value id="import_notes_form_import_error_text">Unable to import notes from this file. The file may contain no notes or be broken</value>
+        <value id="import_notes_form_import_error_title">Notes import error</value>
+        <value id="import_notes_form_open_dialog_title">Import notes from file</value>
+        <value id="import_notes_form_save_dialog_filename">rBiblia_notes_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
+        <value id="import_notes_form_save_dialog_title">Save all notes to file</value>
     </strings>
 </translation>
