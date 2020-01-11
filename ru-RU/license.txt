@@ -9,5 +9,5 @@
 
 Буду признателен за все замечания и идеи, касающиеся улучшения программы.
 
-(c) 2013-2020 Rafał Toborek
+(c) 2013–2020 Rafał Toborek
 https://rbiblia.toborek.info

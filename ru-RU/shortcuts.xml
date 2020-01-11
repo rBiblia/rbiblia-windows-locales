@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <shortcuts app="rBiblia">
     <window name="Глобальные">
+        <key id="Ctrl+B">добавить стих в закладки</key>
+        <key id="Ctrl+Shift+B">организовать закладки</key>
+        <key id="Ctrl+N">добавить/изменить заметку</key>
+        <key id="Ctrl+Shift+N">организовать заметки</key>
         <key id="Ctrl+C">копировать избранный стих в буфер обмена</key>
         <key id="Ctrl+F">открыть окно поиска</key>
         <key id="Ctrl+U">показать окно настроек программы</key>
@@ -25,6 +29,7 @@
         <key id="Ctrl+Left">предыдущая книга</key>
         <key id="Ctrl+Right">следующая книга</key>
         <key id="Ctrl+I">показать информацию о переводе</key>
+        <key id="Ctrl+E">сообщить об ошибке в переводе</key>
         <key id="Home">первый стих</key>
         <key id="End">последний стих</key>
         <key id="PageUp">перейти на 10 стихов назад</key>

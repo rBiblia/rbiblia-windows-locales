@@ -50,6 +50,9 @@
         <value id="mainForm.menuStrip.downloadTranslationsToolStripMenuItem" type="Text">
             <![CDATA[Управление &репозиторием]]>
         </value>
+        <value id="mainForm.menuStrip.installTranslationToolStripMenuItem" type="Text">
+            <![CDATA[&Импортировать из файла]]>
+        </value>
         <value id="mainForm.menuStrip.openAllToolStripMenuItem" type="Text">
             <![CDATA[Открыть &все]]>
         </value>
@@ -64,6 +67,18 @@
         </value>
         <value id="mainForm.menuStrip.importBookmarksToolStripMenuItem" type="Text">
             <![CDATA[Имп&ортировать/экспортировать закладки]]>
+        </value>
+        <value id="mainForm.menuStrip.notesToolStripMenuItem" type="Text">
+            <![CDATA[Замет&ки]]>
+        </value>
+        <value id="mainForm.menuStrip.addNoteToolStripMenuItem" type="Text">
+            <![CDATA[&Добавить/изменить заметку]]>
+        </value>
+        <value id="mainForm.menuStrip.organizeNotesToolStripMenuItem" type="Text">
+            <![CDATA[&Просмотреть заметки]]>
+        </value>
+        <value id="mainForm.menuStrip.importNotesToolStripMenuItem" type="Text">
+            <![CDATA[Импортировать/&экспортировать заметки]]>
         </value>
         <value id="mainForm.menuStrip.windowToolStripMenuItem" type="Text">
             <![CDATA[Ок&на]]>
@@ -150,7 +165,7 @@
         </value>
         <value id="settingsMainForm.translationMaskDefaultLinkLabel" type="Text">принять значение по умолчанию</value>
 
-		<!-- settingsClipboardForm -->
+        <!-- settingsClipboardForm -->
         <value id="settingsClipboardForm.clipboardGroupBox" type="Text">
             <![CDATA[&Буфер обмена]]>
         </value>
@@ -168,6 +183,7 @@
             <![CDATA[&Очередь переводов в списке]]>
         </value>
         <value id="settingsReorderForm.reorderListView.shortcutColumnHeader" type="Text">Клавиша</value>
+        <value id="settingsReorderForm.reorderListView.isDefaultColumnHeader" type="Text">По умолчанию</value>
         <value id="settingsReorderForm.reorderListView.nameColumnHeader" type="Text">Название</value>
         <value id="settingsReorderForm.upDownToolStrip.moveUpToolStripButton" type="ToolTipText">Переместить вверх [Ctrl+Вверх]</value>
         <value id="settingsReorderForm.upDownToolStrip.moveDownToolStripButton" type="ToolTipText">Переместить вниз [Ctrl+Вниз]</value>
@@ -327,6 +343,7 @@
         <value id="downloadTranslationsForm.translationsListView.authorisationColumnHeader" type="Text">Авторизация</value>
         <value id="downloadTranslationsForm.translationsListView.sizeColumnHeader" type="Text">Размер</value>
         <value id="downloadTranslationsForm.translationsListView.descriptionColumnHeader" type="Text">Описание</value>
+        <value id="downloadTranslationsForm.translationsListView.identifierColumnHeader" type="Text">Сокращённое название</value>
         <value id="downloadTranslationsForm.translationsListView.nameColumnHeader" type="Text">Название</value>
         <value id="downloadTranslationsForm.translationsListView.dateColumnHeader" type="Text">Дата выпускa</value>
         <value id="downloadTranslationsForm.translationsListView.clearToolStripMenuItem" type="Text">
@@ -352,6 +369,41 @@
         <value id="addNoteForm.globalGroupBox" type="Text">
             <![CDATA[&Заметка]]>
         </value>
+
+        <!-- notesForm -->
+        <value id="notesForm" type="Text">Просмотреть заметки</value>
+        <value id="notesForm.menuToolStrip.saveToolStripButton" type="Text">Сохранить</value>
+        <value id="notesForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="notesForm.menuToolStrip.showToolStripButton" type="Text">
+            <![CDATA[&Показать в переводе]]>
+        </value>
+        <value id="notesForm.menuToolStrip.deleteToolStripButton" type="Text">
+            <![CDATA[&Удалить]]>
+        </value>
+        <value id="notesForm.menuToolStrip.listToolStripButton" type="ToolTipText">Показать/сохранить список стихов [Ctrl+L]</value>
+
+        <!-- importNotesForm -->
+        <value id="importNotesForm" type="Text">Импортировать/экспортировать заметки</value>
+        <value id="importNotesForm.menuToolStrip.proceedToolStripButton" type="Text">Начать</value>
+        <value id="importNotesForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="importNotesForm.importRadioButton" type="Text">
+            <![CDATA[И&мпортировать заметки из файла]]>
+        </value>
+        <value id="importNotesForm.importLabel" type="Text">Позволяет загрузить закладки, сохраненные ранее в файл</value>
+        <value id="importNotesForm.importGroupBox" type="Text">Способ обслуживания конфликтов</value>
+        <value id="importNotesForm.ignoreRadioButton" type="Text">
+            <![CDATA[&Пропустить существующие заметки]]>
+        </value>
+        <value id="importNotesForm.overwriteRadioButton" type="Text">
+            <![CDATA[&Заменить существующие заметки]]>
+        </value>
+        <value id="importNotesForm.mergeRadioButton" type="Text">
+            <![CDATA[&Объединить заметки, добавляя их к уже существующим]]>
+        </value>
+        <value id="importNotesForm.exportRadioButton" type="Text">
+            <![CDATA[&Экспортировать заметки в файл]]>
+        </value>
+        <value id="importNotesForm.exportLabel" type="Text">Позволяет сохранить существующие заметки в файл, чтобы создать копию или перенести их на другой компьютер.</value>
 
         <!-- searchForm -->
         <value id="searchForm" type="Text">Искать</value>
@@ -441,7 +493,30 @@
             <item>сортировать стихи</item>
             <item>сортировать переводы</item>
             <item>сортировать перев. попеременно</item>
-        </value>		
+        </value>
+
+        <!-- reportForm -->
+        <value id="reportForm" type="Text">Сообщить об ошибке в переводе</value>
+        <value id="reportForm.descriptionLabel" type="Text">
+            <![CDATA[Используй эту форму, чтобы сообщить об ошибке в открытом переводе. Основная информация, такая как название перевода и выделенные стихи будут добавлены автоматически.]]>
+        </value>
+        <value id="reportForm.contentGroupBox" type="Text">
+            <![CDATA[Правильное &содержание]]>
+        </value>
+        <value id="reportForm.extraGroupBox" type="Text">
+            <![CDATA[Дополнительные &замечания (не требуется)]]>
+        </value>
+        <value id="reportForm.contactGroupBox" type="Text">
+            <![CDATA[Контактные данные]]>
+        </value>
+        <value id="reportForm.emailLabel" type="Text">
+            <![CDATA[Укажи &e-mail:]]>
+        </value>
+        <value id="reportForm.nameLabel" type="Text">
+            <![CDATA[&Представься:]]>
+        </value>
+        <value id="reportForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="reportForm.menuToolStrip.okToolStripButton" type="Text">ОК</value>
 
         <!-- readerUserControl -->
         <value id="readerUserControl.setToolStripMenuItem" type="Text">
@@ -461,7 +536,29 @@
         </value>
         <value id="readerUserControl.showNotesToolStripMenuItem" type="Text">
             <![CDATA[&Показать заметки]]>
-        </value>		
+        </value>
+        <value id="readerUserControl.reportToolStripMenuItem" type="Text">
+            <![CDATA[Сообщить об оши&бке в переводе]]>
+        </value>
+
+        <!-- detailsForm -->
+        <value id="detailsForm" type="Text">Информация о переводе</value>
+        <value id="detailsForm.menuToolStrip.closeToolStripButton" type="Text">Закрыть</value>
+        <value id="detailsForm.basicTabPage" type="Text">Основные</value>
+        <value id="detailsForm.noticeTabPage" type="Text">Примечание редакции</value>
+        <value id="detailsForm.statisticsTabPage" type="Text">Статистика</value>
+        <value id="detailsForm.dateLabel" type="Text">Дата выпуска:</value>
+        <value id="detailsForm.shortcutLabel" type="Text">Сокращённое название:</value>
+        <value id="detailsForm.fileLabel" type="Text">Файл:</value>
+        <value id="detailsForm.sizeLabel" type="Text">Размер:</value>
+        <value id="detailsForm.languageLabel" type="Text">Язык:</value>
+        <value id="detailsForm.authorizationLabel" type="Text">Авторизация:</value>
+        <value id="detailsForm.descriptionLabel" type="Text">Описание:</value>
+        <value id="detailsForm.nameLabel" type="Text">Название:</value>
+        <value id="detailsForm.wordsCountLabel" type="Text">Слов:</value>
+        <value id="detailsForm.versesCountLabel" type="Text">Стихов:</value>
+        <value id="detailsForm.chaptersCountLabel" type="Text">Всех разделов:</value>
+        <value id="detailsForm.booksCountLabel" type="Text">Доступные книги ({0}):</value>
     </controls>
 
     <strings>
@@ -469,7 +566,14 @@
         <value id="about_contact_form_done_title">Спасибо :-)</value>
         <value id="about_contact_form_error_text">Не удалось отправить сообщение автору, попробуй позже.\r\n{0}</value>
         <value id="about_contact_form_error_title">Ошибка при отправке сообщения</value>
+        <value id="about_details_form_social_facebook_hint">Посетить сайт программы на Facebook</value>
+        <value id="about_details_form_social_feed_hint">Подписаться на ленту новостей с блогом</value>
+        <value id="about_details_form_social_github_hint">Посмотреть исходный код на GitHub</value>
+        <value id="about_details_form_social_telegram_hint">Присоединиться к группе в приложении Telegram</value>
+        <value id="about_details_form_social_youtube_hint">Просмотреть официальный канал программы на YouTube</value>
         <value id="add_bookmark_form_root">Самый высокий уровень</value>
+        <value id="app_critical_error_title">Неустранимая ошибка программы rBiblia</value>
+        <value id="app_missing_assets_file_text">Невозможно найти файл {0}, который требуется для нормальной работы программы. Установите программу заново</value>
         <value id="bookmark_form_delete_text">Ты действительно хочешь удалить закладку?</value>
         <value id="bookmark_form_delete_title">Удалить</value>
         <value id="bookmark_form_new_directory">Новая папка</value>
@@ -561,11 +665,37 @@
         <value id="update_form_cancel_title">Прервать обновление</value>
         <value id="settings_form_translation_authors">Авторы перевода:\r\n\r\n{0}</value>
         <value id="settings_clipboard_form_help_title">Доступные параметры</value>
-        <value id="settings_clipboard_form_content_text">%t — содержание стихов\r\n%n — название перевода\r\n%s — сокращённое название перевода\r\n%d — описание перевода\r\n%y — год выпуска\r\n%l — язык\r\n%b — книга\r\n%c — раздел\r\n%v — стих(y)</value>
-        <value id="settings_clipboard_form_verse_text">%v — номер стиха\r\n%t — содержание отдельного стиха</value>
+        <value id="settings_clipboard_form_content_text">%t — содержание стихов\r\n%n — название перевода\r\n%s — сокращённое название перевода\r\n%d — описание перевода\r\n%y — год выпуска\r\n%l — язык\r\n%b — книга\r\n%c — раздел\r\n%v — стих(y)\r\n%nl — новая строка</value>
+        <value id="settings_clipboard_form_verse_text">%v — номер стиха\r\n%t — содержание отдельного стиха\r\n%nl — новая строка</value>
+        <value id="settings_reorder_form_default">Да</value>
         <value id="settings_main_form_mask_help_title">Доступные параметры</value>
         <value id="settings_main_form_mask_help_text">%n — название перевода\r\n%s — сокращённое название перевода\r\n%d — описание перевода\r\n%y — год выпуска\r\n%l — язык</value>
         <value id="about_form_preview_file_error">Файл {0} не найден или его невозможно открыть.</value>
         <value id="add_note_form_global_tab_title">Глобально</value>
+        <value id="report_form_done_text">Заявление отправлено правильно, подождите, пожалуйста, ответа.</value>
+        <value id="report_form_done_title">Заявление отправлено</value>
+        <value id="report_form_error_text">Не удалось отравить заявление автору, попробуйте, пожалуйста, позже.</value>
+        <value id="report_form_error_title">Ошибка во время отправки заявления</value>
+        <value id="notes_form_count">Всех заметок: {0}</value>
+        <value id="notes_form_save_text">Изменения в заметки внесены. Ты действительно хочешь их сохранить?</value>
+        <value id="notes_form_save_title">Сохранить заметки</value>
+        <value id="notes_form_delete_title">Удалить</value>
+        <value id="notes_form_delete_text">Ты действительно хочешь удалить заметку?</value>
+        <value id="main_form_install_translation_error_title">Ошибка во время импорта перевода</value>
+        <value id="main_form_install_translation_error_text">Невозможно импортировать файл с названием: {0}</value>
+        <value id="main_form_install_translation_filter">Файлы, содержащие переводы</value>
+        <value id="main_form_install_translation_title">Импортировать переводы из файла на компьютере</value>
+        <value id="import_notes_form_dialog_filter">Заметки программы rBiblia (*.xml)|*.xml</value>
+        <value id="import_notes_form_export_done_text">Заметки сохранены в файле</value>
+        <value id="import_notes_form_export_done_title">Заметки сохранены</value>
+        <value id="import_notes_form_export_error_text">Не удалось сохранить заметки в указанное место</value>
+        <value id="import_notes_form_export_error_title">Ошибка во время сохранения заметок</value>
+        <value id="import_notes_form_import_done_text">Заметки успешно импортированы</value>
+        <value id="import_notes_form_import_done_title">Заметки импортированы</value>
+        <value id="import_notes_form_import_error_text">Не удалось успешно импортировать заметки из файла. Возможно, что файл повреждён или не содержит никаких заметок</value>
+        <value id="import_notes_form_import_error_title">Ошибка во время импорта заметок</value>
+        <value id="import_notes_form_open_dialog_title">Загрузить заметки из файла</value>
+        <value id="import_notes_form_save_dialog_filename">rbiblia_заметки_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
+        <value id="import_notes_form_save_dialog_title">Сохранить все заметки в файл</value>
     </strings>
 </translation>
