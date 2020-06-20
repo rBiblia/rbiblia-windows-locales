@@ -15,8 +15,8 @@
         <short>Imoses</short>
     </alias>
     <alias id="exo" group="ot" name="Exodus">
-        <short>exo</short>
         <short>ex</short>
+        <short>exo</short>
         <short>exod</short>
         <short>exodus</short>
         <short>2m</short>
@@ -87,9 +87,9 @@
         <short>judges</short>
     </alias>
     <alias id="rut" group="ot" name="Ruth">
+        <short>ruth</short>
         <short>rth</short>
         <short>ru</short>
-        <short>ruth</short>
         <short>rh</short>
     </alias>
     <alias id="1sa" group="ot" name="1 Samuel">
@@ -121,13 +121,13 @@
         <short>IIsl</short>
     </alias>
     <alias id="1ki" group="ot" name="1 Kings">
+        <short>1kings</short>
         <short>1kgs</short>
         <short>Ikgs</short>
         <short>1ki</short>
         <short>Iki</short>
         <short>1k</short>
         <short>Ik</short>
-        <short>1kings</short>
         <short>Ikings</short>
         <short>1stkgs</short>
         <short>1stkings</short>
@@ -137,13 +137,13 @@
         <short>Iks</short>
     </alias>
     <alias id="2ki" group="ot" name="2 Kings">
+        <short>2kings</short>
         <short>2kgs</short>
         <short>IIkgs</short>
         <short>2ki</short>
         <short>IIki</short>
         <short>2k</short>
         <short>IIk</short>
-        <short>2kings</short>
         <short>IIkings</short>
         <short>2ndkgs</short>
         <short>2ndkings</short>
@@ -182,24 +182,25 @@
         <short>er</short>
     </alias>
     <alias id="neh" group="ot" name="Nehemiah">
-        <short>ne</short>
         <short>neh</short>
+        <short>ne</short>
         <short>nehemiah</short>
         <short>nmh</short>
         <short>nhmh</short>
         <short>nehem</short>
     </alias>
     <alias id="tob" group="ot" name="Tobit" type="apocrypha">
-        <short>tb</short>
         <short>tob</short>
+        <short>tb</short>
         <short>tobit</short>
     </alias>
     <alias id="jdt" group="ot" name="Judith" type="apocrypha">
+        <short>jth</short>
         <short>jdt</short>
         <short>jdth</short>
-        <short>jth</short>
     </alias>
     <alias id="est" group="ot" name="Esther">
+        <short>est</short>
         <short>esth</short>
         <short>es</short>
         <short>et</short>
@@ -255,9 +256,9 @@
         <short>provbs</short>
     </alias>
     <alias id="ecc" group="ot" name="Ecclesiastes">
+        <short>eccles</short>
         <short>ec</short>
         <short>eccl</short>
-        <short>eccles</short>
         <short>ecclesiastes</short>
         <short>ecc</short>
         <short>qoh</short>
@@ -286,14 +287,14 @@
         <short>sip</short>
     </alias>
     <alias id="sir" group="ot" name="Wisdom of Sirach" type="apocrypha">
-        <short>sirach</short>
         <short>sir</short>
+        <short>sirach</short>
         <short>ecclesiasticus</short>
         <short>ecclus</short>
     </alias>
     <alias id="pss" group="ot" name="Psalms of Solomon" type="apocrypha">
-        <short>pssolomon</short>
         <short>pssol</short>
+        <short>pssolomon</short>
         <short>psalmssolomon</short>
     </alias>
     <alias id="isa" group="ot" name="Isaiah">
@@ -303,8 +304,8 @@
         <short>ish</short>
     </alias>
     <alias id="jer" group="ot" name="Jeremiah">
-        <short>jr</short>
         <short>jer</short>
+        <short>jr</short>
         <short>je</short>
         <short>jerem</short>
         <short>jeremiah</short>
@@ -313,8 +314,8 @@
         <short>jrmh</short>
     </alias>
     <alias id="lam" group="ot" name="Lamentations">
-        <short>la</short>
         <short>lam</short>
+        <short>la</short>
         <short>lamentations</short>
         <short>lament</short>
         <short>lts</short>
@@ -338,8 +339,8 @@
         <short>ek</short>
     </alias>
     <alias id="dan" group="ot" name="Daniel">
-        <short>dn</short>
         <short>dan</short>
+        <short>dn</short>
         <short>da</short>
         <short>daniel</short>
         <short>dl</short>
@@ -354,13 +355,13 @@
         <short>hs</short>
     </alias>
     <alias id="joe" group="ot" name="Joel">
+        <short>joel</short>
         <short>jl</short>
         <short>joe</short>
-        <short>joel</short>
     </alias>
     <alias id="amo" group="ot" name="Amos">
-        <short>am</short>
         <short>amos</short>
+        <short>am</short>
         <short>ams</short>
         <short>as</short>
     </alias>
@@ -381,8 +382,8 @@
         <short>jnh</short>
     </alias>
     <alias id="mic" group="ot" name="Micah">
-        <short>micah</short>
         <short>mic</short>
+        <short>micah</short>
         <short>mch</short>
         <short>mc</short>
     </alias>
@@ -414,8 +415,8 @@
         <short>zephnh</short>
     </alias>
     <alias id="hag" group="ot" name="Haggai">
-        <short>haggai</short>
         <short>hag</short>
+        <short>haggai</short>
         <short>hg</short>
         <short>hgg</short>
         <short>hagg</short>
@@ -435,8 +436,8 @@
         <short>zh</short>
     </alias>
     <alias id="mal" group="ot" name="Malachi">
-        <short>ml</short>
         <short>mal</short>
+        <short>ml</short>
         <short>mala</short>
         <short>malachi</short>
         <short>mlch</short>
@@ -451,10 +452,10 @@
         <short>m</short>
     </alias>
     <alias id="mar" group="nt" name="Mark">
+        <short>mark</short>
         <short>mrk</short>
         <short>mk</short>
         <short>mr</short>
-        <short>mark</short>
     </alias>
     <alias id="luk" group="nt" name="Luke">
         <short>luke</short>
@@ -483,9 +484,9 @@
         <short>rmn</short>
     </alias>
     <alias id="1co" group="nt" name="1 Corinthians">
+        <short>1cor</short>
         <short>1c</short>
         <short>Ic</short>
-        <short>1cor</short>
         <short>Icor</short>
         <short>1co</short>
         <short>Ico</short>
@@ -494,9 +495,9 @@
         <short>1stcorinthians</short>
     </alias>
     <alias id="2co" group="nt" name="2 Corinthians">
+        <short>2cor</short>
         <short>2c</short>
         <short>IIc</short>
-        <short>2cor</short>
         <short>IIcor</short>
         <short>2co</short>
         <short>IIco</short>
@@ -505,8 +506,8 @@
         <short>2ndcorinthians</short>
     </alias>
     <alias id="gal" group="nt" name="Galatians">
-        <short>ga</short>
         <short>gal</short>
+        <short>ga</short>
         <short>gala</short>
         <short>galatians</short>
         <short>glt</short>
@@ -591,23 +592,23 @@
         <short>IItmth</short>
     </alias>
     <alias id="tit" group="nt" name="Titus">
-        <short>tit</short>
         <short>titus</short>
+        <short>tit</short>
         <short>tt</short>
         <short>ts</short>
         <short>tts</short>
     </alias>
     <alias id="phm" group="nt" name="Philemon">
+        <short>philem</short>
         <short>phlm</short>
         <short>phm</short>
-        <short>philem</short>
         <short>philemon</short>
         <short>phmn</short>
         <short>phlmn</short>
     </alias>
     <alias id="heb" group="nt" name="Hebrews">
-        <short>hebrews</short>
         <short>heb</short>
+        <short>hebrews</short>
         <short>hbr</short>
         <short>hebr</short>
         <short>hbs</short>
@@ -618,6 +619,7 @@
         <short>jas</short>
         <short>jm</short>
         <short>jms</short>
+		<short>ja</short>
     </alias>
     <alias id="1pe" group="nt" name="1 Peter">
         <short>1pet</short>
@@ -699,8 +701,8 @@
         <short>IIIj</short>
     </alias>
     <alias id="jud" group="nt" name="Jude">
-        <short>jud</short>
         <short>jude</short>
+        <short>jud</short>
         <short>jd</short>
     </alias>
     <alias id="rev" group="nt" name="Revelation">
