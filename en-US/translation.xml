@@ -268,7 +268,6 @@
 
         <!-- aboutDetailsForm -->
         <value id="aboutDetailsForm.authorLabel" type="Text">You can find more about the author on</value>
-        <value id="aboutDetailsForm.dotNetVersionLabel" type="Text">.NET framework version: {0}</value>
         <value id="aboutDetailsForm.versionLabel" type="Text">rBiblia, version {0}</value>
         <value id="aboutDetailsForm.descriptionLabel" type="Text">The rBiblia program was created to make it easier to browse and search for Bible verses across many different translations. Its author is not affiliated with any particular Christian denomination. If you have any suggestions concerning the program, or would like to report an error, please use the form available on its home website. I encourage you to read the Bible. You can find there answers to all your life questions. If you cannot afford to buy one, please contact me – I will send a copy to you for free.</value>
 
