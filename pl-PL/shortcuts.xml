@@ -30,6 +30,9 @@
         <key id="Ctrl+Right">następna księga</key>
         <key id="Ctrl+I">wyświetl informacje o tłumaczeniu</key>
         <key id="Ctrl+E">zgłoś błąd w tłumaczeniu</key>
+        <key id="Ctrl+V">odczytaj zaznaczone wersety przez Narratora</key>
+        <key id="Ctrl+H">odczytaj cały rozdział przez Narratora</key>
+        <key id="Ctrl+S">zakończ pracę Narratora</key>
         <key id="Home">pierwszy werset</key>
         <key id="End">ostatni werset</key>
         <key id="PageUp">skocz o 10 wersetów wstecz</key>
@@ -41,11 +44,13 @@
     </window>
     <window name="W oknie wyszukiwarki">
         <key id="Enter">dodaj frazę do listy / rozpocznij wyszukiwanie</key>
+        <key id="Ctrl+Enter">rozpocznij wyszukiwanie w trybie zaawansowanym</key>
         <key id="Del">usuń zaznaczoną frazę z listy</key>
         <key id="Ctrl+Del">wyczyść listę fraz</key>
     </window>
     <window name="W wynikach wyszukiwania">
         <key id="Ctrl+G">skocz do następnego wersetu</key>
         <key id="Ctrl+Shift+G">skocz do poprzedniego wersetu</key>
+        <key id="Ctrl+Shift+C">skopiuj lub zapisz wyniki wyszukiwania</key>
     </window>
 </shortcuts>

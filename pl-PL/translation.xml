@@ -228,6 +228,7 @@
         <value id="translationForm.searchToolStrip.previousResultToolStripButton" type="ToolTipText">Poprzedni [Ctrl+Shift+G]</value>
         <value id="translationForm.searchToolStrip.nextResultToolStripButton" type="ToolTipText">Następny [Ctrl+G]</value>
         <value id="translationForm.searchToolStrip.hideResultsToolStripButton" type="ToolTipText">Schowaj listę wyników</value>
+        <value id="translationForm.searchToolStrip.copyToolStripButton" type="ToolTipText">Skopiuj wyniki... [Ctrl+Shift+C]</value>
 
         <!-- updateForm -->
         <value id="updateForm" type="Text">Aktualizacja programu</value>
@@ -413,8 +414,18 @@
         <value id="searchForm.optionAnyLabel" type="Text">Werset może zawierać jeden lub kilka wyrazów z listy</value>
         <value id="searchForm.rangeTabPage" type="Text">Zakres</value>
         <value id="searchForm.wordsTabPage" type="Text">Szukane wyrazy</value>
+        <value id="searchForm.expressionTabPage" type="Text">Wzorzec</value>
         <value id="searchForm.menuToolStrip.findToolStripButton" type="Text">Szukaj</value>
         <value id="searchForm.menuToolStrip.cancelToolStripButton" type="Text">Anuluj</value>
+        <value id="searchForm.menuToolStrip.basicToolStripButton" type="Text">
+            <![CDATA[&Podstawowy]]>
+        </value>
+        <value id="searchForm.menuToolStrip.advancedToolStripButton" type="Text">
+            <![CDATA[&Zaawansowany]]>
+        </value>
+        <value id="searchForm.expressionLinkLabel" type="Text">
+            <![CDATA[Uzyskaj &pomoc wraz z przykładami w trybie online]]>
+        </value>
         <value id="searchForm.descriptionLabel" type="Text">Wprowadź wyraz, który chcesz wyszukać w otwartym tłumaczeniu, a następnie kliknij zielony plus, aby dodać go do listy. Wyszukiwarka umożliwia znalezienie wersetów, które zawierają więcej niż jeden poszukiwany wyraz:</value>
         <value id="searchForm.optionAllRadioButton" type="Text">
             <![CDATA[wszystkie słowa (&i)]]>
@@ -535,6 +546,18 @@
         <value id="readerUserControl.reportToolStripMenuItem" type="Text">
             <![CDATA[Zgłoś &błąd w tłumaczeniu]]>
         </value>
+        <value id="readerUserControl.followToolStripMenuItem" type="Text">
+            <![CDATA[Śledź wybrany werset w pozostałych &oknach]]>
+        </value>
+        <value id="readerUserControl.readVerseToolStripMenuItem" type="Text">
+            <![CDATA[Przeczytaj &wybrane wersety]]>
+        </value>
+        <value id="readerUserControl.readChapterToolStripMenuItem" type="Text">
+            <![CDATA[Przeczytaj cały &rozdział]]>
+        </value>
+        <value id="readerUserControl.stopReaderToolStripMenuItem" type="Text">
+            <![CDATA[Zatrzymaj Narra&tora]]>
+        </value>
 
         <!-- detailsForm -->
         <value id="detailsForm" type="Text">Informacje o tłumaczeniu</value>
@@ -554,6 +577,31 @@
         <value id="detailsForm.versesCountLabel" type="Text">Wersetów:</value>
         <value id="detailsForm.chaptersCountLabel" type="Text">Wszystkich rozdziałów:</value>
         <value id="detailsForm.booksCountLabel" type="Text">Dostępne księgi ({0}):</value>
+
+        <!-- copySearchResultsForm -->
+        <value id="copySearchResultsForm" type="Text">Skopiuj wyniki wyszukiwania</value>
+        <value id="copySearchResultsForm.menuToolStrip.cancelToolStripButton" type="Text">Anuluj</value>
+        <value id="copySearchResultsForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
+        <value id="copySearchResultsForm.contextGroupBox" type="Text">Kontekst</value>
+        <value id="copySearchResultsForm.optionsGroupBox" type="Text">Opcje</value>
+        <value id="copySearchResultsForm.contextLabel" type="Text">Możesz skopiować dowolną liczbę wersetów poprzedzających i następujących wyniki wyszukiwania.</value>
+        <value id="copySearchResultsForm.beforeLabel" type="Text">
+            <![CDATA[&Przed]]>
+        </value>
+        <value id="copySearchResultsForm.afterLabel" type="Text">
+            <![CDATA[P&o]]>
+        </value>
+        <value id="copySearchResultsForm.saveRadioButton" type="Text">
+            <![CDATA[&Zapisz do pliku]]>
+        </value>
+        <value id="copySearchResultsForm.copyRadioButton" type="Text">
+            <![CDATA[&Skopiuj do schowka]]>
+        </value>
+
+        <!-- reminderForm -->
+        <value id="reminderForm" type="Text">Dziękuję za zaufanie</value>
+        <value id="reminderForm.socialLabel" type="Text">Pozostań ze mną w kontakcie:</value>
+        <value id="reminderForm.reminderLabel" type="Text">Witaj, mam na imię Rafał i jestem autorem rBiblii. Chciałem podziękować ci za to, że stale używasz mojego programu! Program jest i mam nadzieję, że zawsze będzie darmowy. Jego rozwój pochłania jednak sporo czasu i różnych środków, dlatego chciałem zachęcić do wsparcia mnie w pracy. Kliknięcie pulsującego serca przekieruje cię na stronę, na której znajdziesz różne formy wsparcia mnie oraz osób, które mi pomagają. Za każde wsparcie będziemy ci bardzo wdzięczni.</value>
     </controls>
 
     <strings>
@@ -583,6 +631,17 @@
         <value id="clipboard_form_save_done_title">Zawartość zapisana</value>
         <value id="clipboard_form_save_error_text">Podczas zapisu do pliku wystąpił błąd: {0}</value>
         <value id="clipboard_form_save_error_title">Nie udało się zapisać zawartości do pliku</value>
+        <value id="copy_search_results_form_save_dialog_filename">wyniki_wyszukiwania_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
+        <value id="copy_search_results_form_save_dialog_filter">Dokumenty tekstowe (*.txt)|*.txt</value>
+        <value id="copy_search_results_form_save_dialog_title">Zapisz wyniki wyszukiwania</value>
+        <value id="copy_search_results_form_save_done_text">Wyniki wyszukiwania zostały pomyślnie zapisane do pliku</value>
+        <value id="copy_search_results_form_save_done_title">Wyniki zapisane</value>
+        <value id="copy_search_results_form_save_error_text">Podczas zapisu do pliku wystąpił błąd: {0}</value>
+        <value id="copy_search_results_form_save_error_title">Nie udało się zapisać wyników wyszukiwania do pliku</value>
+        <value id="copy_search_results_form_text_count">Znaleziono: {0}</value>
+        <value id="copy_search_results_form_text_expression">Wyniki wyszukiwania według wzorca: {0}</value>
+        <value id="copy_search_results_form_text_translation">Tłumaczenie: {0}</value>
+        <value id="copy_search_results_form_text_words">Wyniki wyszukiwania dla słów: {0}</value>
         <value id="dictionary_form_count">Dostępnych terminów: {0}</value>
         <value id="download_form_authorisation_no">Brak</value>
         <value id="download_form_authorisation_yes">Autoryzowany</value>
@@ -649,6 +708,8 @@
         <value id="search_form_range_warning_title">Nie wybrano żadnej księgi</value>
         <value id="search_form_range_ot">Stary Testament</value>
         <value id="search_form_range_nt">Nowy Testament</value>
+        <value id="search_form_expression_pattern_error_title">Błąd wzorca zaawansowanego wyszukiwania</value>
+        <value id="search_form_expression_internal_error_title">Błąd modułu zaawansowanego wyszukiwania</value>
         <value id="splash_form_aliases_error_text">Nie odnaleziono pliku z definicją aliasów, dalsza praca nie jest możliwa. Pobierz program ze strony https://rbiblia.toborek.info i zainstaluj go ponownie.</value>
         <value id="splash_form_aliases_error_title">Błąd</value>
         <value id="splash_form_translation_error_text">{0}\r\n\r\n{1}\r\n\r\nTłumaczenie zostało usunięte, proszę pobrać je ponownie</value>
@@ -656,6 +717,7 @@
         <value id="translation_form_search_results_summary">werset {0} z {1} znalezionych</value>
         <value id="translation_form_search_results_tool_tip">Szukane słowa:</value>
         <value id="translation_form_searching_summary">Szukam, proszę czekać...</value>
+        <value id="translation_form_speaker_title">NARRATOR</value>
         <value id="update_form_cancel_text">Czy chcesz przerwać proces aktualizacji?</value>
         <value id="update_form_cancel_title">Przerwij aktualizację</value>
         <value id="settings_form_translation_authors">Autorzy tłumaczenia:\r\n\r\n{0}</value>

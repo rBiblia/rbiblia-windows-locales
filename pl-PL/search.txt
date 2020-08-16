@@ -1,0 +1,11 @@
+Wykaz operatorów dla wyszukiwania zaawansowanego
+
+&	i (np. Ojciec&Syn = wyszukaj słowa Ojciec i Syn występujące w tym samym wersecie)
+^	albo (np. Ojciec^Syn = wyszukaj albo słowo Ojciec albo słowo Syn)
+|	lub (np. Ojciec|Syn = wyszukaj Ojciec albo Syn lub Ojciec i Syn)
+( )	nawiasy grupujące (np. (Ojciec&Syn)|Bóg = wyszukaj słowa Ojciec i Syn lub samo słowo Bóg)
+~	negacja (np. ~Ojciec = wyszukaj wszystkie wersety nie zawierające słowa Ojciec)
+*	zastępuje dowolny ciąg znaków w obszarze jednego słowa (np. Jezus* = wyszukaj słowo Jezus lub Jezusa itp.)
+?	zastępuje dowolny jeden znak w obszarze jednego słowa (np. Jezu? = wyszukaj słowo Jezus itp.)
+@	kontekst (od 1 do 9, domyślnie 1, np. Ojciec@2 = wyszukaj słowo Ojciec w bieżącym wersecie i wersecie następującym)
+/i	pomija wielkość liter w słowie (np. bóg/i = wyszukaj wersety ze słowem Bóg oraz bóg)
