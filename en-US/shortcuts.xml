@@ -30,6 +30,9 @@
         <key id="Ctrl+Right">go to the next book</key>
         <key id="Ctrl+I">open the About the translation window</key>
         <key id="Ctrl+E">report an error</key>
+        <key id="Ctrl+V">use Narrator to read the selected verses</key>
+        <key id="Ctrl+H">use Narrator to read the entire chapter</key>
+        <key id="Ctrl+S">close Narrator</key>
         <key id="Home">go to the first verse</key>
         <key id="End">go to the last verse</key>
         <key id="PageUp">go 10 verses forward</key>
@@ -41,11 +44,13 @@
     </window>
     <window name="In the Search window">
         <key id="Enter">add an expression to the list / begin the search</key>
+        <key id="Ctrl+Enter">start advanced search</key>
         <key id="Del">delete the selected expression(s) from the list</key>
         <key id="Ctrl+Del">clear the list</key>
     </window>
     <window name="When browsing search results">
         <key id="Ctrl+G">go to the next found verse</key>
         <key id="Ctrl+Shift+G">go to the previous found verse</key>
+        <key id="Ctrl+Shift+C">copy or save search results</key>
     </window>
 </shortcuts>

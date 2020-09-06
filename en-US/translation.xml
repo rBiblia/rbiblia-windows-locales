@@ -229,6 +229,7 @@
         <value id="translationForm.searchToolStrip.previousResultToolStripButton" type="ToolTipText">Previous [Ctrl+Shift+G]</value>
         <value id="translationForm.searchToolStrip.nextResultToolStripButton" type="ToolTipText">Next [Ctrl+G]</value>
         <value id="translationForm.searchToolStrip.hideResultsToolStripButton" type="ToolTipText">Hide the results list</value>
+        <value id="translationForm.searchToolStrip.copyToolStripButton" type="ToolTipText">Copy the search results... [Ctrl+Shift+C]</value>
 
         <!-- updateForm -->
         <value id="updateForm" type="Text">Program update</value>
@@ -414,8 +415,18 @@
         <value id="searchForm.optionAnyLabel" type="Text">Verses may have one or more of the expressions searched for</value>
         <value id="searchForm.rangeTabPage" type="Text">Range</value>
         <value id="searchForm.wordsTabPage" type="Text">Searched expressions</value>
+        <value id="searchForm.expressionTabPage" type="Text">Pattern</value>
         <value id="searchForm.menuToolStrip.findToolStripButton" type="Text">Search</value>
         <value id="searchForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="searchForm.menuToolStrip.basicToolStripButton" type="Text">
+            <![CDATA[&Basic]]>
+        </value>
+        <value id="searchForm.menuToolStrip.advancedToolStripButton" type="Text">
+            <![CDATA[&Advanced]]>
+        </value>
+        <value id="searchForm.expressionLinkLabel" type="Text">
+            <![CDATA[Get &help and examples online]]>
+        </value>
         <value id="searchForm.descriptionLabel" type="Text">Enter the expression which you want to find in the active translation and then click on the green plus sign or press Enter to add it to the list. The search engine allows searching for more than one expression at once:</value>
         <value id="searchForm.optionAllRadioButton" type="Text">
             <![CDATA[All the words (&and)]]>
@@ -539,6 +550,18 @@
         <value id="readerUserControl.reportToolStripMenuItem" type="Text">
             <![CDATA[&Report an error]]>
         </value>
+        <value id="readerUserControl.followToolStripMenuItem" type="Text">
+            <![CDATA[&Follow verse highlight in all open translations]]>
+        </value>
+        <value id="readerUserControl.readVerseToolStripMenuItem" type="Text">
+            <![CDATA[Rea&d the selected verses]]>
+        </value>
+        <value id="readerUserControl.readChapterToolStripMenuItem" type="Text">
+            <![CDATA[Read the entire c&hapter]]>
+        </value>
+        <value id="readerUserControl.stopReaderToolStripMenuItem" type="Text">
+            <![CDATA[Stop &Narrator]]>
+        </value>
 
         <!-- detailsForm -->
         <value id="detailsForm" type="Text">Translation details</value>
@@ -558,6 +581,31 @@
         <value id="detailsForm.versesCountLabel" type="Text">Verse count:</value>
         <value id="detailsForm.chaptersCountLabel" type="Text">Chapter count:</value>
         <value id="detailsForm.booksCountLabel" type="Text">Available books ({0}):</value>
+
+        <!-- copySearchResultsForm -->
+        <value id="copySearchResultsForm" type="Text">Copy search results</value>
+        <value id="copySearchResultsForm.menuToolStrip.cancelToolStripButton" type="Text">Cancel</value>
+        <value id="copySearchResultsForm.menuToolStrip.okToolStripButton" type="Text">OK</value>
+        <value id="copySearchResultsForm.contextGroupBox" type="Text">Context</value>
+        <value id="copySearchResultsForm.optionsGroupBox" type="Text">Options</value>
+        <value id="copySearchResultsForm.contextLabel" type="Text">You may copy any number of verses that go before or after the verses found.</value>
+        <value id="copySearchResultsForm.beforeLabel" type="Text">
+            <![CDATA[&Before]]>
+        </value>
+        <value id="copySearchResultsForm.afterLabel" type="Text">
+            <![CDATA[&After]]>
+        </value>
+        <value id="copySearchResultsForm.saveRadioButton" type="Text">
+            <![CDATA[&Save to file]]>
+        </value>
+        <value id="copySearchResultsForm.copyRadioButton" type="Text">
+            <![CDATA[&Copy into the clipboard]]>
+        </value>
+
+        <!-- reminderForm -->
+        <value id="reminderForm" type="Text">Thanks for your trust</value>
+        <value id="reminderForm.socialLabel" type="Text">Stay in contact:</value>
+        <value id="reminderForm.reminderLabel" type="Text">Hi, I'm Rafał, the author of rBiblia. Thank you for constantly using this program! It is (and I hope will always be) freeware. Nonetheless, development takes much time and various resources, so I'd encourage you to support my further work on the program. Click on the pulsing heart and you will be redirected to a website listing different ways in which you can support me and the people assisting my work. We'll be very grateful for any help.</value>
     </controls>
 
     <strings>
@@ -587,6 +635,17 @@
         <value id="clipboard_form_save_done_title">Contents saved</value>
         <value id="clipboard_form_save_error_text">An error occurred: {0}</value>
         <value id="clipboard_form_save_error_title">Unable to save the contents into a file</value>
+        <value id="copy_search_results_form_save_dialog_filename">search_results_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
+        <value id="copy_search_results_form_save_dialog_filter">Plain text (*.txt)|*.txt</value>
+        <value id="copy_search_results_form_save_dialog_title">Save search results</value>
+        <value id="copy_search_results_form_save_done_text">Search results saved successfully</value>
+        <value id="copy_search_results_form_save_done_title">Search results saved</value>
+        <value id="copy_search_results_form_save_error_text">Error saving into file: {0}</value>
+        <value id="copy_search_results_form_save_error_title">Unable to save search results to file</value>
+        <value id="copy_search_results_form_text_count">Found: {0}</value>
+        <value id="copy_search_results_form_text_expression">Pattern search results: {0}</value>
+        <value id="copy_search_results_form_text_translation">Translation: {0}</value>
+        <value id="copy_search_results_form_text_words">Word search results: {0}</value>
         <value id="dictionary_form_count">Number of stored entries: {0}</value>
         <value id="download_form_authorisation_no">No</value>
         <value id="download_form_authorisation_yes">Authorized</value>
@@ -653,6 +712,8 @@
         <value id="search_form_range_warning_title">No book chosen</value>
         <value id="search_form_range_ot">Old Testament</value>
         <value id="search_form_range_nt">New Testament</value>
+        <value id="search_form_expression_pattern_error_title">Advanced Search pattern error</value>
+        <value id="search_form_expression_internal_error_title">Advanced Search module error</value>
         <value id="splash_form_aliases_error_text">No file with aliases has been found. The program is unable to operate. Please download the program again from https://rbiblia.toborek.info and reinstall it.</value>
         <value id="splash_form_aliases_error_title">Error</value>
         <value id="splash_form_translation_error_text">{0}\r\n\r\n{1}\r\n\r\nThis translation has been deleted. Please download it again.</value>
@@ -660,6 +721,7 @@
         <value id="translation_form_search_results_summary">verse {0} out of {1} found</value>
         <value id="translation_form_search_results_tool_tip">Searched expressions:</value>
         <value id="translation_form_searching_summary">Searching, please wait...</value>
+        <value id="translation_form_speaker_title">NARRATOR</value>
         <value id="update_form_cancel_text">Are you sure you want to cancel the update process?</value>
         <value id="update_form_cancel_title">Cancel the update process</value>
         <value id="settings_form_translation_authors">Translated by:\r\n\r\n{0}</value>

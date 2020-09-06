@@ -1,0 +1,9 @@
+&	and (e.g., Father&Son = search for verses containing both words "Father" and "Son")
+^	or (e.g., Father^Son = search for verses containing either "Father" or "Son")
+|	and/or (e.g., Father|Son = search for verses containing "Father" and/or "Son")
+( )	grouping parentheses (e.g., (Father&Son)|God = search for verses containing both "Father" and "Son" and/or containing "God")
+~	negation (e.g., ~Father = search for all the verses not containing "Father")
+*	replaces any character string in a single word (e.g., spirit* = search for verses containing "spirit", "spirits", "spiritual", etc.)
+? 	replaces any single character in a single word (e.g., lan? = search for verses containing "land", "lane", etc.)
+@	context (from 1 to 9, by default 1; e.g., Father@2 = search for the word "Father" in the current and following verse
+/i	ignore capitalization in a word (e.g., god/i = search for verses containing "God" and "god")
