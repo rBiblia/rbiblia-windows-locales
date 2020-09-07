@@ -229,6 +229,7 @@
         <value id="translationForm.searchToolStrip.previousResultToolStripButton" type="ToolTipText">Предыдущий [Ctrl+Shift+G]</value>
         <value id="translationForm.searchToolStrip.nextResultToolStripButton" type="ToolTipText">Следующий [Ctrl+G]</value>
         <value id="translationForm.searchToolStrip.hideResultsToolStripButton" type="ToolTipText">Скрыть список результатов</value>
+        <value id="translationForm.searchToolStrip.copyToolStripButton" type="ToolTipText">Скопировать результаты... [Ctrl+Shift+C]</value>
 
         <!-- updateForm -->
         <value id="updateForm" type="Text">Обновление программы</value>
@@ -414,8 +415,18 @@
         <value id="searchForm.optionAnyLabel" type="Text">Стих может содержать одно или несколько слов из списка</value>
         <value id="searchForm.rangeTabPage" type="Text">Область</value>
         <value id="searchForm.wordsTabPage" type="Text">Слова</value>
+        <value id="searchForm.expressionTabPage" type="Text">Образец</value>
         <value id="searchForm.menuToolStrip.findToolStripButton" type="Text">Искать</value>
         <value id="searchForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="searchForm.menuToolStrip.basicToolStripButton" type="Text">
+            <![CDATA[&Основной]]>
+        </value>
+        <value id="searchForm.menuToolStrip.advancedToolStripButton" type="Text">
+            <![CDATA[&Расширенный]]>
+        </value>
+        <value id="searchForm.expressionLinkLabel" type="Text">
+            <![CDATA[Получить &помощь с примерами в режиме онлайн]]>
+        </value>
         <value id="searchForm.descriptionLabel" type="Text">Введи слово, которое хочешь найти в открытом переводе, а потом нажми зелёный плюс, чтобы добавить его в список. Поисковая система даёт возможность найти стихи, которые содержат больше одного слова из поиска:</value>
         <value id="searchForm.optionAllRadioButton" type="Text">
             <![CDATA[все слова (&и)]]>
@@ -539,6 +550,18 @@
         <value id="readerUserControl.reportToolStripMenuItem" type="Text">
             <![CDATA[Сообщить об оши&бке в переводе]]>
         </value>
+        <value id="readerUserControl.followToolStripMenuItem" type="Text">
+            <![CDATA[Следить за избранным стихом в остальных &окнах]]>
+        </value>
+        <value id="readerUserControl.readVerseToolStripMenuItem" type="Text">
+            <![CDATA[Прочитать &избранные стихи]]>
+        </value>
+        <value id="readerUserControl.readChapterToolStripMenuItem" type="Text">
+            <![CDATA[Прочитать всю &главу]]>
+        </value>
+        <value id="readerUserControl.stopReaderToolStripMenuItem" type="Text">
+            <![CDATA[Остановить &диктора]]>
+        </value>
 
         <!-- detailsForm -->
         <value id="detailsForm" type="Text">Информация о переводе</value>
@@ -558,6 +581,31 @@
         <value id="detailsForm.versesCountLabel" type="Text">Стихов:</value>
         <value id="detailsForm.chaptersCountLabel" type="Text">Всех разделов:</value>
         <value id="detailsForm.booksCountLabel" type="Text">Доступные книги ({0}):</value>
+
+        <!-- copySearchResultsForm -->
+        <value id="copySearchResultsForm" type="Text">Скопировать результаты поиска</value>
+        <value id="copySearchResultsForm.menuToolStrip.cancelToolStripButton" type="Text">Отменить</value>
+        <value id="copySearchResultsForm.menuToolStrip.okToolStripButton" type="Text">OК</value>
+        <value id="copySearchResultsForm.contextGroupBox" type="Text">Контекст</value>
+        <value id="copySearchResultsForm.optionsGroupBox" type="Text">Настойки</value>
+        <value id="copySearchResultsForm.contextLabel" type="Text">Можешь скопировать любое количество предыдущих и следующих стихов для результатов поиска.</value>
+        <value id="copySearchResultsForm.beforeLabel" type="Text">
+            <![CDATA[&Перед]]>
+        </value>
+        <value id="copySearchResultsForm.afterLabel" type="Text">
+            <![CDATA[П&осле]]>
+        </value>
+        <value id="copySearchResultsForm.saveRadioButton" type="Text">
+            <![CDATA[&Сохранить в файл]]>
+        </value>
+        <value id="copySearchResultsForm.copyRadioButton" type="Text">
+            <![CDATA[&Скопировать в буфер обмена]]>
+        </value>
+
+        <!-- reminderForm -->
+        <value id="reminderForm" type="Text">Спасибо за доверие</value>
+        <value id="reminderForm.socialLabel" type="Text">Остаться со мной на связи:</value>
+        <value id="reminderForm.reminderLabel" type="Text">Здравствуй, меня зовут Рафал, я автор программы rBiblia. Хочу поблагодарить тебя за то, что ты постоянный пользователь программы! Программа сейчас и, надеюсь, всегда будет бесплатной. Вместе с тем её развитие отнимает много времени и других средств, поэтому я буду очень признателен, если ты решишь поддержать меня в работе над её далнейшим развитием. Нажимая пульсирующее сердце, ты будешь направлен на сайт, где найдешь разные формы поддержки меня и людей, которые мне помогают. Мы будем очень благодарны за любую поддержку.</value>
     </controls>
 
     <strings>
@@ -587,6 +635,17 @@
         <value id="clipboard_form_save_done_title">Содержимое записано</value>
         <value id="clipboard_form_save_error_text">При сохранении файла возникла ошибка: {0}</value>
         <value id="clipboard_form_save_error_title">Не удалось сохранить содержимое в файл</value>
+        <value id="copy_search_results_form_save_dialog_filename">результаты_поиска_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
+        <value id="copy_search_results_form_save_dialog_filter">Текстовые файлы (*.txt)|*.txt</value>
+        <value id="copy_search_results_form_save_dialog_title">Сохранить результаты поиска</value>
+        <value id="copy_search_results_form_save_done_text">Результаты поиска успешно сохранены в файл</value>
+        <value id="copy_search_results_form_save_done_title">Результаты сохранены</value>
+        <value id="copy_search_results_form_save_error_text">Во время сохранения в файл появилась ошибка: {0}</value>
+        <value id="copy_search_results_form_save_error_title">Не удалось записать результаты поиска в файл</value>
+        <value id="copy_search_results_form_text_count">Найдено: {0}</value>
+        <value id="copy_search_results_form_text_expression">Результаты поиска по образцу: {0}</value>
+        <value id="copy_search_results_form_text_translation">Перевод: {0}</value>
+        <value id="copy_search_results_form_text_words">Результаты поиска для слов: {0}</value>
         <value id="dictionary_form_count">Доступных терминов: {0}</value>
         <value id="download_form_authorisation_no">Отсутствует</value>
         <value id="download_form_authorisation_yes">Авторизованный</value>
@@ -653,6 +712,8 @@
         <value id="search_form_range_warning_title">Не выбрана ни одна книга</value>
         <value id="search_form_range_ot">Старый Завет</value>
         <value id="search_form_range_nt">Новый Завет</value>
+        <value id="search_form_expression_pattern_error_title">Ошибка шаблона расширенного поиска</value>
+        <value id="search_form_expression_internal_error_title">Ошибка шаблона расширенного поиска</value>
         <value id="splash_form_aliases_error_text">Файл определения псевдонимов не найден, дальнейшая работа невозможна. Скачай программу из сайта https://rbiblia.toborek.info и установи заново.</value>
         <value id="splash_form_aliases_error_title">Ошибка</value>
         <value id="splash_form_translation_error_text">{0}\r\n\r\n{1}\r\n\r\nПеревод удален, загрузи его заново</value>
@@ -660,6 +721,7 @@
         <value id="translation_form_search_results_summary">стих {0} из {1} найденных</value>
         <value id="translation_form_search_results_tool_tip">Слова для поиска:</value>
         <value id="translation_form_searching_summary">Ищу, подожди пожалуйста...</value>
+        <value id="translation_form_speaker_title">ДИКТОР</value>
         <value id="update_form_cancel_text">Хочешь прервать процесс обновления?</value>
         <value id="update_form_cancel_title">Прервать обновление</value>
         <value id="settings_form_translation_authors">Авторы перевода:\r\n\r\n{0}</value>

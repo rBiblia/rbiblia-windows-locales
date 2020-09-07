@@ -30,6 +30,9 @@
         <key id="Ctrl+Right">следующая книга</key>
         <key id="Ctrl+I">показать информацию о переводе</key>
         <key id="Ctrl+E">сообщить об ошибке в переводе</key>
+        <key id="Ctrl+V">прочитать отмеченные стихи диктором</key>
+        <key id="Ctrl+H">прочитать весь раздел диктором</key>
+        <key id="Ctrl+S">завершить работу диктора</key>
         <key id="Home">первый стих</key>
         <key id="End">последний стих</key>
         <key id="PageUp">перейти на 10 стихов назад</key>
@@ -41,11 +44,13 @@
     </window>
     <window name="В окне поиска">
         <key id="Enter">добавить выражение в список / начать поиск</key>
+        <key id="Ctrl+Enter">начать поиск в расширенном режиме</key>
         <key id="Del">удалить выделенную фразу из списка</key>
         <key id="Ctrl+Del">удалить список фраз</key>
     </window>
     <window name="В результатах поиска">
         <key id="Ctrl+G">перейти к следующему стиху</key>
         <key id="Ctrl+Shift+G">перейти к предыдущему стиху</key>
+        <key id="Ctrl+Shift+C">скопировать или сохранить результаты поиска</key>
     </window>
 </shortcuts>
