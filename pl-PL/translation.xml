@@ -424,7 +424,7 @@
             <![CDATA[&Zaawansowany]]>
         </value>
         <value id="searchForm.expressionLinkLabel" type="Text">
-            <![CDATA[Uzyskaj pomo&c wraz z przykładami w trybie online]]>
+            <![CDATA[Uzyskaj pomo&c wraz z przykładami w trybie online [F1]]]>
         </value>
         <value id="searchForm.descriptionLabel" type="Text">Wprowadź wyraz, który chcesz wyszukać w otwartym tłumaczeniu, a następnie kliknij zielony plus, aby dodać go do listy. Wyszukiwarka umożliwia znalezienie wersetów, które zawierają więcej niż jeden poszukiwany wyraz:</value>
         <value id="searchForm.optionAllRadioButton" type="Text">

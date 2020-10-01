@@ -425,7 +425,7 @@
             <![CDATA[&Расширенный]]>
         </value>
         <value id="searchForm.expressionLinkLabel" type="Text">
-            <![CDATA[Получить &помощь с примерами в режиме онлайн]]>
+            <![CDATA[Получить &помощь с примерами в режиме онлайн [F1]]]>
         </value>
         <value id="searchForm.descriptionLabel" type="Text">Введи слово, которое хочешь найти в открытом переводе, а потом нажми зелёный плюс, чтобы добавить его в список. Поисковая система даёт возможность найти стихи, которые содержат больше одного слова из поиска:</value>
         <value id="searchForm.optionAllRadioButton" type="Text">

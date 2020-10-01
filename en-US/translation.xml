@@ -425,7 +425,7 @@
             <![CDATA[&Advanced]]>
         </value>
         <value id="searchForm.expressionLinkLabel" type="Text">
-            <![CDATA[Get &help and examples online]]>
+            <![CDATA[Get &help and examples online [F1]]]>
         </value>
         <value id="searchForm.descriptionLabel" type="Text">Enter the expression which you want to find in the active translation and then click on the green plus sign or press Enter to add it to the list. The search engine allows searching for more than one expression at once:</value>
         <value id="searchForm.optionAllRadioButton" type="Text">
