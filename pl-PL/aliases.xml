@@ -474,6 +474,9 @@
     <alias id="sus" group="ot" name="Susanna" type="apocrypha">
         <short>sus</short>
     </alias>
+    <alias id="sn3" group="ot" name="Pieśń trzech młodzieńców" type="apocrypha">
+        <short>sn3</short>
+    </alias>
     <alias id="bel" group="ot" name="Bel" type="apocrypha">
         <short>bel</short>
     </alias>
@@ -485,6 +488,14 @@
     </alias>
     <alias id="lao" group="ot" name="List do Laodicean" type="apocrypha">
         <short>lao</short>
+    </alias>
+    <alias id="3es" group="ot" name="3 Ezdrasz" type="apocrypha">
+        <short>3ez</short>
+        <short>3es</short>
+        <short>3ezd</short>
+        <short>3 ezdr</short>
+        <short>3ezdr</short>
+        <short>3ezdrasza</short>
     </alias>
     <alias id="4es" group="ot" name="4 Ezdrasz" type="apocrypha">
         <short>4ez</short>
