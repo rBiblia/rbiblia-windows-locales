@@ -269,7 +269,7 @@
         <!-- aboutDetailsForm -->
         <value id="aboutDetailsForm.authorLabel" type="Text">Więcej o autorze na stronie</value>
         <value id="aboutDetailsForm.versionLabel" type="Text">rBiblia, wersja {0}</value>
-        <value id="aboutDetailsForm.descriptionLabel" type="Text">Program rBiblia powstał, aby ułatwić przeglądanie oraz poszukiwanie wybranych wersetów różnych tłumaczeń biblijnych. Autor program nie identyfikuje się z żadnym kościołem. Jeśli masz sugestie dotyczące programu lub chciałbyś zgłosić błąd, skorzystaj z formularza umieszczonego na stronie domowej. Zachęcam Cię do czytania Biblii, która pełna jest odpowiedzi na każde Twoje pytanie. Jeśli nie stać Cię na jej zakup, skontaktuj się ze mną, a wyślę Ci egzemplarz zupełnie za darmo.</value>
+        <value id="aboutDetailsForm.descriptionLabel" type="Text">Program rBiblia powstał, aby ułatwić przeglądanie oraz poszukiwanie wybranych wersetów różnych tłumaczeń biblijnych. Autor program nie identyfikuje się z żadnym kościołem. Jeśli masz sugestie dotyczące programu lub chciałbyś zgłosić błąd, skorzystaj z formularza umieszczonego na stronie domowej. Zachęcam cię do czytania Biblii, która pełna jest odpowiedzi na każde twoje pytanie.</value>
 
         <!-- addbookmarkForm -->
         <value id="addBookmarkForm" type="Text">Dodaj do zakładek</value>
