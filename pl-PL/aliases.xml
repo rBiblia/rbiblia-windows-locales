@@ -468,7 +468,7 @@
         <short>objawienia</short>
         <short>apokalipsa</short>
     </alias>
-    <alias id="epj" group="ot" name="List Jeremiasz" type="apocrypha">
+    <alias id="epj" group="ot" name="List Jeremiasza" type="apocrypha">
         <short>epj</short>
     </alias>
     <alias id="sus" group="ot" name="Susanna" type="apocrypha">
