@@ -13,6 +13,7 @@
         <value id="mainForm.navigatorToolStrip.searchToolStripButton" type="ToolTipText">Search in the active translation [Ctrl+F]</value>
         <value id="mainForm.navigatorToolStrip.addBookmarkToolStripButton" type="ToolTipText">Add one selected verse to your bookmarks [Ctrl+B]</value>
         <value id="mainForm.navigatorToolStrip.addNoteToolStripButton" type="ToolTipText">Add/edit a note (single verse) [Ctrl+N]</value>
+        <value id="mainForm.navigatorToolStrip.randomToolStripButton" type="ToolTipText">Opens a random verse in the active translation [CTRL+D]</value>
         <value id="mainForm.navigatorToolStrip.propagateToolStripButton" type="ToolTipText">Go to the same verse in all the open translations [Enter]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="Text">The worker deserves his wages [1 Tim. 5:18]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="ToolTipText">Donate money to the author</value>
@@ -33,6 +34,9 @@
         </value>
         <value id="mainForm.menuStrip.searchToolStripMenuItem" type="Text">
             <![CDATA[&Search]]>
+        </value>
+        <value id="mainForm.menuStrip.randomToolStripMenuItem" type="Text">
+            <![CDATA[Open &random verse]]>
         </value>
         <value id="mainForm.menuStrip.settingsToolStripMenuItem" type="Text">
             <![CDATA[&Preferences]]>
@@ -114,6 +118,9 @@
         </value>
         <value id="mainForm.menuStrip.donationsToolStripMenuItem" type="Text">
             <![CDATA[&Support the program]]>
+        </value>
+        <value id="mainForm.menuStrip.webToolStripMenuItem" type="Text">
+            <![CDATA[Open &browser view...]]>
         </value>
         <value id="mainForm.menuStrip.contactToolStripMenu" type="Text">
             <![CDATA[&Contact the author]]>

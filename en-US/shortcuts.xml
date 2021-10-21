@@ -33,6 +33,7 @@
         <key id="Ctrl+V">use Narrator to read the selected verses</key>
         <key id="Ctrl+H">use Narrator to read the entire chapter</key>
         <key id="Ctrl+S">close Narrator</key>
+        <key id="Ctrl+D">open random verse</key>
         <key id="Home">go to the first verse</key>
         <key id="End">go to the last verse</key>
         <key id="PageUp">go 10 verses forward</key>

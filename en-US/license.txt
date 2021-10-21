@@ -11,5 +11,5 @@ As the author, I did my best to make the program work as it was intended to. I d
 
 I will be thankful for any remarks and ideas concerning its operation.
 
-(c) 2013 – 2020 Rafał Toborek
+(c) 2013 – 2021 Rafał Toborek
 https://rbiblia.toborek.info/en-US/
