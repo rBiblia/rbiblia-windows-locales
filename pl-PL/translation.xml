@@ -13,6 +13,8 @@
         <value id="mainForm.navigatorToolStrip.searchToolStripButton" type="ToolTipText">Szukaj w aktywnym tłumaczeniu [Ctrl+F]</value>
         <value id="mainForm.navigatorToolStrip.addBookmarkToolStripButton" type="ToolTipText">Dodaje zaznaczony werset do zakładek [Ctrl+B]</value>
         <value id="mainForm.navigatorToolStrip.addNoteToolStripButton" type="ToolTipText">Dodaj/edytuj notatkę do wersetu [Ctrl+N]</value>
+        <value id="mainForm.navigatorToolStrip.addNoteToolStripButton" type="ToolTipText">Dodaj/edytuj notatkę do wersetu [Ctrl+N]</value>
+        <value id="mainForm.navigatorToolStrip.randomToolStripButton" type="ToolTipText">Losuje werset w aktywnym tłumaczeniu [CTRL+D]</value>
         <value id="mainForm.navigatorToolStrip.propagateToolStripButton" type="ToolTipText">Ustawia to samo miejsce we wszystkich otwartych tłumaczeniach [Enter]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="Text">Godzien jest robotnik zapłaty swojej [1Tym 5:18]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="ToolTipText">Przekaż niewielką darowiznę w podziękowaniu za program</value>
@@ -33,6 +35,9 @@
         </value>
         <value id="mainForm.menuStrip.searchToolStripMenuItem" type="Text">
             <![CDATA[&Szukaj]]>
+        </value>
+        <value id="mainForm.menuStrip.randomToolStripMenuItem" type="Text">
+            <![CDATA[&Losuj werset]]>
         </value>
         <value id="mainForm.menuStrip.settingsToolStripMenuItem" type="Text">
             <![CDATA[&Ustawienia]]>
@@ -114,6 +119,9 @@
         </value>
         <value id="mainForm.menuStrip.donationsToolStripMenuItem" type="Text">
             <![CDATA[Przekaż &darowiznę na program]]>
+        </value>
+        <value id="mainForm.menuStrip.webToolStripMenuItem" type="Text">
+            <![CDATA[&Otwórz wersję internetową]]>
         </value>
         <value id="mainForm.menuStrip.contactToolStripMenu" type="Text">
             <![CDATA[&Kontakt z autorem]]>

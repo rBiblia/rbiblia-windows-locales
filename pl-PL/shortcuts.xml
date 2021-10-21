@@ -33,6 +33,7 @@
         <key id="Ctrl+V">odczytaj zaznaczone wersety przez Narratora</key>
         <key id="Ctrl+H">odczytaj cały rozdział przez Narratora</key>
         <key id="Ctrl+S">zakończ pracę Narratora</key>
+        <key id="Ctrl+D">otwórz losowy werset</key>
         <key id="Home">pierwszy werset</key>
         <key id="End">ostatni werset</key>
         <key id="PageUp">skocz o 10 wersetów wstecz</key>
