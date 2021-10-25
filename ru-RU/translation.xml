@@ -14,6 +14,7 @@
         <value id="mainForm.navigatorToolStrip.searchToolStripButton" type="ToolTipText">Искать в активном переводе [Ctrl+F]</value>
         <value id="mainForm.navigatorToolStrip.addBookmarkToolStripButton" type="ToolTipText">Добавить выделенный стих в закладки [Ctrl+B]</value>
         <value id="mainForm.navigatorToolStrip.addNoteToolStripButton" type="ToolTipText">Добавить/изменить заметку к стиху [Ctrl+N]</value>
+        <value id="mainForm.navigatorToolStrip.randomToolStripButton" type="ToolTipText">Выбирает случайный стих в активном переводе [CTRL+D]</value>
         <value id="mainForm.navigatorToolStrip.propagateToolStripButton" type="ToolTipText">Перейти в это место во всех открытых переводах [Enter]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="Text">Работник достоин своей платы [1Тим 5:18]</value>
         <value id="mainForm.statusStrip.supportToolStripStatusLabel" type="ToolTipText">Пожертвовать небольшую сумму в знак благодарности за программу</value>
@@ -34,6 +35,9 @@
         </value>
         <value id="mainForm.menuStrip.searchToolStripMenuItem" type="Text">
             <![CDATA[&Искать]]>
+        </value>
+        <value id="mainForm.menuStrip.randomToolStripMenuItem" type="Text">
+            <![CDATA[&Выбрать случайный стих]]>
         </value>
         <value id="mainForm.menuStrip.settingsToolStripMenuItem" type="Text">
             <![CDATA[&Настройки]]>
@@ -115,6 +119,9 @@
         </value>
         <value id="mainForm.menuStrip.donationsToolStripMenuItem" type="Text">
             <![CDATA[Пожертвовать &деньги на программу]]>
+        </value>
+        <value id="mainForm.menuStrip.webToolStripMenuItem" type="Text">
+            <![CDATA[&Открыть веб-версию]]>
         </value>
         <value id="mainForm.menuStrip.contactToolStripMenu" type="Text">
             <![CDATA[&Контакт с автором]]>
