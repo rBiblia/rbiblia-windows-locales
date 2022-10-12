@@ -170,6 +170,7 @@
     </alias>
     <alias id="ecc" group="ot" name="Koheleta (Kaznodziei Salomona)">
         <short>koh</short>
+        <short>kaz</short>
         <short>ecc</short>
         <short>kazn</short>
         <short>koheleta</short>

@@ -99,6 +99,9 @@
         <value id="mainForm.menuStrip.cascadeToolStripMenuItem" type="Text">
             <![CDATA[&Kaskadowo]]>
         </value>
+        <value id="mainForm.menuStrip.adjustLayoutToolStripMenuItem" type="Text">
+            <![CDATA[&Dostosuj położenie automatycznie]]>
+        </value>
         <value id="mainForm.menuStrip.closeAllToolStripMenuItem" type="Text">
             <![CDATA[Zamknij &wszystkie]]>
         </value>
@@ -258,6 +261,9 @@
         </value>
         <value id="aboutForm.menuToolStrip.contactToolStripButton" type="Text">
             <![CDATA[&Kontakt]]>
+        </value>
+        <value id="aboutForm.previewRichTextBox.saveToolStripMenuItem" type="Text">
+            <![CDATA[&Zapisz zawartość do pliku]]>
         </value>
 
         <!-- aboutContactForm -->
@@ -762,5 +768,11 @@
         <value id="import_notes_form_open_dialog_title">Wczytaj notatki z pliku</value>
         <value id="import_notes_form_save_dialog_filename">rbiblia_notatki_{0}_{1}-{2}-{3}_{4}-{5}-{6}</value>
         <value id="import_notes_form_save_dialog_title">Zapisz wszystkie notatki do pliku</value>
+        <value id="about_preview_form_save_dialog_filter">Dokumenty (*.rtf)|*.rtf</value>
+        <value id="about_preview_form_save_dialog_title">Zapisz informacje do pliku</value>
+        <value id="about_preview_form_save_error_text">Nie można zapisać zawartości w podanej lokalizacji</value>
+        <value id="about_preview_form_save_error_title">Błąd podczas zapisu</value>
+        <value id="about_preview_form_save_text">Informacje zostały pomyśnie zapisane do pliku</value>
+        <value id="about_preview_form_save_title">Zapisano</value>
     </strings>
 </translation>
