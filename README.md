@@ -1,7 +1,7 @@
 rBiblia for Windows locales
 ===========================
 
-[![Build Status](https://travis-ci.org/rBiblia/rbiblia-windows-locales.svg?branch=master)](https://travis-ci.org/rBiblia/rbiblia-windows-locales)
+![linter](https://github.com/rBiblia/rbiblia-windows-locales/actions/workflows/lint.yaml/badge.svg)
 
 Localisation repository for [rBiblia](https://rbiblia.toborek.info) application.
 
@@ -28,7 +28,7 @@ Only two files are required to translate rBiblia's interface: `translation.xml` 
 
 If you have any questions, please do not hestitate to contact the author of this repository.
 
-You can drop me a line using dedicated [contact form](https://toborek.info/kontakt/) (please keep in mind that I can understand only Polish and English language).
+You can drop me a line using dedicated [contact form](https://kontakt.toborek.info) (please keep in mind that I can understand only Polish and English language).
 
 Please [support my work](https://rbiblia.toborek.info/donation/).
 
